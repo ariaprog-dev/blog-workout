@@ -41,7 +41,7 @@ const { title = "主要器具・サプリメント 徹底スペック比較", pr
 						{products.map((p, idx) => (
 							<td class={`td-cell ${idx === 0 ? 'highlight-col' : ''}`}>
 								{p.imageUrl ? (
-									<a href={p.url} target="_blank" rel="nofollow noopener noreferrer" class="img-link">
+									<a href={p.url} target="_blank" rel="sponsored noopener noreferrer" class="img-link">
 										<img src={p.imageUrl} alt={p.title} class="prod-thumb" loading="lazy" />
 									</a>
 								) : (
@@ -109,7 +109,7 @@ const { title = "主要器具・サプリメント 徹底スペック比較", pr
 						<td class="td-label">詳細リンク</td>
 						{products.map((p, idx) => (
 							<td class={`td-cell action-cell ${idx === 0 ? 'highlight-col' : ''}`}>
-								<a href={p.url} target="_blank" rel="nofollow noopener noreferrer" class="btn-compare-cta">
+								<a href={p.url} target="_blank" rel="sponsored noopener noreferrer" class="btn-compare-cta">
 									詳細・購入 ➔
 								</a>
 							</td>

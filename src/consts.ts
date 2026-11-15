@@ -2,7 +2,7 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = 'エビデンスで組む、最強宅トレ';
-export const SITE_DESCRIPTION = 'エビデンス（科学的根拠・論文）に基づいた自宅トレーニング解説、ホームジムの機材レビュー、ダンベルベンチプレス愛を語る筋トレ専門ブログ';
+export const SITE_DESCRIPTION = 'エビデンス（科学的根拠・論文）に基づいた自宅トレーニング解説、ホームジム機材のスペック比較・特徴分析に特化した筋トレ専門ブログ';
 
 // Google Analytics 4 測定ID
 export const PUBLIC_GA_TRACKING_ID = import.meta.env.PUBLIC_GA_TRACKING_ID || 'G-E1QCF12QSV';
