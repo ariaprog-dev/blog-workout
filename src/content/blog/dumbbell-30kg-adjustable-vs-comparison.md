@@ -57,10 +57,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DIROTEC%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25A2%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB60KG%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DIROTEC%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25A2%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB60KG%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIROTEC%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25A2%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB60KG%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIROTEC%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25A2%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB60KG%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -75,7 +75,7 @@ sidebarProducts:
 
 ### IROTEC（アイロテック）ラバーダンベル 60KG セット
 
-このモデルは、プレートの外周にラバーリングが装着されているのが最大の特徴です。床への衝撃やトレーニング時の音を和らげたい方におすすめです。
+このモデルは、プレートの外周にラバーリングが装着されているのが最大の特徴です。床への衝撃やトレーニング時の音を和らげたい方に適しています。
 
 | 項目 | 詳細 |
 | :--- | :--- |
@@ -109,17 +109,17 @@ sidebarProducts:
 
 これにより、床材のへこみや傷を防ぎ、集合住宅での騒音トラブルも軽減できるのです。
 
-さらに、この衝撃吸収は、意外な形で僕らの身体にも恩恵をもたらします。ダンベルを床に置く際や、デッドリフトのように床から持ち上げる際に発生する「ガツン」という衝撃は、手首や肘、肩関節に微細な負担をかける可能性があります。
+さらに、この衝撃吸収は、身体にも恩恵をもたらします。ダンベルを床に置く際や、デッドリフトのように床から持ち上げる際に発生する「ガツン」という衝撃は、手首や肘、肩関節に微細な負担をかける可能性があります。
 
 ラバープレートなら、この物理的な衝撃を和らげ、長期的な関節へのストレス軽減に貢献すると考えられます。
 
-僕は以前、アイアンプレートのダンベルを使っていた時期がありました。最初のうちは気にならなかったのですが、トレーニングに熱中するにつれて、プレート同士がぶつかる金属音や、床に置いたときの衝撃音が気になり始めたんです。
+アイアンプレートのダンベルを使用していると、トレーニングの進行に伴い、プレート同士がぶつかる金属音や、床に置いたときの衝撃音が気になる場合があります。
 
 特に夜間のトレーニングでは、音を抑えるために意識的にゆっくり置く必要があり、これが集中力を削ぐ一因にもなっていました。
 
 そこでラバーダンベルに切り替えたのですが、初日はラバーリングを一つ一つプレートに取り付ける作業に少し戸惑いましたね。数が多いので地味な作業ですが、一度つけてしまえば後は快適です。
 
-また、届いた直後はラバー特有の匂いが強かったので、数日間ベランダで換気して、その後は部屋の窓を開けて使用することで気にならなくなりました。この一手間をかけることで、トレーニング環境が劇的に快適になります。
+また、製品到着直後はラバー特有の匂いが強い場合があるため、数日間ベランダで換気し、その後は部屋の窓を開けて使用することで匂いが軽減されます。この対応により、トレーニング環境の快適性が向上します。
 
 ## 高重量を支える秘密：グリップと安全性の科学
 
@@ -173,7 +173,7 @@ sidebarProducts:
 
 *   <strong>コストを最大限に抑えたい方</strong>: トレーニング効果はそのままに、初期費用を節約したい方。
 *   <strong>一軒家や専用のトレーニングスペースがある方</strong>: 床へのダメージや騒音が、比較的気にならない環境の方。
-*   <strong>ラバー特有の匂いが苦手な方</strong>: 素材の匂いに敏感な方には、アイアンタイプがおすすめです。
+*   <strong>ラバー特有の匂いが苦手な方</strong>: 素材の匂いに敏感な方には、アイアンタイプが適しています。
 *   <strong>シンプルなギアを好む方</strong>: 余分な装飾がなく、純粋に「鉄」の重量感を求める方に。
 
 ## まとめ
@@ -200,3 +200,4 @@ A2: いずれの製品もスクリューカラーでプレートを固定する�
 A3: 片手30kgは、ほとんどの宅トレ種目において十分な高重量です。スクワットやデッドリフトのような下半身の種目、ダンベルプレス、ダンベルローイングといった上半身の主要種目にも対応できます。
 
 トレーニング経験者でも、この重量で全身を十分に追い込めるレベルと言えるでしょう。
+

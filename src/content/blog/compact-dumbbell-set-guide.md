@@ -11,7 +11,7 @@ faq:
   - question: 'ダンベルの重さはどう選べばいい？'
     answer: 'まずは軽い重量から始め、正しいフォームで15回〜20回程度行える重さを目安にしてください。筋力アップが目的なら、8〜12回が限界となる重量を選び、徐々に重さを増やしていく「漸進性過負荷」を意識しましょう。'
   - question: '可変式ダンベルと固定式ダンベル、どっちがいい？'
-    answer: 'スペースが限られている自宅で、様々な重量を使って本格的な筋力アップを目指すなら可変式ダンベルがおすすめです。一方、特定の目的（シェイプアップなど）で使う重量が決まっており、コストを抑えたい、シンプルな構造を求めるなら固定式ダンベルが良いでしょう。'
+    answer: 'スペースが限られている自宅で、様々な重量を使って本格的な筋力アップを目指すなら可変式ダンベルが適しています。一方、特定の目的（シェイプアップなど）で使う重量が決まっており、コストを抑えたい、シンプルな構造を求めるなら固定式ダンベルが適しています。'
   - question: '賃貸でもダンベル使って大丈夫？'
     answer: 'ダンベルを扱う際は、床への衝撃や騒音に配慮が必要です。厚手のトレーニングマットを敷く、フローリングに直接置かない、静かに動作するなどの対策を徹底しましょう。特に可変式ダンベルは重くなるため、専用のスタンドやマットを組み合わせると安心です。'
 sidebarProducts:
@@ -36,7 +36,7 @@ sidebarProducts:
 
 自宅での筋トレを始めたいけど、どのダンベルを選べばいいか分からない。そう悩む初心者の方は少なくありません。種類が多すぎて、どれが自分に合っているのか判断に迷ってしまいますよね。
 
-この記事では、僕自身の失敗談も踏まえながら、自宅で効率的にトレーニングを継続するための「コンパクトダンベル」の選び方を徹底解説します。あなたの目的に合った最適なダンベルを見つけて、理想の体づくりをスタートさせましょう。
+この記事では、自宅で効率的にトレーニングを継続するための「コンパクトダンベル」の選び方を徹底解説します。目的に合った最適なダンベルを見つけるための情報を提供します。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -55,10 +55,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%252080kg%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%252040kg%25C3%25972%25E5%2580%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%252080kg%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%252040kg%25C3%25972%25E5%2580%258B" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-80kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%252080kg%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%252040kg%25C3%25972%25E5%2580%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-80kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%252080kg%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%252040kg%25C3%25972%25E5%2580%258B" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -69,7 +69,7 @@ sidebarProducts:
 
 ## 宅トレ初心者がダンベル選びで失敗する3つの落とし穴
 
-僕も最初の頃は、ジムでの感覚で「頑張りたいから」と重すぎるダンベルを買ってしまい、肩を痛めかけた経験があります。結局、数回使って部屋の隅に追いやることに。これは多くの初心者が陥りがちな失敗です。
+初心者がダンベルを選ぶ際、ジムでの感覚で過度に重いものを選び、肩を痛めるケースが見られます。結果として使用頻度が低下し、部屋の隅に置かれることもあります。これは多くの初心者が陥りがちな失敗です。
 
 ### 1. 重すぎ or 軽すぎる重量選びの罠
 
@@ -119,7 +119,7 @@ sidebarProducts:
 
 ## 目的別！おすすめコンパクトダンベルはこれだ
 
-それでは、僕が実際に商品データを見て、初心者におすすめできるダンベルを紹介します。
+それでは、商品データに基づき、初心者に適しているダンベルを紹介します。
 
 ### まずは運動習慣をつけたいなら【WM FITNESS カラーダンベル】
 
@@ -184,8 +184,8 @@ WM FITNESSのカラーダンベルは、大人可愛いくすみカラーやポ�
 <strong>Q1: ダンベルの重さはどう選べばいい？</strong>
 A1: まずは軽い重量から始め、正しいフォームで15回〜20回程度行える重さを目安にしてください。筋力アップが目的なら、8〜12回が限界となる重量を選び、徐々に重さを増やしていく「漸進性過負荷」を意識しましょう。
 
-<strong>Q2: 可変式ダンベルと固定式ダンベル、どっちがいい？</strong>
-A2: スペースが限られている自宅で、様々な重量を使って本格的な筋力アップを目指すなら可変式ダンベルがおすすめです。一方、特定の目的（シェイプアップなど）で使う重量が決まっており、コストを抑えたい、シンプルな構造を求めるなら固定式ダンベルが良いでしょう。
+<strong>Q2: 可変式ダンベルと固定式ダンベル、どちらが適していますか？</strong>
+A2: スペースが限られている自宅で、様々な重量を使って本格的な筋力アップを目指すなら可変式ダンベルが適しています。一方、特定の目的（シェイプアップなど）で使う重量が決まっており、コストを抑えたい、シンプルな構造を求めるなら固定式ダンベルが適しています。
 
 <strong>Q3: 賃貸でもダンベル使って大丈夫？</strong>
 A3: ダンベルを扱う際は、床への衝撃や騒音に配慮が必要です。厚手のトレーニングマットを敷く、フローリングに直接置かない、静かに動作するなどの対策を徹底しましょう。
@@ -197,3 +197,4 @@ A3: ダンベルを扱う際は、床への衝撃や騒音に配慮が必要で�
 自宅でのトレーニングは、場所や時間の制約なく自分のペースで取り組める素晴らしい選択肢です。今回ご紹介したポイントを参考に、ご自身のトレーニング目的やライフスタイルに合ったコンパクトダンベルを選んでみてください。
 
 適切なダンベルを選び、トレーニングマットなどの補助アイテムを揃えれば、自宅が最高のジムになります。焦らず、楽しみながら、継続していくことが理想の体を手に入れる一番の近道です。
+

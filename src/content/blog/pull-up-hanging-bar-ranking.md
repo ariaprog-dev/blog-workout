@@ -14,7 +14,7 @@ faq:
   - question: 'ぶら下がり健康器と懸垂マシン（チンニングスタンド）の違いは何ですか？'
     answer: '従来の「ぶら下がり健康器」は単に体重を預けて背骨や肩甲骨をストレッチすることを主目的に設計されており、耐荷重が90kg〜100kg程度でフレームも細身でした。一方、現代の「懸垂マシン（チンニングスタンド）」は自重トレーニングや加重ディップスに耐えるため、耐荷重150kg〜180kgの肉厚極太スチールパイプ、大型土台（H型・ハの字型）、マルチグリップバー、肘パッドを備えており、激しい懸垂でもグラつかない剛性を誇ります。'
   - question: '賃貸マンションやフローリングの部屋でも床抜けや騒音の心配はありませんか？'
-    answer: '一般的な日本の住宅（建築基準法）の床積載荷重は約180kg/㎡以上確保されているため、マシン本体（約15〜25kg）＋体重（60〜80kg）の合計100kg前後であれば床抜けの心配はまずありません。ただし、懸垂や着地時の衝撃やパイプ角によるフローリングの凹み・傷を防止するため、厚さ10mm〜20mmの高硬度ジョイントEVAマット、またはトレーニング用防音ゴムマットをマシンの下に必ず敷くことを強く推奨します。'
+    answer: '一般的な日本の住宅（建築基準法）の床積載荷重は約180kg/㎡以上確保されているため、マシン本体（約15〜25kg）＋体重（60〜80kg）の合計100kg前後であれば床抜けの心配はまずありません。ただし、懸垂や着地時の衝撃やパイプ角によるフローリングの凹み・傷を防止するため、厚さ10mm〜20mmの高硬度ジョイントEVAマット、またはトレーニング用防音ゴムマットをマシンの下に必ず敷くことが推奨されます。'
   - question: '懸垂が1回もできない初心者でも懸垂マシンを買う価値はありますか？'
     answer: '絶大な価値があります。懸垂マシンがあれば、足元に踏み台を置いてジャンプし、トップポジションから3〜5秒かけてゆっくり身体を下ろす「ネガティブ懸垂（エキセントリック収縮）」や、足を床につけた状態で行う「斜め懸垂」、さらにはバーにゴムチューブを引っ掛けて体重を免荷する「アシスト懸垂」が自宅で毎日行えます。この段階的トレーニングにより、0回だった人でも数週間〜2ヶ月程度で自力懸垂ができるようになります。'
 sidebarProducts:
@@ -66,10 +66,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2587%25B8%25E5%259E%2582%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%2520%25E6%2587%25B8%25E5%259E%2582%25E5%2599%25A8%25E5%2585%25B7%2520%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2587%25B8%25E5%259E%2582%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%2520%25E6%2587%25B8%25E5%259E%2582%25E5%2599%25A8%25E5%2585%25B7%2520%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00ruxc1.ve2q542b.g00ruxc1.ve2q638b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwasai%2Fmk301%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwasai%2Fi%2F10000090%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2587%25B8%25E5%259E%2582%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%2520%25E6%2587%25B8%25E5%259E%2582%25E5%2599%25A8%25E5%2585%25B7%2520%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00ruxc1.ve2q542b.g00ruxc1.ve2q638b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwasai%2Fmk301%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwasai%2Fi%2F10000090%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2587%25B8%25E5%259E%2582%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%2520%25E6%2587%25B8%25E5%259E%2582%25E5%2599%25A8%25E5%2585%25B7%2520%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -106,7 +106,7 @@ sidebarProducts:
 
 さらに特許庁実用新案登録済みの<strong>「回転式ウエストパッド」</strong>を搭載。ハンギングレッグレイズを行う際、パッドを横にクルッと回転させることで、膝や大腿部がクッションに一切干渉しません。これにより、骨盤を胸元まで深く丸め込むフルレンジの可動域で腹直筋下部を限界まで追い込むことが可能です。
 
-価格は約14,990円とエントリーモデルよりやや高価ですが、面で地面を捉える大型脚カバー、10段階の高さ調節、安心の1年保証を兼ね備えており、後悔のない一生モノの宅トレ器具を手に入れたい方に最も推奨できる一台です。
+価格は約14,990円とエントリーモデルよりやや高価ですが、面で地面を捉える大型脚カバー、10段階の高さ調節、安心の1年保証を兼ね備えており、宅トレ器具として適した一台です。
 
 【製品基本スペック】
 | 項目 | 詳細スペック |
@@ -218,7 +218,7 @@ sidebarProducts:
 
 ## 導入初日のリアルな戸惑いと失敗防止の工夫
 
-筆者が初めて懸垂マシンを自宅に組み立てた際に直面したリアルな注意点を共有します。
+懸垂マシンを自宅に組み立てる際の注意点を共有します。
 
 1. <strong>ボルトの「仮組み」を徹底する</strong>:
    パーツを組み上げる際、最初から1箇所ずつボルトを本締め（ガチガチに締める）してしまうと、フレーム全体の歪みで最後の穴位置が合わなくなります。<strong>「全体のボルトを指で回る程度に仮留めし、平らな床に垂直に立たせてから対角線順に本締めする」</strong>ことで、ガタつきのない完璧な剛性が生まれます。
@@ -233,7 +233,7 @@ sidebarProducts:
 A1: ぶら下がり健康器はストレッチ主目的で耐荷重90〜100kg程度ですが、懸垂マシンは耐荷重150〜180kgの極太スチールパイプ、マルチグリップ、肘パッドを備え、激しい筋力トレーニングに耐えうる剛性を誇ります。
 
 <strong>Q2: 賃貸マンションやフローリングの部屋でも床抜けや騒音の心配はありませんか？</strong>  
-A2: 床の積載荷重（約180kg/㎡以上）から見て床抜けの心配はありません。ただし床の傷と着地振動を防ぐため、厚さ10〜20mmの高硬度EVAジョイントマットを敷くことを強く推奨します。
+A2: 床の積載荷重（約180kg/㎡以上）から見て床抜けの心配はありません。ただし床の傷と着地振動を防ぐため、厚さ10〜20mmの高硬度EVAジョイントマットを敷くことが推奨されます。
 
 <strong>Q3: 懸垂が1回もできない初心者でも懸垂マシンを買う価値はありますか？</strong>  
 A3: 絶大な価値があります。台を使って飛び上がりゆっくり下りる「ネガティブ懸垂」や、ゴムチューブによる「アシスト懸垂」を自宅で反復することで、数週間〜2ヶ月程度で誰でも自力懸垂ができるようになります。
@@ -243,3 +243,4 @@ A3: 絶大な価値があります。台を使って飛び上がりゆっくり�
 自宅に懸垂マシンが1台あるだけで、天候やジムの営業時間に縛られることなく、いつでも好きな時に背中と体幹を極限まで追い込める環境が手に入ります。
 
 揺るぎない安定性と使い勝手を備えた相棒を選び、日々の懸垂で自信に満ちた逆三角形の身体を作り上げていきましょう。
+

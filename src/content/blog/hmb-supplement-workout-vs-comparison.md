@@ -38,7 +38,7 @@ sidebarProducts:
 
 今回比較するのは、筋タンパク質の分解抑制と合成促進に寄与するとされる「HMBサプリメント」です。特に、楽天で高い評価を得ている『HMB MAX pro 432粒』と『ドラゴンマッスル HMB 360粒』の2製品を深掘りします。
 
-なぜHMBが宅トレの強い味方になるのか、そして、それぞれのサプリがあなたの目的にどう貢献するのかを、科学的視点と僕自身の体験を交えて解説していきます。
+HMBが宅トレに有効とされる理由、および各サプリメントが目的にどう貢献するかを、科学的視点から解説します。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -57,10 +57,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHMB%2520100%2520000mg%2520%25E8%2596%25AC%25E5%2589%25A4%25E5%25B8%25AB%25E7%259B%25A3%25E4%25BF%25AE%2520%25E6%2597%25A5%25E6%259C%25AC%25E8%25A3%25BD%252036%25E6%2597%25A5%25E5%2588%2586" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHMB%2520100%2520000mg%2520%25E8%2596%25AC%25E5%2589%25A4%25E5%25B8%25AB%25E7%259B%25A3%25E4%25BF%25AE%2520%25E6%2597%25A5%25E6%259C%25AC%25E8%25A3%25BD%252036%25E6%2597%25A5%25E5%2588%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00te151.ve2q5854.g00te151.ve2q6eca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarlabosupli%2F10000005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarlabosupli%2Fi%2F10000005%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHMB%2520100%2520000mg%2520%25E8%2596%25AC%25E5%2589%25A4%25E5%25B8%25AB%25E7%259B%25A3%25E4%25BF%25AE%2520%25E6%2597%25A5%25E6%259C%25AC%25E8%25A3%25BD%252036%25E6%2597%25A5%25E5%2588%2586" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00te151.ve2q5854.g00te151.ve2q6eca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarlabosupli%2F10000005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarlabosupli%2Fi%2F10000005%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHMB%2520100%2520000mg%2520%25E8%2596%25AC%25E5%2589%25A4%25E5%25B8%25AB%25E7%259B%25A3%25E4%25BF%25AE%2520%25E6%2597%25A5%25E6%259C%25AC%25E8%25A3%25BD%252036%25E6%2597%25A5%25E5%2588%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -101,7 +101,7 @@ HMBを摂取することで、トレーニング中の筋分解を最小限に�
 
 HMB MAX proは、その名の通りHMBカルシウムを主成分としたシンプルな設計が特徴です。余計な成分を配合せず、HMBの力を最大限に引き出すことに特化しています。1袋にHMBカルシウム110,000mgが配合され、1日12粒摂取した場合、約36日分と謳われています。
 
-僕も初めてHMBサプリを試した時、最初は粒の多さに少し戸惑いました。1日12粒は多く感じますが、朝と晩、トレーニング前後に6粒ずつ分けて飲むように工夫しました。
+HMBサプリの摂取粒数は1日12粒と多めに設定されている場合がある。朝と晩、トレーニング前後に6粒ずつ分けて摂取するなど、工夫して飲むことが推奨される。
 
 そうすることで、飲み忘れを防ぎ、継続しやすくなります。この商品はHMBカルシウム3,060mgを12粒で摂れるため、推奨摂取量である3gをしっかりとカバーできます。
 
@@ -123,7 +123,7 @@ HMB MAX proは、その名の通りHMBカルシウムを主成分としたシン
 
 例えば、クレアチンは瞬発的なパワー発揮を助け、高強度なトレーニングを継続する上で重要な役割を果たします。BCAAやEAAは、筋肉の材料となる必須アミノ酸であり、トレーニング中の筋分解をさらに抑制し、回復を早める効果が期待できます。
 
-これらの成分は、単体で摂取すると費用がかさむため、オールインワンで摂れるのは大きなメリットです。僕自身、複数のサプリを個別で揃える手間を省きたい時に、こうした複合タイプを選ぶことがあります。
+これらの成分は、単体で摂取すると費用がかさむため、オールインワンで摂れるのは大きなメリットです。複数のサプリメントを個別に用意する手間を省きたい場合に、複合タイプは選択肢の一つとなります。
 
 粒は少し大きめに感じましたが、飲み込む際に引っかかることもなく、匂いも特に気になりませんでした。
 
@@ -166,9 +166,9 @@ HMB MAX proは、HMBカルシウム以外の有効成分は含まれていませ
 
 HMB MAX proは、
 - <strong>「HMBの単独効果を実感したい人」</strong>
-- <strong>「すでに他のサプリを飲んでおり、成分の重複を避けたい人」</strong>
-- <strong>「とにかくコスパ重視でHMBを摂り入れたい人」</strong>
-におすすめです。特定の目的に特化したシンプルさが魅力です。
+- <strong>「すでに他のサプリを摂取しており、成分の重複を避けたい人」</strong>
+- <strong>「コストパフォーマンスを重視してHMBを摂取したい人」</strong>
+に適している。特定の目的に特化したシンプルな製品である。
 
 一方、ドラゴンマッスルは、
 - <strong>「HMBだけでなく、クレアチンやBCAAなど、様々な成分で筋トレ効果を総合的に高めたい人」</strong>
@@ -176,14 +176,14 @@ HMB MAX proは、
 - <strong>「停滞期を打破し、さらに上のレベルを目指したい人」</strong>
 に向いています。多角的なアプローチで、よりアグレッシブな宅トレをサポートしてくれるでしょう。
 
-## 僕の選び方：あなたの宅トレ目的に合わせたHMBサプリメント
+## 宅トレ目的に合わせたHMBサプリメントの選び方
 
 HMBサプリ選びは、あなたの現在のトレーニング状況や目標、そしてサプリメントに対する考え方によって変わってきます。
 
 <strong>純粋にHMBだけを効率よく摂りたいなら、HMB MAX proです。</strong>
 価格を抑えつつ、HMBの主要な効果である筋分解抑制と筋合成促進に集中してアプローチしたい人に最適です。
 
-僕も、HMBの効果だけをピンポイントで試したかった時期には、こういうシンプル設計の製品を選んでいました。他のサプリはプロテインだけで十分、という場合にも相性が良いでしょう。
+HMBの効果に特化して摂取したい場合、このようなシンプル設計の製品が選択肢となります。他のサプリメントはプロテインのみで十分と考える場合にも適しています。
 
 <strong>複数の成分で総合的にトレーニングをサポートしたいなら、ドラゴンマッスルが有力な選択肢です。</strong>
 クレアチンやBCAA、EAAなど、筋肥大や回復を強力に後押しする成分がバランス良く配合されています。
@@ -192,7 +192,7 @@ HMBサプリ選びは、あなたの現在のトレーニング状況や目標�
 
 どちらのHMBサプリも、品質やHMBの含有量については高い水準を満たしています。大切なのは、あなたの宅トレの目的と現在の状況に最もフィットする製品を選ぶことです。
 
-サプリメントは魔法の薬ではありませんが、日々のトレーニングと適切な栄養摂取を組み合わせることで、間違いなくあなたの努力を加速させてくれるでしょう。
+サプリメントは魔法の薬ではありませんが、日々のトレーニングと適切な栄養摂取を組み合わせることで、トレーニング効果の向上が期待できます。
 
 ### よくある質問
 
@@ -210,3 +210,4 @@ A2: HMB自体に直接的な脂肪増加作用はありません。HMBは筋タ�
 A3: はい、プロテインと一緒に摂ることは非常に効果的です。プロテインは筋肉の材料となるタンパク質を供給し、HMBはそのタンパク質の分解を抑え、合成を促進するという異なる役割を持っています。
 
 互いに補完し合う関係にあるため、トレーニング後にプロテインと一緒にHMBを摂取するのは、筋肥大を目指す上で理想的な組み合わせと言えます。
+
