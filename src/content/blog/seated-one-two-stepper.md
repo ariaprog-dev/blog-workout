@@ -5,8 +5,8 @@ pubDate: '2026-08-08'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/outlet-f/cabinet/cw/nishio/a33923_kago.jpg?_ex=600x600'
 genre: workout
 sidebarProducts:
-  - title: '座って安心ワンツーステッパーを導入すべき理由'
-    url: ''
+  - title: '座って安心ワンツーステッパー'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%BA%A7%E3%81%A3%E3%81%A6%E5%AE%89%E5%BF%83%E3%83%AF%E3%83%B3%E3%83%84%E3%83%BC%E3%82%B9%E3%83%86%E3%83%83%E3%83%91%E3%83%BC%2F'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/outlet-f/cabinet/cw/nishio/a33923_kago.jpg?_ex=600x600'
     microCopy: '詳細を見る'
 mediaType: 'machine'

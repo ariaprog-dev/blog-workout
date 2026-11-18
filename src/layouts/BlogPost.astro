@@ -39,8 +39,11 @@ const defaultProducts = [
 	}
 ];
 
-const rawProducts = sidebarProducts && sidebarProducts.length > 0
-	? sidebarProducts.slice(0, 3)
+const validSidebarProducts = (sidebarProducts || []).filter(
+	(p) => p && typeof p.url === 'string' && p.url.trim().length > 0
+);
+const rawProducts = validSidebarProducts.length > 0
+	? validSidebarProducts.slice(0, 3)
 	: defaultProducts;
 
 // 各商品に imageUrl が未指定の場合は heroImage または defaultProducts でフォールバック
@@ -1433,11 +1436,11 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 							<div class="author-info">
 								<div class="author-header">
 									<span class="author-label">WRITTEN BY</span>
-									<h4 class="author-name">宅トレ研究家｜最強宅トレ研究所</h4>
-									<span class="author-role">ホームジム機材・栄養成分データ分析</span>
+									<h4 class="author-name">宅トレ研究家（「最強宅トレ」管理人）</h4>
+									<span class="author-role">宅トレ歴5年（68→82kg）・機材＆栄養成分データ分析</span>
 								</div>
 								<p class="author-bio">
-									ダンベル・ベンチ等の筋トレ機材やサプリメントの公開仕様・原材料データ・運動生理学エビデンスを整理し、客観的な比較情報と選び方を発信しています。
+									宅トレ歴5年・体重68kgから82kg（+14kg）へ増量した実践経験（片手最大48kg可変式ダンベル・EZバー運用）をベースに、市販筋トレ機材やサプリメントの公開仕様・原材料データ・運動生理学エビデンスを客観的に検証しています。
 								</p>
 								<a href="/about/" class="author-link">
 									詳しいプロフィール・編集方針を見る ➔

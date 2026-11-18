@@ -5,8 +5,8 @@ pubDate: '2026-08-03'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f332020-kurashiki/cabinet/11950930/r_150-0190_0.jpg?_ex=600x600'
 genre: プロテイン
 sidebarProducts:
-  - title: 'VALX ホエイプロテイン サイズ・味比較'
-    url: ''
+  - title: 'VALX ホエイプロテイン 1kg / 420g'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVALX%20%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%2F'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f332020-kurashiki/cabinet/11950930/r_150-0190_0.jpg?_ex=600x600'
     microCopy: '詳細を見る'
 mediaType: protein
