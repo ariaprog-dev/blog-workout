@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で体を鍛えたいけれど、ジムに通う時間がない、スペースが限られている、あるいはトレーニングがマンネリ化して停滞期を感じている。
@@ -268,6 +267,11 @@ MERACHの緻密な設計は、特定の筋肉群への効率的な刺激、関�
 これにより、初心者から中級者まで、幅広いレベルのユーザーが、安全かつ効果的に目標達成へと進むための強力な味方となるでしょう。
 
 自宅でのトレーニング環境を充実させ、長期的な視点で自身の身体と向き合いたいと考える方にとって、MERACHは新たな可能性をもたらす可能性があります。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>MERACH スピンバイク フィットネスバイク</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMERACH%2520%25E3%2582%25B9%25E3%2583%2594%25E3%2583%25B3%25E3%2583%2590%25E3%2582%25A4%25E3%2582%25AF%2520%25E3%2583%2595%25E3%2582%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2583%258D%25E3%2582%25B9%25E3%2583%2590%25E3%2582%25A4%25E3%2582%25AF" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMERACH%20%E3%82%B9%E3%83%94%E3%83%B3%E3%83%90%E3%82%A4%E3%82%AF%20%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%83%90%E3%82%A4%E3%82%AF%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DMERACH%2520%25E3%2582%25B9%25E3%2583%2594%25E3%2583%25B3%25E3%2583%2590%25E3%2582%25A4%25E3%2582%25AF%2520%25E3%2583%2595%25E3%2582%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2583%258D%25E3%2582%25B9%25E3%2583%2590%25E3%2582%25A4%25E3%2582%25AF" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### よくある質問
 

@@ -21,7 +21,6 @@ sidebarProducts:
   price: 3960
   microCopy: 詳細を見る
 ---
-
 <strong>商品スペック</strong>
 
 | カテゴリ | 詳細 |
@@ -282,6 +281,11 @@ sidebarProducts:
 
 といったニーズを持っているなら、ミズノ ダンベルボールはあなたのための最適なスタート地点となる可能性を秘めています。この小さな一歩が、あなたの健康と理想の身体への大きな変化を促してくれることを願っています。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ミズノ公式 ダンベルボール ボルレッチ 2個入り</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259F%25E3%2582%25BA%25E3%2583%258E%25E5%2585%25AC%25E5%25BC%258F%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%2520%25E3%2583%259C%25E3%2583%25AB%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2581%25202%25E5%2580%258B%25E5%2585%25A5%25E3%2582%258A" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00s5hs1.ve2q5eb6.g00s5hs1.ve2q60c3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmizunoshop%2Fc3jhi90449%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmizunoshop%2Fi%2F10124368%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259F%25E3%2582%25BA%25E3%2583%258E%25E5%2585%25AC%25E5%25BC%258F%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%2520%25E3%2583%259C%25E3%2583%25AB%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2581%25202%25E5%2580%258B%25E5%2585%25A5%25E3%2582%258A" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: ミズノ ダンベルボールは、普通のダンベルとどう違うの？</strong>
@@ -301,4 +305,3 @@ A3: ダンベルボールは汎用性が高く、全身の様々な部位を鍛�
 例えば、スクワットやランジで下半身、アームカールやショルダープレスで上半身、プランクやロシアンツイストで体幹を鍛えられます。
 
 ボールの形状を活かして、プッシュアップの際にバランスを取ったり、片手で持って深層筋を刺激したりすることも可能です。ミズノの公式ウェブサイトやYouTubeなどで公開されているエクササイズ動画を参考にすると、より多くのトレーニングバリエーションを見つけることができます。
-

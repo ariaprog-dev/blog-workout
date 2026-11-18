@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅トレーニングの成果が伸び悩み、もっと効率的に筋肉をつけたいけれどジムへ行く時間がない――。そのような悩みを抱える宅トレ愛好家は少なくありません。自重トレーニングだけでは負荷の限界が訪れ、刺激のマンネリ化から「停滞期」に直面しがちです。
@@ -242,6 +241,11 @@ sidebarProducts:
 | 『停滞期打破』 (可変式ダンベル・バーベル用プレート) | ダンベル・バーベル両用、ラバーコーティングプレート、高強度スチールシャフト | 幅広い重量に調整可能（漸進性過負荷対応） | 省スペース（固定式複数個より） | 最新の販売価格は商品カードおよび公式ショップでご確認ください |
 | 一般的な固定式ダンベル（複数セット） | 各重量ごとに独立したダンベル、シンプルな構造 | 各ダンベルの重量に固定 | 多くのスペースが必要 | 重量・セット数により変動（数万円〜） |
 | ジムのフリーウェイト | 多様なマシン・フリーウェイトが利用可能、専門的な指導も | 非常に幅広い重量に調整可能 | 自宅での設置不要 | 月会費制（年間数万円〜十数万円） |
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ダンベル バーベル用 プレート</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25E7%2594%25A8%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%20%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%E7%94%A8%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25E7%2594%25A8%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### よくある質問
 

@@ -25,7 +25,6 @@ sidebarProducts:
   price: 3480
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -247,6 +246,11 @@ uFit Training Tubeは様々な使い方ができますが、特に効果的な�
 
 今日から、自宅でできる運動の可能性を広げ、健康で充実した毎日を送るための一歩を踏み出してみませんか。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>uFit Training Tube</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DuFit%2520Training%2520Tube" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00u04a1.ve2q5f88.g00u04a1.ve2q6f09/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fufit-shop%2Ftraining-tube%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fufit-shop%2Fi%2F10000006%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DuFit%2520Training%2520Tube" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: チューブだけで本当に筋肉はつきますか？</strong>
@@ -298,5 +302,3 @@ A3: uFit Training Tubeは、高品質な天然ラテックス素材で作られ�
 | 付属品 | グリップ2個、ドアアンカー1個、足首ストラップ2個、収納袋1個、日本語取扱説明書 |
 | 長さ | 約120cm（チューブ本体） |
 | 製造元 | uFit |
-
-

@@ -31,7 +31,6 @@ sidebarProducts:
     price: 1098
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 宅トレに励む皆さん、こんにちは！
@@ -111,6 +110,11 @@ sidebarProducts:
 | 販売ショップ | x-fitness |
 | レビュー評価 | 4.44 (59件) |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>【楽天ランキング1位】 パワーグリップ 本革 トレーニンググローブ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E6%259C%25AC%25E9%259D%25A9%2520%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2596" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%20%E6%9C%AC%E9%9D%A9%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E6%259C%25AC%25E9%259D%25A9%2520%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2596" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第2位：2枚1組 トレーニンググローブ 滑り止め手袋 防滑グローブ
 
 コスパと実用性を兼ね備えた、バランスの良いトレーニンググローブです。
@@ -142,6 +146,11 @@ sidebarProducts:
 | 販売ショップ | koala2020 |
 | レビュー評価 | 4.0 (1件) |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>2枚1組 トレーニンググローブ 滑り止め手袋 防滑グローブ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2%25E6%259E%259A1%25E7%25B5%2584%2520%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2596%2520%25E6%25BB%2591%25E3%2582%258A%25E6%25AD%25A2%25E3%2582%2581%25E6%2589%258B%25E8%25A2%258B" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00tqti1.ve2q5825.g00tqti1.ve2q6a4d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkoala2020%2Fox-gv-stn296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkoala2020%2Fi%2F10044660%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D2%25E6%259E%259A1%25E7%25B5%2584%2520%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2596%2520%25E6%25BB%2591%25E3%2582%258A%25E6%25AD%25A2%25E3%2582%2581%25E6%2589%258B%25E8%25A2%258B" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第3位：送料無料 トレーニンググローブ 指先なし 男女兼用
 
 指先なしタイプでありながら、手のひらから指の付け根まで広範囲に滑り止めが付いている点が特徴です。
@@ -171,6 +180,11 @@ sidebarProducts:
 | 価格 | 1,098円 |
 | 販売ショップ | Plus Nao |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>トレーニンググローブ 指先なし 男女兼用</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2596%2520%25E6%258C%2587%25E5%2585%2588%25E3%2581%25AA%25E3%2581%2597%2520%25E7%2594%25B7%25E5%25A5%25B3%25E5%2585%25BC%25E7%2594%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00qmha1.ve2q53a9.g00qmha1.ve2q65cc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplusnao%2Foth-85395%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplusnao%2Fi%2F10326188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2596%2520%25E6%258C%2587%25E5%2585%2588%25E3%2581%25AA%25E3%2581%2597%2520%25E7%2594%25B7%25E5%25A5%25B3%25E5%2585%25BC%25E7%2594%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第4位：送料無料 トレーニンググローブ 両手用 フィットネス スポーツ グローブ
 
 とにかく費用を抑えて、最低限の手のひら保護と滑り止め効果を得たいという方におすすめのグローブです。
@@ -198,6 +212,11 @@ sidebarProducts:
 | 価格 | 790円 |
 | 販売ショップ | motto-motto |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>トレーニンググローブ 両手用 フィットネス スポーツ グローブ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2596%2520%25E4%25B8%25A1%25E6%2589%258B%25E7%2594%25A8%2520%25E3%2583%2595%25E3%2582%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2583%258D%25E3%2582%25B9%2520%25E3%2582%25B9%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2584" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00to3j1.ve2q56d1.g00to3j1.ve2q6f56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmotto-motto%2Fgds-59005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmotto-motto%2Fi%2F10114382%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2596%2520%25E4%25B8%25A1%25E6%2589%258B%25E7%2594%25A8%2520%25E3%2583%2595%25E3%2582%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2583%258D%25E3%2582%25B9%2520%25E3%2582%25B9%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2584" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## よくある質問
 
 <strong>Q1: トレーニンググローブは必ず必要ですか？</strong>
@@ -224,4 +243,3 @@ A3: 素材によります。本革製は水洗いを避け、固く絞った布�
 トレーニンググローブは、あなたの宅トレライフをより快適で効果的なものに変えてくれる可能性を秘めています。自分のトレーニングレベルや目的、そして予算に合わせて、最適な一枚を選んでみてください。
 
 それぞれのグローブが持つ「設計思想」が、あなたの体と向き合う時間を、より豊かなものにしてくれるはずです。
-

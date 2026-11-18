@@ -33,7 +33,6 @@ sidebarProducts:
   price: 8480
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「背中の筋肉をしっかり鍛えたいけど、ジムに行く時間がない…」
@@ -177,6 +176,11 @@ sidebarProducts:
 
 ただし、ドア枠の材質や強度によっては取り付けできない場合があるので、事前に自宅のドア枠を確認してください。あくまでドア枠のみに取り付け可能で、壁や天井には使えません。ディップスなどの多機能性はありませんが、<strong>純粋にチンニングを試す入門機</strong>としては最適です。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>GronG 懸垂バー</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGronG%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%2590%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-777%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000832%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DGronG%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%2590%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### 2. 多機能で省スペースを求めるならこれ！
 
 チンニングだけでなく、ディップスやレッグレイズもしたいけど、あまり場所を取りたくないという方には、コンパクトな自立型マシンが良いでしょう。
@@ -193,6 +197,11 @@ sidebarProducts:
 このモデルは、<strong>コンパクトながらディップスとレッグレイズが可能</strong>な多機能性を備えています。幅<strong>66cm</strong>、奥行き<strong>71cm</strong>と、自立型の中ではかなり省スペース設計。本体重量も<strong>21kg</strong>と適度な重さがあり、安定性も悪くありません。
 
 高さ調整は<strong>約148cm〜202cm</strong>まで対応しているので、身長に合わせてチンニングバーの高さを調整できます。本格的なトレーニングだけでなく、ぶら下がりによるストレッチ目的にも使えますね。初期費用を抑えつつ、複数のトレーニングを自宅で行いたい初心者に適しています。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ぶら下がり健康器 ぶらさがり健康器</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8%2520%25E3%2581%25B6%25E3%2582%2589%25E3%2581%2595%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00ruxc1.ve2q542b.g00ruxc1.ve2q638b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwasai%2Fmk580a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwasai%2Fi%2F10000088%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8%2520%25E3%2581%25B6%25E3%2582%2589%25E3%2581%2595%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### 3. 安定性と多機能性をバランス良く求めるならこれ！
 
@@ -215,6 +224,11 @@ LEADING EDGEのチンニングスタンドは、<strong>意匠登録済みの多
 
 このモデルは、安定性と多機能性を備えています。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>LEADING EDGE 懸垂器具 チンニングスタンド</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DLEADING%2520EDGE%2520%25E6%2587%25B8%25E5%259E%2582%25E5%2599%25A8%25E5%2585%25B7%2520%25E3%2583%2581%25E3%2583%25B3%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00pjxl1.ve2q5c8f.g00pjxl1.ve2q69e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesports%2F6000000000711%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesports%2Fi%2F11566471%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DLEADING%2520EDGE%2520%25E6%2587%25B8%25E5%259E%2582%25E5%2599%25A8%25E5%2585%25B7%2520%25E3%2583%2581%25E3%2583%25B3%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### 4. 自宅に本格的なホームジムを作るならこれ！
 
 予算とスペースに余裕があり、ジムに通うのと同等かそれ以上の本格的なトレーニング環境を自宅に構築したい方には、ケーブルマシンとの複合機が究極の選択肢です。
@@ -235,6 +249,11 @@ BoDYLINKのケーブルクロスマシンは、<strong>業務用レベルのホ�
 ケーブルトレーニングは<strong>常に筋肉に負荷がかかり続ける「TUT（Time Under Tension）」を最大化できる</strong>点で、筋肥大に有効です。約<strong>300kg</strong>という圧倒的な重量と広大な設置面積（L140×W140×H223cm）は、自宅にジムを再現したいという強い意志がある人向け。
 
 設置場所の耐荷重や搬入経路の確認、そして<strong>高額な初期投資</strong>は割り切りが必要です。でも、これを導入すれば、自宅から最強の体を作り上げられますよ。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>BoDYLINK ケーブルクロスマシン ナロータイプ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBoDYLINK%2520%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%2596%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B9%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%2520%25E3%2583%258A%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%2597" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBoDYLINK%20%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9E%E3%82%B7%E3%83%B3%20%E3%83%8A%E3%83%AD%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBoDYLINK%2520%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%2596%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B9%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%2520%25E3%2583%258A%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%2597" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## チンニング効果を最大化する「初期の工夫」と「継続のコツ」
 
@@ -268,5 +287,3 @@ A3: 自立型の場合は、幅と奥行きの寸法を確認し、<strong>天�
 どちらのタイプも、床が平坦で滑りにくい場所を選び、集合住宅の場合は階下への騒音や振動にも配慮が必要です。
 
 チンニングマシンは、自宅で背中を鍛えるための強力なパートナーです。あなたのトレーニング目標や住環境、予算に合わせて最適な一台を選んで、理想のボディメイクを楽しんでください。
-
-

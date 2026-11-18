@@ -31,7 +31,6 @@ sidebarProducts:
     price: 1650
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「膝コロは楽にできるようになったけれど、立った状態で行う『立ちコロ』は負荷が高すぎて潰れてしまう」「戻る瞬間に腰がカクンと反って危険を感じた……」
@@ -141,6 +140,11 @@ sidebarProducts:
 
 この腹筋ローラーが、あなたの宅トレ生活をより豊かで効果的なものにするきっかけとなれば嬉しいです。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>＼楽天</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25EF%25BC%25BC%25E6%25A5%25BD%25E5%25A4%25A9" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00tpal1.ve2q5e45.g00tpal1.ve2q66ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftcconlineshop%2Fatyc_011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftcconlineshop%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25EF%25BC%25BC%25E6%25A5%25BD%25E5%25A4%25A9" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 従来の1輪・2輪タイプの腹筋ローラーと何が違うのですか？</strong>
@@ -155,4 +159,3 @@ A2: 初心者や中級者にとっては、安定したフォームでより多�
 A3: 組み立ては非常に簡単で、ハンドルを本体に差し込むだけで完了します。収納時もコンパクトになり、約幅20cm×奥行40cm程度のスペースがあれば収まります。
 
 重さも約2.35kgと軽量で、持ち運びや片付けも容易です。
-

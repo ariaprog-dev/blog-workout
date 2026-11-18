@@ -35,7 +35,6 @@ sidebarProducts:
     price: 11800
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「ジムに通う時間がない」「自宅でのトレーニングがマンネリ化してきた」「もっと効率的に腹筋を鍛えたい」といった悩みを抱える宅トレ愛好家の方に適しています。毎日自宅でトレーニングを続ける中で、いかに効率よく、そして継続できるかを常に考えています。
@@ -127,6 +126,11 @@ KiboerのEMS腹筋ベルトは、機能が豊富な分、他の製品と比べ�
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>温熱と光エステで深層部までアプローチ Kiboer</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B8%25A9%25E7%2586%25B1%25E3%2581%25A8%25E5%2585%2589%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2586%25E3%2581%25A7%25E6%25B7%25B1%25E5%25B1%25A4%25E9%2583%25A8%25E3%2581%25BE%25E3%2581%25A7%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%2520Kiboer" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B8%A9%E7%86%B1%E3%81%A8%E5%85%89%E3%82%A8%E3%82%B9%E3%83%86%E3%81%A7%E6%B7%B1%E5%B1%A4%E9%83%A8%E3%81%BE%E3%81%A7%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81%20Kiboer%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B8%25A9%25E7%2586%25B1%25E3%2581%25A8%25E5%2585%2589%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2586%25E3%2581%25A7%25E6%25B7%25B1%25E5%25B1%25A4%25E9%2583%25A8%25E3%2581%25BE%25E3%2581%25A7%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%2520Kiboer" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 2位: コスパと効果を両立！RELX リラクス 腹筋ベルト
 
 ### 8枚パッドで腹斜筋まで狙い撃ち
@@ -164,6 +168,11 @@ RELXのリラクスは、電極パッドを濡れた布で拭く、または肌�
 | レビュー評価 | 4.32 (1140件) |
 
 ---
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>コスパと効果を両立！RELX リラクス 腹筋ベルト</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 3位: 液晶表示で使いやすさ向上！ EMS 腹筋ベルト (K11P)
 
@@ -205,6 +214,11 @@ K11Pは、温熱や光エステといった付加機能は持ちませんが、<
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>液晶表示で使いやすさ向上！ EMS 腹筋ベルト (K11P)</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B6%25B2%25E6%2599%25B6%25E8%25A1%25A8%25E7%25A4%25BA%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2584%25E3%2582%2584%25E3%2581%2599%25E3%2581%2595%25E5%2590%2591%25E4%25B8%258A%2520EMS%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00tske1.ve2q5bce.g00tske1.ve2q691b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frise0828%2Fb1k10fjhu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frise0828%2Fi%2F10000056%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B6%25B2%25E6%2599%25B6%25E8%25A1%25A8%25E7%25A4%25BA%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2584%25E3%2582%2584%25E3%2581%2599%25E3%2581%2595%25E5%2590%2591%25E4%25B8%258A%2520EMS%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 4位: 自由な装着感が魅力！MYTREX エンジェル
 
 ### 貼るタイプでピンポイントにアプローチ
@@ -238,6 +252,11 @@ MYTREXは美容・健康機器の分野で知名度のあるブランドであ�
 | レビュー評価 | 4.32 (1909件) |
 
 ---
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>自由な装着感が魅力！MYTREX エンジェル</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%2587%25AA%25E7%2594%25B1%25E3%2581%25AA%25E8%25A3%2585%25E7%259D%2580%25E6%2584%259F%25E3%2581%258C%25E9%25AD%2585%25E5%258A%259B%2520MYTREX%2520%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%87%AA%E7%94%B1%E3%81%AA%E8%A3%85%E7%9D%80%E6%84%9F%E3%81%8C%E9%AD%85%E5%8A%9B%20MYTREX%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%2587%25AA%25E7%2594%25B1%25E3%2581%25AA%25E8%25A3%2585%25E7%259D%2580%25E6%2584%259F%25E3%2581%258C%25E9%25AD%2585%25E5%258A%259B%2520MYTREX%2520%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## まとめ：あなたの宅トレを格上げするEMS選び
 
@@ -273,4 +292,3 @@ A3: 一般的に、1回15〜20分程度の使用を1日1〜2回が推奨され�
 使用時間帯に特別な制限はありませんが、<strong>トレーニングの前後や、入浴後のリラックスタイム</strong>に使うと、血行が促進されてより効果を感じやすい場合があります。ただし、就寝直前は体が興奮状態になり、入眠を妨げる可能性があるので避けるのが無難です。
 
 必ず製品の取扱説明書を確認し、記載されている使用方法を守りましょう。
-

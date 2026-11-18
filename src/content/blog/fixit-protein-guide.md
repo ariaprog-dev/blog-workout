@@ -31,7 +31,6 @@ sidebarProducts:
     price: 6980
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 宅トレを始めたばかりの場合、プロテイン選びは最初の課題となることがあります。市場には数えきれないほどのプロテインがあり、「どれを選べばいいか分からない」「失敗したくない」と悩むのは当然のことです。
@@ -143,6 +142,11 @@ FIXITプロテインの大きな魅力の一つは、「人工甘味料不使用
 
 FEEL NATURAL グラスフェッドホエイプロテイン 1kg（ココア/抹茶）
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>手軽に始めたいWPC派におすすめ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2589%258B%25E8%25BB%25BD%25E3%2581%25AB%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%25E3%2581%2584WPC%25E6%25B4%25BE" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%89%8B%E8%BB%BD%E3%81%AB%E5%A7%8B%E3%82%81%E3%81%9F%E3%81%84WPC%E6%B4%BE%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2589%258B%25E8%25BB%25BD%25E3%2581%25AB%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%25E3%2581%2584WPC%25E6%25B4%25BE" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### お腹が弱い、純粋さを求める本格派はWPI一択
 
 乳糖不耐症の方や、極限まで脂質・糖質をカットしたいストイックなトレーニーには、高純度のWPIプロテインが最適です。
@@ -160,6 +164,11 @@ THINK SIMPLE WPIは、乳糖がほとんど除去されているため、牛乳�
 タンパク質純度が高い分、1食あたり約25gのタンパク質を無駄なく摂取でき、日々のタンパク質目標達成を強力に後押しします。
 
 THINK SIMPLE WPI ホエイプロテイン 1kg（プレーン）
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>お腹が弱い、純粋さを求める本格派はWPI一択</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%258A%25E8%2585%25B9%25E3%2581%258C%25E5%25BC%25B1%25E3%2581%2584%2520%25E7%25B4%2594%25E7%25B2%258B%25E3%2581%2595%25E3%2582%2592%25E6%25B1%2582%25E3%2582%2581%25E3%2582%258B%25E6%259C%25AC%25E6%25A0%25BC%25E6%25B4%25BE%25E3%2581%25AFWPI%25E4%25B8%2580%25E6%258A%259E" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%81%8A%E8%85%B9%E3%81%8C%E5%BC%B1%E3%81%84%20%E7%B4%94%E7%B2%8B%E3%81%95%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E6%9C%AC%E6%A0%BC%E6%B4%BE%E3%81%AFWPI%E4%B8%80%E6%8A%9E%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%258A%25E8%2585%25B9%25E3%2581%258C%25E5%25BC%25B1%25E3%2581%2584%2520%25E7%25B4%2594%25E7%25B2%258B%25E3%2581%2595%25E3%2582%2592%25E6%25B1%2582%25E3%2582%2581%25E3%2582%258B%25E6%259C%25AC%25E6%25A0%25BC%25E6%25B4%25BE%25E3%2581%25AFWPI%25E4%25B8%2580%25E6%258A%259E" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### ダイエット中の味方！満腹感重視ならソイプロテイン
 
@@ -179,6 +188,11 @@ MAKE BALANCEのソイプロテインは、ゆっくりと消化吸収される�
 
 MAKE BALANCE ソイプロテイン 1kg（ココア/カフェラテ/抹茶）
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ソイプロテイン</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%2520%25E5%25A5%25B3%25E6%2580%25A7%25201kg%2520%25E3%2582%25BD%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%2520%25E5%25A4%25A7%25E8%25B1%2586%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00rkiy1.ve2q5830.g00rkiy1.ve2q6194/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimport-garden%2Fmakebalance%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimport-garden%2Fi%2F10002802%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%2520%25E5%25A5%25B3%25E6%2580%25A7%25201kg%2520%25E3%2582%25BD%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%2520%25E5%25A4%25A7%25E8%25B1%2586%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### 究極の無添加・料理にも使いたいならプレーン味のWPCも
 
 | 項目 | 詳細 |
@@ -192,6 +206,11 @@ MAKE BALANCE ソイプロテイン 1kg（ココア/カフェラテ/抹茶）
 フレーバー付きも良いですが、究極の無添加を求めるなら、FEEL NATURALのプレーン味WPCも素晴らしい選択肢です。余計なものを一切加えず、純粋なグラスフェッドホエイタンパク質のみを摂取できます。
 
 プレーン味なので、スムージーに入れたり、ヨーグルトに混ぜたり、プロテインクッキーの材料にしたりと、料理への応用が無限大です。日々の食事に自然にタンパク質を加えたい方に最適な選択肢と言えます。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>プレーン味のWPCも</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25B3%25E5%2591%25B3%25E3%2581%25AEWPC%25E3%2582%2582" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AC%E3%83%BC%E3%83%B3%E5%91%B3%E3%81%AEWPC%E3%82%82%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25B3%25E5%2591%25B3%25E3%2581%25AEWPC%25E3%2582%2582" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## プロテインデビューを成功させるための準備と心構え
 
@@ -223,4 +242,3 @@ A3: 最も効果的とされるのは、トレーニング後の30分〜1時間�
 ---
 
 FIXITプロテインは、質の高い原材料と人工甘味料不使用といったこだわりが魅力です。本稿で紹介した選び方を参考に、宅トレに適した製品を見つけることができます。
-

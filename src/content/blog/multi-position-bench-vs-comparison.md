@@ -38,7 +38,6 @@ sidebarProducts:
     price: 6580
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅でダンベルを使ったトレーニングを始めた人が、誰もが直面する「最初の壁」があります。それは、床の上で寝転がって行うフロアダンベルプレスでは、<strong>「肘が床に当たって大胸筋がフルストレッチされない」</strong>という運動力学上の致命的な限界です。
@@ -125,6 +124,11 @@ LE-B80シリーズはこの課題を解決するため、背もたれ中央付�
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>LEADING EDGE LE-B80シリーズ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DLEADING%2520EDGE%2520LE-B80%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLEADING%20EDGE%20LE-B80%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DLEADING%2520EDGE%2520LE-B80%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 3. IROTEC マルチポジションベンチ：全身を鍛え上げるアタッチメント拡張性
 
 ### 脚トレと腕トレまで完全網羅するホームジムの中核マシン
@@ -146,6 +150,11 @@ IROTECの最大の特徴は、単なるダンベル用ベンチにとどまら�
 | <strong>おすすめ対象</strong> | 部屋の固定スペースをホームジム化し、脚や腕までマシン種目で追い込みたい方 |
 
 ---
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>IROTEC マルチポジションベンチ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DIROTEC%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%259D%25E3%2582%25B8%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00poaw1.ve2q565e.g00poaw1.ve2q6fea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesportskenko%2F9651513090034%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesportskenko%2Fi%2F10733973%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIROTEC%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%259D%25E3%2582%25B8%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 4. 【方式別客観比較表】折りたたみ3点支持 vs アタッチメント拡張 vs 3WAY格安ベンチ
 
@@ -209,4 +218,3 @@ A3: オーバースペックではありません。片手30kgずつのダンベ
 自宅に信頼できるマルチポジションベンチが1台加わるだけで、これまでのダンベルトレーニングの効き目が劇的に変わり、胸や肩の筋肥大スピードが目に見えて加速します。
 
 自分のトレーニング目標と部屋のスペースに最適な一台を選び、理想のホームジム環境で最高のワークアウトを体感してください。
-

@@ -21,7 +21,6 @@ sidebarProducts:
     price: 7578
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -122,6 +121,11 @@ Optimum NutritionのGold Standard Pre-Workoutは、特に以下のような人�
 
 また、効果を早く得たいからといって、推奨摂取量を超えて飲むのは絶対に避けてください。過剰摂取は健康を害する恐れがあります。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ゴールドスタンダード プレワークアウト iHerb 公式</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2589%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%2520iHerb%2520%25E5%2585%25AC%25E5%25BC%258F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00u5mk1.ve2q540b.g00u5mk1.ve2q6f3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiherb-official%2F116766%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiherb-official%2Fi%2F10010143%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2589%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%2520iHerb%2520%25E5%2585%25AC%25E5%25BC%258F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 初めてプレワークアウトを飲むのですが、何か注意することはありますか？</strong>
@@ -140,4 +144,3 @@ Optimum NutritionのGold Standard Pre-Workoutは、トレーニングへの集�
 サプリメントの習慣化において、味の良さは重要な要素です。信頼できるブランドの高品質なプレワークアウトを導入することは、日々のボディメイクを効率的に継続するための有効な手段となり得ます。
 
 トレーニングのマンネリを打破したい人や、もっと追い込みたいと感じている人には、選択肢です。
-

@@ -1121,6 +1121,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 					width: 100%;
 					box-sizing: border-box;
 				}
+			}
 			/* 読書進捗バー（スクロールインジケーター） */
 			.reading-progress-bar {
 				position: fixed;
@@ -1455,6 +1456,42 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 											<div class="faq-answer">{item.answer}</div>
 										</details>
 									))}
+								</div>
+							</section>
+						)}
+
+						<!-- モバイル用関連商品表示セクション（読後離脱前に配置） -->
+						{products && products.length > 0 && (
+							<section class="mobile-related-products" aria-label="紹介・関連アイテム">
+								<h3 class="mobile-section-title">紹介・関連アイテム</h3>
+								<div class="mobile-products-grid">
+									{products.map((prod) => {
+										const isRakuten = prod.url && prod.url.includes('rakuten');
+										return (
+											<div class="mobile-product-card">
+												<span class="ad-label">PR</span>
+												{prod.imageUrl && (
+													<a href={prod.url} target="_blank" rel="sponsored noopener noreferrer" class="mobile-product-image-link">
+														<img src={prod.imageUrl} alt={prod.title} class="mobile-product-image" loading="lazy" />
+													</a>
+												)}
+												<div class="mobile-product-info">
+													<span class={`mobile-platform-badge ${isRakuten ? 'mobile-platform-rakuten' : 'mobile-platform-dmm'}`}>
+														{isRakuten ? '楽天市場' : 'ショップ公式'}
+													</span>
+													<a href={prod.url} target="_blank" rel="sponsored noopener noreferrer" class="mobile-product-title-link">
+														{prod.title}
+													</a>
+													{prod.price && (
+														<div class="mobile-product-price">{prod.price.toLocaleString()}円</div>
+													)}
+													<a href={prod.url} target="_blank" rel="sponsored noopener noreferrer" class="mobile-banner-button">
+														{prod.microCopy || '詳細を見る'}
+													</a>
+												</div>
+											</div>
+										);
+									})}
 								</div>
 							</section>
 						)}

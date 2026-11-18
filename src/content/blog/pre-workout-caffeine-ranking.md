@@ -31,7 +31,6 @@ sidebarProducts:
     price: 2882
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 宅トレでマンネリや停滞を感じる時、もう一歩踏み込みたい時にプレワークアウトは心強い味方です。特にカフェインは、集中力とパフォーマンスを大きく引き上げる重要な成分。でも、ただカフェインを摂れば良いわけではありません。
@@ -131,6 +130,11 @@ sidebarProducts:
 <strong>対策</strong>:
 初めて飲む際は、推奨量の2/3程度（約7g）から少量ずつ試してみるのが適しています。水量を多めにすることで、刺激を和らげることもできます。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ビーレジェンド エナギル プレワークアウト 元気ドリンク風味</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2593%25E3%2583%25BC%25E3%2583%25AC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2582%25A8%25E3%2583%258A%25E3%2582%25AE%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%93%E3%83%BC%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%89%20%E3%82%A8%E3%83%8A%E3%82%AE%E3%83%AB%20%E3%83%97%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2593%25E3%2583%25BC%25E3%2583%25AC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2582%25A8%25E3%2583%258A%25E3%2582%25AE%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## プレワークアウト カフェインおすすめランキング 第2位
 
 ### ザカース オレンジマンゴー 250g（8.8oz） 50回分 JNX SPORTS
@@ -157,6 +161,11 @@ JNX SPORTSの「ザカース」は、そのネーミングからしてインパ�
 <strong>対策</strong>:
 購入前にアレルゲン情報を必ず確認し、自分の体質に合うかを見極めましょう。初回の摂取は少量から始め、体の反応を確認するのが賢明です。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ザカース オレンジマンゴー 250g 50回分 JNX</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B6%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25B9%2520%25E3%2582%25AA%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%2520250g%252050%25E5%259B%259E%25E5%2588%2586%2520JNX" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00t6u91.ve2q5cac.g00t6u91.ve2q6678/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwomensfitness%2Fjx-64491%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwomensfitness%2Fi%2F10004539%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B6%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25B9%2520%25E3%2582%25AA%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%2520250g%252050%25E5%259B%259E%25E5%2588%2586%2520JNX" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## プレワークアウト カフェインおすすめランキング 第3位
 
 ### ProSupps ミスターハイド プレワークアウト ブルーラズ味 216g
@@ -181,6 +190,11 @@ ProSuppsのミスターハイドは、非常に多角的なアプローチでト
 
 <strong>対策</strong>:
 初めて使用する際は、添付スプーン1/3程度から開始し、体の反応を慎重に観察してください。カフェイン総量が不明なため、他のカフェイン含有食品との併用は避けるべきです。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ProSupps ミスターハイド プレワークアウト</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DProSupps%2520%25E3%2583%259F%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%258F%25E3%2582%25A4%25E3%2583%2589%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00u5mk1.ve2q540b.g00u5mk1.ve2q6f3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiherb-official%2F87246%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiherb-official%2Fi%2F10007688%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DProSupps%2520%25E3%2583%259F%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%258F%25E3%2582%25A4%25E3%2583%2589%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## プレワークアウト カフェインおすすめランキング 第4位
 
@@ -209,6 +223,11 @@ JNX Sportsは「世界から言い訳を無くす」をミッションに掲げ�
 <strong>対策</strong>:
 本格的にプレワークアウトを習慣にしたい場合は、大容量タイプを検討した方がコスパは良いでしょう。成分詳細については、販売サイトの画像やメーカー公式サイトで念入りに確認してください。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ザ カース プレワークアウト ダークグレープ味 150g</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B6%2520%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25B9%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%2520%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2597%25E5%2591%25B3%2520150g" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00t6u91.ve2q5cac.g00t6u91.ve2q6678/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwomensfitness%2Fjx-60015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwomensfitness%2Fi%2F10024964%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B6%2520%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25B9%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%2520%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2597%25E5%2591%25B3%2520150g" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## まとめ｜自分に合ったプレワークアウトを見つけるために
 
 今回のランキングでは、カフェインを軸にしたプレワークアウトを紹介しました。どの製品も、宅トレの集中力とパフォーマンスを高めるために役立つでしょう。しかし、最適な選択は個人のカフェイン耐性、トレーニングの目的、そして継続性にかかっています。
@@ -236,4 +255,3 @@ A2: 多くのプレワークアウトに含まれるカフェインは、摂取�
 A3: 多くのプレワークアウトに含まれるベータアラニンが原因で、肌がピリピリする感覚（アラニンフラッシュ）を感じることがあります。これは皮膚の神経終末が一時的に活性化される生理現象であり、身体に害はありません。
 
 しばらくすると収まることがほとんどですが、気になる場合は摂取量を減らしたり、食事と一緒に摂ることで和らげることができます。
-

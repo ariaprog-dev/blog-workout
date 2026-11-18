@@ -35,7 +35,6 @@ sidebarProducts:
     price: 10850
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅での背中トレーニング、<strong>「チンニングだけだと広背筋の刺激が偏る」</strong>と感じていませんか。同様の課題に対し、様々なアタッチメントが試されています。特に広背筋の下部や外側への意識が難しいですよね。
@@ -90,6 +89,11 @@ sidebarProducts:
 | 価格 | 10,880円 |
 | 販売ショップ | miha雑貨 |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ラットプルダウンバー 116cm ストレートバー（miha雑貨）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2597%25E3%2583%25AB%25E3%2583%2580%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2590%25E3%2583%25BC%2520116cm%2520%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2590%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00uxt01.ve2q5247.g00uxt01.ve2q64d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseadiary%2Fsea-20260829-2614%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseadiary%2Fi%2F10003892%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2597%25E3%2583%25AB%25E3%2583%2580%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2590%25E3%2583%25BC%2520116cm%2520%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2590%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### ラットプルダウンバー 116cm ストレートバー（Seadiary 楽天市場店）
 
 こちらも全く同じスペックのラットプルダウンバーです。広背筋へのアプローチを深めたい宅トレ愛好家にとって、非常に有効なツールとなります。
@@ -100,6 +104,11 @@ sidebarProducts:
 | :--- | :--- |
 | 価格 | 10,880円 |
 | 販売ショップ | Seadiary 楽天市場店 |
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ラットプルダウンバー 116cm ストレートバー</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2597%25E3%2583%25AB%25E3%2583%2580%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2590%25E3%2583%25BC%2520116cm%2520%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2590%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00ulxp1.ve2q53a2.g00ulxp1.ve2q6c02/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbsmarket77%2Fb0fcfk5t1y-bmkvdnsaz%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbsmarket77%2Fi%2F10152692%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2597%25E3%2583%25AB%25E3%2583%2580%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2590%25E3%2583%25BC%2520116cm%2520%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2590%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 一見同じ商品、どこで選ぶ？宅トレ環境に合わせた比較ポイント
 
@@ -175,4 +184,3 @@ A2: チンニングは自重がベースですが、ラットプルダウンは<
 
 <strong>Q3: 複数ショップで同じ商品が販売されていますが、どれを選べば良いですか？</strong>
 A3: 商品のスペック自体は同じなので、<strong>購入するショップの信頼性、配送スピード、ポイント還元率</strong>が主な判断基準になります。楽天のレビューやショップ評価を確認し、ご自身の購入条件（例: 急ぎで欲しい、ポイントを多く貯めたいなど）に合ったショップを選びましょう。
-

@@ -24,7 +24,6 @@ sidebarProducts:
     price: 11980
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で本格的な背中や腕のトレーニングを始めたいけれど、場所や費用の問題で一歩踏み出せない人もいるはずです。そんな悩みを解決してくれるのが、今回ご紹介するWASAIの懸垂マシン、MK301YLです。
@@ -136,6 +135,11 @@ WASAI MK301YLは、自宅で本格的なトレーニング環境を構築した�
 
 このマシンを導入することで、自宅でのトレーニングを充実させることが可能です。もうジムへ行くための億劫な準備も、移動時間も必要ありません。トレーニング目標達成のために、WASAI MK301YLは有効な選択肢となり得ます。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>■9 11迄 最大600円OFF■ ぶら下がり健康器</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E2%2596%25A09%252011%25E8%25BF%2584%2520%25E6%259C%2580%25E5%25A4%25A7600%25E5%2586%2586OFF%25E2%2596%25A0%2520%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00sc6q1.ve2q582b.g00sc6q1.ve2q647c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarketjapan%2Fbw-bls05%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarketjapan%2Fi%2F10001338%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E2%2596%25A09%252011%25E8%25BF%2584%2520%25E6%259C%2580%25E5%25A4%25A7600%25E5%2586%2586OFF%25E2%2596%25A0%2520%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 組み立ては難しいですか？</strong>
@@ -146,4 +150,3 @@ A2: 八字型フレームと2点支柱構造により、一般的な家庭用懸
 
 <strong>Q3: 設置する場所の高さが足りない場合でも使えますか？</strong>
 A3: 本製品は163cmから203cmまで10段階で高さ調整が可能です。設置場所の天井高に合わせて、無理のない範囲で調整できます。高身長の方でも膝を軽く曲げてトレーニングできる設計です。
-

@@ -21,7 +21,6 @@ sidebarProducts:
   price: 8800
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 デッドリフトやチンニングといったプル系種目で、もっと高重量を扱いたいのに、先に握力が尽きてしまい、肝心の背筋群を十分に追い込みきれない――。そんなもどかしい悩みを抱える宅トレ愛好家の方は少なくないでしょう。
@@ -222,6 +221,11 @@ GOLD'S GYM パワーグリップ プロ G3710は、まさにこのゴールド�
 G3710を導入することで、デッドリフトの重量が伸び、背中の厚みが増すことが期待できます。これは、握力の制限から解放され、広背筋の収縮と伸展に集中できるためです。
 
 GOLD'S GYM パワーグリップ プロ G3710は、宅トレを次のレベルへと押し上げ、自宅での健康と理想の身体づくりをサポートするパートナーとなることが期待されます。この選択が、トレーニングライフに変化をもたらすことが期待されます。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>GOLDS GYM パワーグリップ プロ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGOLDS%2520GYM%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2597%25E3%2583%25AD" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGOLDS%20GYM%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%97%E3%83%AD%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DGOLDS%2520GYM%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2597%25E3%2583%25AD" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### よくある質問
 

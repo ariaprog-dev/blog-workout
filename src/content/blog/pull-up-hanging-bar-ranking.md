@@ -34,7 +34,6 @@ sidebarProducts:
     price: 11980
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 男らしい広い逆三角形の背中（広背筋・大円筋）や、逞しく盛り上がった力こぶ（上腕二頭筋）。これらを自宅で鍛え上げようとした時、ダンベルや腕立て伏せだけではどうしても<strong>「自重を垂直に引き上げる（プル系）運動」</strong>が不足してしまいます。
@@ -119,6 +118,11 @@ sidebarProducts:
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>STEADY ST115 — 独自の設計で広背筋と腹筋を極める</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSTEADY%2520ST115%2520%25E2%2580%2594" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSTEADY%20ST115%20%E2%80%94%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DSTEADY%2520ST115%2520%25E2%2580%2594" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 【ランキング第2位】WASAI MK301YL — 1万円以下の圧倒的コスパと省スペース
 
 ### 余分な装飾を削ぎ落とした質実剛健！意匠登録取得の定番マシン
@@ -142,6 +146,11 @@ sidebarProducts:
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>WASAI MK301YL — 1万円以下の圧倒的コスパと省スペース</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWASAI%2520MK301YL%2520%25E2%2580%2594%25201%25E4%25B8%2587%25E5%2586%2586%25E4%25BB%25A5%25E4%25B8%258B%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWASAI%20MK301YL%20%E2%80%94%201%E4%B8%87%E5%86%86%E4%BB%A5%E4%B8%8B%E3%81%AE%E5%9C%A7%E5%80%92%E7%9A%84%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DWASAI%2520MK301YL%2520%25E2%2580%2594%25201%25E4%25B8%2587%25E5%2586%2586%25E4%25BB%25A5%25E4%25B8%258B%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 【ランキング第3位】八の字型大吸盤 懸垂マシン（耐荷重180kg）
 
 ### 接地面積を最大化するハの字土台！加重トレーニングにも耐えうるヘビー級
@@ -162,6 +171,11 @@ sidebarProducts:
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>八の字型大吸盤 懸垂マシン（耐荷重180kg）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2585%25AB%25E3%2581%25AE%25E5%25AD%2597%25E5%259E%258B%25E5%25A4%25A7%25E5%2590%25B8%25E7%259B%25A4%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00ruxc1.ve2q542b.g00ruxc1.ve2q638b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwasai%2Fmk301%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwasai%2Fi%2F10000090%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%2585%25AB%25E3%2581%25AE%25E5%25AD%2597%25E5%259E%258B%25E5%25A4%25A7%25E5%2590%25B8%25E7%259B%25A4%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 【ランキング第4位】改良モデル 多機能ぶら下がり健康器（YouTen）
 
 ### π字土台と2点固定支柱！日々の改良で進化を続けるオールラウンダー
@@ -181,6 +195,11 @@ sidebarProducts:
 | <strong>おすすめ対象</strong> | 家族全員でストレッチから筋トレまで多目的に使いたい方 |
 
 ---
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>改良モデル 多機能ぶら下がり健康器（YouTen）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2594%25B9%25E8%2589%25AF%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%2520%25E5%25A4%259A%25E6%25A9%259F%25E8%2583%25BD%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%94%B9%E8%89%AF%E3%83%A2%E3%83%87%E3%83%AB%20%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%82%8A%E5%81%A5%E5%BA%B7%E5%99%A8%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2594%25B9%25E8%2589%25AF%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%2520%25E5%25A4%259A%25E6%25A9%259F%25E8%2583%25BD%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 【方式別・モデル別客観比較表】サイズ・耐荷重・機能性一覧
 
@@ -243,4 +262,3 @@ A3: 絶大な価値があります。台を使って飛び上がりゆっくり�
 自宅に懸垂マシンが1台あるだけで、天候やジムの営業時間に縛られることなく、いつでも好きな時に背中と体幹を極限まで追い込める環境が手に入ります。
 
 揺るぎない安定性と使い勝手を備えた相棒を選び、日々の懸垂で自信に満ちた逆三角形の身体を作り上げていきましょう。
-

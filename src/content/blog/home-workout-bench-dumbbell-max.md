@@ -21,7 +21,6 @@ sidebarProducts:
     price: 27000
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「ジムに通う時間がない」「自宅でのトレーニングは効果が薄い気がする」「限られたスペースで本格的に鍛えたい」。もし読者がこのような悩みを抱えている場合、その解決策はシンプルに考えられます。
@@ -281,3 +280,8 @@ sidebarProducts:
 
 もちろん、超高重量を追求したい方や、ジムの社交性を求める方には向かないかもしれません。
 しかし、自分のペースで、着実に、そして何よりも「継続して」体を鍛えたいと願う方にとって、トレーニングベンチと可変式ダンベルの組み合わせは、賢明な選択肢の一つであり、理想の体と健康的な未来の実現をサポートする強力なパートナーとなり得ます。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>トレーニングベンチ＋可変式ダンベル セット</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25EF%25BC%258B%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbcset-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25EF%25BC%258B%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>

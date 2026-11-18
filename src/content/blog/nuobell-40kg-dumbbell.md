@@ -21,7 +21,6 @@ sidebarProducts:
   price: 0
   microCopy: 詳細を見る
 ---
-
 > 💡 PR/Notice: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅でのトレーニングにおいて、「高負荷で追い込みたいが、ダンベルを何本も置くスペースがない」「重量変更の手間が億劫で、集中力が途切れる」と感じる方は少なくありません。これらの課題に対し、**NUOBELL（ヌオベル）可変式ダンベル**は有効な解決策を提供する製品です。
@@ -201,3 +200,8 @@ NUOBELL可変式ダンベルは、健康維持や理想の身体づくりに貢�
 ジム通いにかかる費用や移動時間を節約できるだけでなく、自宅という最もリラックスできる空間で、誰にも気兼ねなく、自分のペースでトレーニングに集中できる環境は、肉体的な変化だけでなく、精神的な充足感にも繋がる可能性があります。日々の継続が難しいと感じていた人も、目の前にNUOBELLがあることで、トレーニングが習慣化しやすい環境を構築できます。
 
 もしあなたが、自宅で本格的なトレーニングを諦めていたなら、あるいはジム通いのストレスから解放されたいと願うなら、このNUOBELL可変式ダンベルは、その願いを叶える強力なパートナーとなり得る製品です。あなたのライフスタイルとトレーニング目標を照らし合わせ、その価値を比較検討することが推奨されます。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>NUOBELL 40kg</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DNUOBELL%252040kg" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00ssrh1.ve2q5ddb.g00ssrh1.ve2q6784/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flysin%2Fflexbell32i-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flysin%2Fi%2F10000228%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DNUOBELL%252040kg" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>

@@ -35,7 +35,6 @@ sidebarProducts:
     price: 1630
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 宅トレで腕を太くしたい、たくましい上腕二頭筋・三頭筋を手に入れたいと考える方は多いでしょう。しかし、限られたスペースや予算の中で「どんな器具を選べば効率的に、そして安全に追い込めるのか」と悩む方もいるかもしれません。
@@ -98,6 +97,11 @@ REP Fitnessの<strong>「マルチグリップカールバー FTA-5010」</stron
 | レビュー評価 | 5.0 (3件) |
 
 EZカールバーは、プレートを装着して使用する<strong>バーベルトレーニング用</strong>の本格的なバーです。全長<strong>140cm</strong>、バー単体で<strong>13.6kg</strong>の重量があります。ハードクロムとフルステンレススチールから素材を選べる点も特徴です。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>宅トレの腕を 効かせる</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E8%2585%2595%25E3%2582%2592%2520%25E5%258A%25B9%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%AE%85%E3%83%88%E3%83%AC%E3%81%AE%E8%85%95%E3%82%92%20%E5%8A%B9%E3%81%8B%E3%81%9B%E3%82%8B%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E8%2585%2595%25E3%2582%2592%2520%25E5%258A%25B9%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## ケーブルアタッチメント派？バーベル派？根本的な設計思想とフォームの違い
 
@@ -175,6 +179,11 @@ EZカールバーでのスカルクラッシャー（ライイングトライセ
 
 EZ形状のおかげで手首への負担が少なく、高重量でこのストレッチを安全に行えるのは大きなメリットです。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>各種目の 効かせ方</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2590%2584%25E7%25A8%25AE%25E7%259B%25AE%25E3%2581%25AE%2520%25E5%258A%25B9%25E3%2581%258B%25E3%2581%259B%25E6%2596%25B9" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%90%84%E7%A8%AE%E7%9B%AE%E3%81%AE%20%E5%8A%B9%E3%81%8B%E3%81%9B%E6%96%B9%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%2590%2584%25E7%25A8%25AE%25E7%259B%25AE%25E3%2581%25AE%2520%25E5%258A%25B9%25E3%2581%258B%25E3%2581%259B%25E6%2596%25B9" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## REP Fitness 腕トレアイテム比較表
 
 | 比較項目 | マルチグリップカールバー FTA-5010 | EZカールバー BB-4400 |
@@ -231,4 +240,3 @@ A3: どちらのバーも関節への負担を軽減する工夫がされてい�
 高重量での筋量アップと漸進性過負荷を追求し、バーベルの安定感を求めるなら<strong>EZカールバー</strong>が適しています。
 
 あなたの現在の宅トレ環境、目指す目標、そして何より<strong>「どんな刺激が筋肉に一番効くか」</strong>という身体の感覚を大切にしてください。この情報が、あなたの腕トレをさらに深化させる一助となれば幸いです。
-

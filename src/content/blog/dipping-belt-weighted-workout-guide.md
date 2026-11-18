@@ -31,7 +31,6 @@ sidebarProducts:
     price: 1599
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「懸垂やディップス、もう自重じゃ物足りない……」
@@ -166,6 +165,11 @@ sidebarProducts:
 
 これは、安全かつ効果的に筋肥大を促すための鉄則です。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ディッピングベルト ディプスベルト ディップスベルト</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2587%25E3%2582%25A3%25E3%2583%2583%25E3%2583%2594%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588%2520%25E3%2583%2587%25E3%2582%25A3%25E3%2583%2597%25E3%2582%25B9%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588%2520%25E3%2583%2587%25E3%2582%25A3%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B9%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00u8yb1.ve2q546f.g00u8yb1.ve2q62a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhummingbird2022%2F10000192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhummingbird2022%2Fi%2F10000192%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2587%25E3%2582%25A3%25E3%2583%2583%25E3%2583%2594%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588%2520%25E3%2583%2587%25E3%2582%25A3%25E3%2583%2597%25E3%2582%25B9%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588%2520%25E3%2583%2587%25E3%2582%25A3%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B9%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: ディッピングベルトはなぜ必要なのですか？</strong>
@@ -176,4 +180,3 @@ A2: ジム用のプレート（穴径50mm）や、家庭用ダンベルのプレ
 
 <strong>Q3: 腰に負担がかからないか心配です。</strong>
 A3: 腰パッド付きのディッピングベルトを選ぶことで、重りによる圧力を分散し、腰への負担を軽減できます。また、トレーニング中はしっかり腹圧をかけて体幹を安定させ、正しいフォームで行うことが怪我予防に繋がります。
-

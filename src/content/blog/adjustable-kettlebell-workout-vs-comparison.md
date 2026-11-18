@@ -35,7 +35,6 @@ sidebarProducts:
     price: 28500
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅トレーニング専門ブログ『エビデンスで組む、宅トレ』では、<strong>宅トレの質を高める可変式ケトルベル</strong>について徹底比較します。限られたスペースと予算の中で、どのケトルベルがあなたの筋肉成長を最大限に引き出すのか。
@@ -148,6 +147,11 @@ PE素材は床に優しく、万が一落としてしまってもフローリン
 
 どちらのケトルベルも、あなたの宅トレをより豊かに、そして効果的にしてくれることでしょう。自分のトレーニングレベルと目標をよく見極めて、最適な一本を選んでみてください。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ケトルベル 注水式 可変式ケトルベル</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2583%2599%25E3%2583%25AB%2520%25E6%25B3%25A8%25E6%25B0%25B4%25E5%25BC%258F%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00upl81.ve2q51c7.g00upl81.ve2q63d6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-and-d1212%2Fhl001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-and-d1212%2Fi%2F10000502%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2583%2599%25E3%2583%25AB%2520%25E6%25B3%25A8%25E6%25B0%25B4%25E5%25BC%258F%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## よくある質問
 <strong>Q1: ケトルベルとダンベル、自宅トレーニングではどちらを選ぶべきですか？</strong>
 A1: ダンベルは個別の筋肉をピンポイントで鍛えるのに向いており、アームカールやサイドレイズなど単関節運動に優れます。ケトルベルは重心が手から離れた位置にあるため、<strong>全身を連動させる機能的な動きや、体幹の安定性を高める多関節運動</strong>に特化しています。ケトルベルスイングやゴブレットスクワットなど、ダイナミックな全身運動を行いたい場合はケトルベルが効果的です。
@@ -161,4 +165,3 @@ A2: 初心者であれば、男性は8kg、女性は4kg〜6kgから始めるの�
 A3: はい、フローリングや畳の上でケトルベルを使う場合は、<strong>トレーニングマットの使用が推奨されます</strong>。特にAXIS FITのような硬質素材で重量のあるケトルベルは、誤って落とすと床を大きく傷つけるリスクが高いです。
 
 注水式ケトルベルもPE素材で比較的柔らかいですが、念のためマットを敷くことでより安心してトレーニングできますし、防音効果も期待できます。
-

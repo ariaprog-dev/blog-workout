@@ -21,7 +21,6 @@ sidebarProducts:
     price: 9780
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -134,6 +133,11 @@ MRG 可変式ダンベル 60kg 可変ダイヤル式 は、自宅で質の高い
 
 ジム通いが難しい方や、自宅で本格的に体を変えたい方には最適な選択肢の一つです。このダンベルが、あなたの理想の体づくりを力強くサポートし、健康的なライフスタイルを築くきっかけとなることを願っています。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>可変式ダンベル 24kg アジャスタブルダンベル</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252024kg%2520%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2596%25E3%2583%25AB%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00tqlh1.ve2q52c7.g00tqlh1.ve2q624d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmotions%2Fmd242%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmotions%2Fi%2F10000002%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252024kg%2520%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2596%25E3%2583%25AB%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: MRG可変式ダンベルは故障しやすいですか？</strong>
@@ -146,4 +150,3 @@ A2: プレートの素材が高密度プラスチックとスチールなので�
 
 <strong>Q3: 床への対策は必要ですか？</strong>
 A3: はい、ダンベルの重さから床への衝撃や傷つきを防ぐため、厚手のトレーニングマットを敷くのが効果的です。マットは防音対策にもつながり、集合住宅での使用では特に重要になります。
-

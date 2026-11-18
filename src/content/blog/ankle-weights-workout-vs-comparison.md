@@ -35,7 +35,6 @@ sidebarProducts:
     price: 4440
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅トレーニングの停滞期や、特定の部位の強化に課題を感じる場合、<strong>アンクルウェイト（足首重り）</strong>を使った負荷調整が有効です。アンクルウェイトは自重トレーニングの強度を高め、筋肉を効率的に刺激する製品です。
@@ -98,6 +97,11 @@ sidebarProducts:
 
 また、鉄砂が中に入っているので、装着時のフィット感が<strong>比較的柔軟に形状に沿ってくれる</strong>のも良い点です。激しい動きでも大きくズレることは少ないですが、強く締め付けすぎると、血行を妨げる可能性があるので注意が必要です。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>和み植物園 アンクルウェイト</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2592%258C%25E3%2581%25BF%25E6%25A4%258D%25E7%2589%25A9%25E5%259C%2592%2520%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25AF%25E3%2583%25AB%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%92%8C%E3%81%BF%E6%A4%8D%E7%89%A9%E5%9C%92%20%E3%82%A2%E3%83%B3%E3%82%AF%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%2592%258C%25E3%2581%25BF%25E6%25A4%258D%25E7%2589%25A9%25E5%259C%2592%2520%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25AF%25E3%2583%25AB%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## アディダス プロアバンセ アンクルウェイト：ブランドの信頼性と安定したフィット感
 
 次に、世界的なスポーツブランド「アディダス」が手掛けるプロアバンセのアンクルウェイトを見ていきましょう。こちらは<strong>1.0kgの固定重量</strong>で、シンプルかつ高い品質が特徴です。
@@ -123,6 +127,11 @@ sidebarProducts:
 <strong>安定した負荷をかけ続けたい</strong>、という要望に応えてくれる製品です。
 
 ただし、重量が1.0kgに固定されているため、<strong>細かな負荷調整はできません</strong>。トレーニングの段階に応じて重量を変化させたい場合は、複数のアンクルウェイトを揃えるか、別のモデルを検討する必要があるでしょう。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>アディダス プロアバンセ アンクルウェイト</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%2587%25E3%2582%25A3%25E3%2583%2580%25E3%2582%25B9%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A2%25E3%2583%2590%25E3%2583%25B3%25E3%2582%25BB%2520%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25AF%25E3%2583%25AB%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00rsad1.ve2q5069.g00rsad1.ve2q6ffa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvitaliser%2Fadidas-9848%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvitaliser%2Fi%2F10159037%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A2%25E3%2583%2587%25E3%2582%25A3%25E3%2583%2580%25E3%2582%25B9%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A2%25E3%2583%2590%25E3%2583%25B3%25E3%2582%25BB%2520%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25AF%25E3%2583%25AB%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 徹底比較：あなたの宅トレに最適なのはどっち？
 
@@ -237,4 +246,3 @@ A3: ランニングや縄跳びでの使用は可能ですが、注意が必要�
 一方、<strong>アディダス プロアバンセのアンクルウェイト</strong>は、<strong>ブランドの信頼性</strong>と<strong>堅牢な作り</strong>、そして<strong>安定した固定力</strong>が魅力です。1.0kgという固定重量は、すでに自重トレーニングに慣れた方が、<strong>シンプルに強度を向上させたい</strong>場合に頼りになるでしょう。
 
 両方のタイプにはそれぞれの利点があります。トレーニングレベル、目的、予算に合わせて、最適なアンクルウェイトを選択し、効率的な宅トレを継続することが推奨されます。
-

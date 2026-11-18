@@ -21,7 +21,6 @@ sidebarProducts:
     price: 0
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅での筋力トレーニングにおいて、上腕や胸、肩の成長に停滞を感じることは少なくありません。限られたスペースで効率的に筋肥大を目指す場合、アームバーは有効な選択肢の一つとして注目されています。特に筋トレ初心者にとっては、狙った筋肉にダイレクトに負荷をかけやすい設計が魅力とされています。
@@ -106,3 +105,8 @@ sidebarProducts:
 アームバーは、自宅での筋力トレーニングを効率的かつ継続的に行うための一助となる器具です。特に、ジムに通う時間がない方や、特定の部位に集中して刺激を与えたい初心者にとって、そのコストパフォーマンスは高いと言えるでしょう。
 
 手軽に高負荷トレーニングを始めたいと考える方にとって、このアームバー エキスパンダー 筋トレ器具 22cmは検討する価値があるでしょう。自宅で理想の体を目指すあなたの宅トレライフを、サポートする一助となることが期待されます。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>アームバー エキスパンダー 筋トレ器具 22cm</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%2590%25E3%2583%25BC%2520%25E3%2582%25A8%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%2520%25E7%25AD%258B%25E3%2583%2588%25E3%2583%25AC%25E5%2599%25A8%25E5%2585%25B7%252022cm" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00up3c1.ve2q5166.g00up3c1.ve2q616b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaocyame%2Fb0grwcd2y2-tghphsnvf%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaocyame%2Fi%2F10031634%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A2%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%2590%25E3%2583%25BC%2520%25E3%2582%25A8%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%2520%25E7%25AD%258B%25E3%2583%2588%25E3%2583%25AC%25E5%2599%25A8%25E5%2585%25B7%252022cm" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>

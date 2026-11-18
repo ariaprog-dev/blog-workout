@@ -14,7 +14,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅でのトレーニングにおいて、「現在の負荷で本当に効果があるのか？」「器具が増えてスペースが手狭になる」「ルーティンが単調になり、停滞期に陥った」といった悩みは、多くのトレーニーが直面するものです。そうした課題を抱える方には、優れた性能を持つ「POWER ARMOR」が適した選択肢となり得ます。
@@ -200,6 +199,11 @@ POWER ARMORは、この停滞期を乗り越え、さらなる高みを目指す
 その安定した構造、精密な負荷調整、そして何よりも「自宅で安全に本格的なトレーニングができる」という安心感は、あなたのトレーニングライフに計り知れない価値をもたらします。ジム通いのコストや時間を考慮すれば、これは単なる出費ではなく、健康と理想の体、そして豊かな時間を育むための、合理的な選択肢となり得ます。
 
 質の高いトレーニング環境は、質の高い肉体と精神を生み出します。POWER ARMORと共に、自宅で最高のトレーニングを追求し、理想の自分像へと着実に歩みを進めることができるでしょう。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>POWER ARMOR</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPOWER%2520ARMOR" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPOWER%20ARMOR%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DPOWER%2520ARMOR" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### よくある質問
 

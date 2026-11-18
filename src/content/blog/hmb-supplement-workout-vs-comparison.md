@@ -31,7 +31,6 @@ sidebarProducts:
     price: 2980
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 宅トレの成果が伸び悩み、もっと効率的に筋肉をつけたい。そんな悩みは、多くの宅トレ愛好家が共通して抱えています。限られた環境で最大限の効果を引き出すには、トレーニング内容だけでなく、適切な栄養摂取が欠かせません。
@@ -107,6 +106,11 @@ HMBサプリの摂取粒数は1日12粒と多めに設定されている場合�
 
 純粋にHMBの効果を試したい、他のサプリとの兼ね合いで成分の重複を避けたい、という人には最適な選択肢です。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>HMB MAX pro 432粒</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHMB%2520MAX%2520pro%2520432%25E7%25B2%2592" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHMB%20MAX%20pro%20432%E7%B2%92%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHMB%2520MAX%2520pro%2520432%25E7%25B2%2592" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## ドラゴンマッスル HMB 360粒：多角的なアプローチで筋トレをサポート
 
 | 項目 | 詳細 |
@@ -126,6 +130,11 @@ HMBサプリの摂取粒数は1日12粒と多めに設定されている場合�
 これらの成分は、単体で摂取すると費用がかさむため、オールインワンで摂れるのは大きなメリットです。複数のサプリメントを個別に用意する手間を省きたい場合に、複合タイプは選択肢の一つとなります。
 
 粒は少し大きめに感じましたが、飲み込む際に引っかかることもなく、匂いも特に気になりませんでした。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ドラゴンマッスル HMB 360粒</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2582%25B4%25E3%2583%25B3%25E3%2583%259E%25E3%2583%2583%25E3%2582%25B9%25E3%2583%25AB%2520HMB%2520360%25E7%25B2%2592" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00s5gi1.ve2q56e5.g00s5gi1.ve2q61d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikido%2Fhmb-premium%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikido%2Fi%2F10000287%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2582%25B4%25E3%2583%25B3%25E3%2583%259E%25E3%2583%2583%25E3%2582%25B9%25E3%2583%25AB%2520HMB%2520360%25E7%25B2%2592" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 徹底比較：成分配合とコスパ、飲みやすさで選ぶ最適なHMB
 
@@ -210,4 +219,3 @@ A2: HMB自体に直接的な脂肪増加作用はありません。HMBは筋タ�
 A3: はい、プロテインと一緒に摂ることは非常に効果的です。プロテインは筋肉の材料となるタンパク質を供給し、HMBはそのタンパク質の分解を抑え、合成を促進するという異なる役割を持っています。
 
 互いに補完し合う関係にあるため、トレーニング後にプロテインと一緒にHMBを摂取するのは、筋肥大を目指す上で理想的な組み合わせと言えます。
-

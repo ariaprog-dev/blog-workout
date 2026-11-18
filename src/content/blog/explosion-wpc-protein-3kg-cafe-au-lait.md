@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -252,6 +251,11 @@ sidebarProducts:
 
 もしあなたが「宅トレを始めたけど、イマイチ効果が出ない」「食事だけではタンパク質が足りているか不安」「手軽に、でもしっかり筋肉を育てたい」と考えているなら、エクスプロージョンはあなたの宅トレライフを豊かにする一助となるはずです。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>プロテイン WPC エクスプロージョン</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%2520WPC%2520%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%20WPC%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%2520WPC%2520%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 <strong>Q1: プロテインはいつ飲むのが一番効果的ですか？</strong>
 A1: 一般的に、筋力トレーニング後の30分～1時間以内、いわゆる「ゴールデンタイム」に摂取するのが最も効果的とされています。この時間帯は、トレーニングによって傷ついた筋肉がアミノ酸を積極的に取り込み、修復・成長しようとするためです。また、朝食時や間食として摂取することで、日中のタンパク質不足を補い、筋肉量の維持や食欲コントロールにも役立ちます。
@@ -265,4 +269,3 @@ A2: 味の好みは個人差が大きいですが、多くのユーザーから�
 A3: エクスプロージョンはWPC（ホエイプロテインコンセントレート）であるため、乳糖が少量含まれています。そのため、重度の乳糖不耐症の方は、お腹がゴロゴロしたり、下痢をしたりする可能性があります。
 
 もしご自身が乳糖不耐症であると自覚がある場合は、乳糖がほとんど除去されたWPI（ホエイプロテインアイソレート）タイプのプロテインを選ぶか、少量から試して体調の変化を確認するのが効果的です。
-

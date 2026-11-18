@@ -14,7 +14,6 @@ sidebarProducts:
   price: 10490
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -222,6 +221,11 @@ sidebarProducts:
 
 あなたのトレーニングライフに新たな選択肢と可能性をもたらすきっかけとなることを願っています。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>STEADY トレーニングベンチ 耐荷重300kg</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSTEADY%2520%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%2520%25E8%2580%2590%25E8%258D%25B7%25E9%2587%258D300kg" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00saul1.ve2q5b2f.g00saul1.ve2q6e15/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftkms%2Fst123%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftkms%2Fi%2F10000869%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DSTEADY%2520%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%2520%25E8%2580%2590%25E8%258D%25B7%25E9%2587%258D300kg" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 組み立ては難しいですか？</strong>
@@ -253,4 +257,3 @@ A4: トレーニングベンチ自体は大きく音を出すものではあり�
 厚手のトレーニングマットを敷くことで、衝撃音の軽減や床の保護、滑り止め効果が期待できます。また、ダンベルを静かに置く、動作をコントロールするなど、トレーニング方法にも注意することで、周囲への配慮ができます。
 
 製品によっては、足部分にゴムキャップが付属しているものもありますので、購入時に確認しておくと良いでしょう。
-

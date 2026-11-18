@@ -24,7 +24,6 @@ sidebarProducts:
     price: 10300
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅での筋力トレーニングにおいて、新たな刺激を求める時期があるかもしれません。限られたスペースで効果的な全身トレーニングを行うには、適切な器具選びが重要です。本記事では、自宅トレーニングの質を高める多機能インクラインベンチに焦点を当て、その選び方や活用法を解説します。
@@ -124,5 +123,10 @@ sidebarProducts:
 多機能ベンチは、単なるトレーニング器具にとどまらず、自分の身体と向き合い、健康的なライフスタイルを築くためのサポートとなり得ます。
 
 初期投資は必要ですが、数年間のジム会費や移動時間を考慮すれば、経済的で効率的な選択肢となり得ます。宅トレの質を高め、健康的なボディメイクを追求する方にとって、多機能インクラインベンチは優れた選択肢となるでしょう。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>■9 11迄 最大2 000円OFF■</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E2%2596%25A09%252011%25E8%25BF%2584%2520%25E6%259C%2580%25E5%25A4%25A72%2520000%25E5%2586%2586OFF%25E2%2596%25A0" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00sc6q1.ve2q582b.g00sc6q1.ve2q647c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarketjapan%2Fbw-dc04%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarketjapan%2Fi%2F10000390%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E2%2596%25A09%252011%25E8%25BF%2584%2520%25E6%259C%2580%25E5%25A4%25A72%2520000%25E5%2586%2586OFF%25E2%2596%25A0" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### よくある質問

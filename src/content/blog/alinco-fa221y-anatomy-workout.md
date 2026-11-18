@@ -14,7 +14,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 | 項目 | 詳細 |
 | --- | --- |
 | メーカー | アルインコ |
@@ -224,5 +223,10 @@ YouTubeチャンネルの視聴やポッドキャストの聴取など、他の�
 運動不足の解消、心肺機能の向上、あるいは手軽な脂肪燃焼を目指す方にとって、FA221Yは堅実な選択肢となり得ます。一方で、高負荷の筋力トレーニングや本格的なサイクリングシミュレーションを求める方には不向きであるため、ご自身のトレーニング目的を明確にした上でご検討ください。
 
 この一台が、自宅を快適なフィットネス空間に変え、健康的な生活習慣の維持に貢献する可能性があります。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>アルインコ FA221Y</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B3%2520FA221Y" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%B3%20FA221Y%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B3%2520FA221Y" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### よくある質問

@@ -21,7 +21,6 @@ sidebarProducts:
   price: 1650
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 宅トレを続けていると、「停滞期」や「刺激不足」という課題に直面することがあります。ダンベルや自重トレーニングだけでは物足りなくなり、もっと筋肉の奥深くまで効果を感じたいと悩む方も少なくないでしょう。
@@ -223,6 +222,11 @@ sidebarProducts:
 
 もしあなたが、今の宅トレに物足りなさを感じているなら、あるいはもっと効率的で、身体に優しいトレーニングを求めているなら、ごるとれジェリーロープGT-1402は、あなたの宅トレの景色を一変させるきっかけになるかもしれません。ご自身の健康と理想の身体を育むための、価値ある選択肢として、この新しい刺激を体験し、トレーニングライフに新たな可能性を見出すのも良いでしょう。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>朝日ゴルフ用品 ごるトレ ジェリーロープ GT-1402</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%259C%259D%25E6%2597%25A5%25E3%2582%25B4%25E3%2583%25AB%25E3%2583%2595%25E7%2594%25A8%25E5%2593%2581%2520%25E3%2581%2594%25E3%2582%258B%25E3%2583%2588%25E3%2583%25AC%2520%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2597%2520GT-1402" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00q46i1.ve2q5e0c.g00q46i1.ve2q6076/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnankai-golf%2Fgt1402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnankai-golf%2Fi%2F10015837%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%259C%259D%25E6%2597%25A5%25E3%2582%25B4%25E3%2583%25AB%25E3%2583%2595%25E7%2594%25A8%25E5%2593%2581%2520%25E3%2581%2594%25E3%2582%258B%25E3%2583%2588%25E3%2583%25AC%2520%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2597%2520GT-1402" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: ジェリーロープだけで本当に筋肥大できますか？</strong>
@@ -247,4 +251,3 @@ A3: はい、初心者の方でも安全にご利用いただけます。ジェ�
 また、ゴムの抵抗がフォームの安定を助け、筋肉の動きを意識しやすいため、正しいフォームの習得にも役立ちます。ただし、無理な姿勢や急な動作は避け、ゆっくりとコントロールされた動きでトレーニングを行うことが重要です。
 
 使用前に必ず製品の使用方法を確認し、必要であれば専門家の指導を受けるのが効果的です。特に、急な伸びによる事故を防ぐため、固定する際はしっかりと安定しているか確認するようにしましょう。
-

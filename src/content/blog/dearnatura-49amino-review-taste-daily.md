@@ -31,7 +31,6 @@ sidebarProducts:
     price: 2562
     microCopy: '詳細を見る'
 ---
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 宅トレを続ける中で、多くの人が直面するのが「栄養の偏り」と「コンディション維持における課題」です。毎日の食事で必要なビタミン、ミネラル、アミノ酸すべてを完璧に摂取するのは容易ではありません。しかし、そうした課題に対し、宅トレの継続をサポートする選択肢があります。
@@ -146,3 +145,8 @@ sidebarProducts:
 ディアナチュラ 49種アミノは、食事だけではカバーしきれない微量栄養素やアミノ酸を、手軽かつ経済的に補給できる選択肢の一つです。忙しい日々の中で、体調を崩しにくく、トレーニングのパフォーマンスを維持したいと考える宅トレ愛好家にとって、これは合理的な栄養補給策と言えます。
 
 日々の積み重ねが、健康的なボディメイクに貢献するでしょう。このサプリメントが、宅トレライフの継続をサポートする一助となる可能性があります。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ディアナチュラ 49種アミノ マルチビタミン＆ミネラル</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25A2%25E3%2583%258A%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25A9%252049%25E7%25A8%25AE%25E3%2582%25A2%25E3%2583%259F%25E3%2583%258E%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%2593%25E3%2582%25BF%25E3%2583%259F%25E3%2583%25B3%25EF%25BC%2586%25E3%2583%259F%25E3%2583%258D%25E3%2583%25A9%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00ugyn1.ve2q5bfb.g00ugyn1.ve2q689c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4946842639823%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10016166%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25A2%25E3%2583%258A%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25A9%252049%25E7%25A8%25AE%25E3%2582%25A2%25E3%2583%259F%25E3%2583%258E%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%2593%25E3%2582%25BF%25E3%2583%259F%25E3%2583%25B3%25EF%25BC%2586%25E3%2583%259F%25E3%2583%258D%25E3%2583%25A9%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>

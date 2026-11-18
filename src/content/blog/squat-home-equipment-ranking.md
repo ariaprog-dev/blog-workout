@@ -35,7 +35,6 @@ sidebarProducts:
     price: 14800
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅でスクワットを行う際、器具選びに迷うことがあります。ジムに通う時間がない、フォームに不安がある、より効率的に下半身を鍛えたいといったニーズがあります。ダンベルのみでのスクワットでは、高重量時にセーフティがないことへの懸念が生じる場合があります。
@@ -102,6 +101,11 @@ sidebarProducts:
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>BODYRAJA ブルガリアンスクワット スタンド</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBODYRAJA%2520%25E3%2583%2596%25E3%2583%25AB%25E3%2582%25AC%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AF%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00s7dn1.ve2q5f5a.g00s7dn1.ve2q6349/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbagray%2Fsquatbar001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbagray%2Fi%2F10012281%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBODYRAJA%2520%25E3%2583%2596%25E3%2583%25AB%25E3%2582%25AC%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AF%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第2位: バーベルスタンド ベンチプレスラック｜自宅を本格ホームジムに
 
 自宅でジムと遜色ない高重量トレーニングを実現したいなら、このバーベルスタンドが有力な選択肢になります。バーベルスクワットやベンチプレスといった、全身の筋肉を効率的に鍛える基本種目に対応できる汎用性が魅力です。
@@ -129,6 +133,11 @@ sidebarProducts:
 | 販売ショップ | 日本エリート楽天市場店 |
 
 ---
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>バーベルスタンド ベンチプレスラック</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00s4y01.ve2q5a57.g00s4y01.ve2q6bd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnelite%2F26031103%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnelite%2Fi%2F10023983%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 第3位: ブルガリアンスクワット スタンド｜バランス強化とアンバランス改善を追求
 
@@ -158,6 +167,11 @@ sidebarProducts:
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ブルガリアンスクワット スタンド</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25AB%25E3%2582%25AC%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AF%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%B9%E3%82%AF%E3%83%AF%E3%83%83%E3%83%88%20%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2596%25E3%2583%25AB%25E3%2582%25AC%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AF%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第4位: ポンポンスクワット｜無理なく正しいフォームを習得する
 
 運動が苦手、膝や腰に不安があるけれどスクワットを始めたい、という方に最適なのが「ポンポンスクワット」です。この器具は、高反発ウレタンのクッションがスクワットの動作を補助し、正しいフォームで無理なく下半身を鍛えることを目的としています。
@@ -186,6 +200,11 @@ sidebarProducts:
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ポンポンスクワット</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AF%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00u3gp1.ve2q5bc2.g00u3gp1.ve2q6c95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaple-market%2Fponponsquat%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaple-market%2Fi%2F10000070%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259D%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AF%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## まとめ：あなたの宅トレを劇的に変える一台を選ぼう
 
 自宅でのスクワット器具は、トレーニングの質を大きく左右します。今回のランキングでは、あなたの目的やレベルに合わせて最適な選択ができるように、それぞれの特徴と科学的根拠に基づいたメリット・デメリットを解説しました。
@@ -211,4 +230,3 @@ A2: 目的によって異なります。バーベルスクワットは全身の�
 A3: ポンポンスクワットは主に「正しいフォームの習得」と「運動習慣の定着」に焦点を当てています。筋力アップ効果は限定的ですが、膝や腰への負担を抑えつつ、安全にスクワットの基礎を身につけられます。
 
 物足りなくなったら、ダンベルを併用するなどして徐々に負荷を高めていくと良いでしょう。
-

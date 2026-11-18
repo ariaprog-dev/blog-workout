@@ -21,7 +21,6 @@ sidebarProducts:
   price: 9853
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 ## 自宅トレーニングの停滞期を打ち破る一手：多角的な刺激とフォーム矯正の要
@@ -236,3 +235,8 @@ sidebarProducts:
 トレーニングボードは、単なるプッシュアップ補助具の枠を超え、限られた自宅スペースでジムに匹敵する質の高いトレーニングを実現するための「賢い選択肢」と言えます。フォームの改善、怪我のリスク軽減、そして何よりも多様な刺激で筋肉の成長を促すその設計思想は、自宅トレーニング愛好家の製品の機能性への理解を深め、実践的な効果をもたらしてくれるでしょう。
 
 日々の忙しさからジム通いが難しい方、トレーニングの停滞期に悩む方、そして手首や肩の負担を気にせず質の高い自重トレーニングを続けたい方にとって、このボードは自宅での運動効率を劇的に向上させる強力な味方になります。自宅トレーニングを次のレベルへと引き上げる一つの手段として、このトレーニングボードがあなたの選択肢となることを期待されます。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>自動リバウンド 腹筋マシン</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%2587%25AA%25E5%258B%2595%25E3%2583%25AA%25E3%2583%2590%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00u7xo1.ve2q5c18.g00u7xo1.ve2q6901/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimeilifestyle%2Fy920764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimeilifestyle%2Fi%2F10004286%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%2587%25AA%25E5%258B%2595%25E3%2583%25AA%25E3%2583%2590%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>

@@ -31,7 +31,6 @@ sidebarProducts:
     price: 1980
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -142,6 +141,11 @@ sidebarProducts:
 
 運動が苦手な方も、少しの工夫と継続で、理想の体に一歩近づくための選択肢として検討する価値は十分にあるでしょう。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>スピードシェイプ サプリメント</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B9%25E3%2583%2594%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25B7%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%2597%2520%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00upha1.ve2q54b2.g00upha1.ve2q6157/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foriginentalspa-shop%2F4580092270353-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foriginentalspa-shop%2Fi%2F10000421%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B9%25E3%2583%2594%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25B7%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%2597%2520%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 毎日飲まないと効果はありませんか？</strong>
@@ -156,4 +160,3 @@ A2: 公式の推奨摂取量は明記されていませんが、一般的に脂�
 
 <strong>Q3: サプリメントの摂取のみでボディメイクは成立しますか？</strong>
 A3: スピードシェイプ®は日常の健康・栄養管理をサポートする補助製品であり、サプリメントはあくまで「補助」の位置づけです。サプリメントの摂取だけに頼るのではなく、軽いウォーキングや階段の利用といった適度な身体活動とバランスの取れた食事と組み合わせることが前提となります。
-

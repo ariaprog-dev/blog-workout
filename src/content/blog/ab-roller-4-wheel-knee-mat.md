@@ -21,7 +21,6 @@ sidebarProducts:
     price: 0
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「腹筋ローラーで腹筋を鍛えようとしたものの、手首や腰の痛みにより継続が困難だった」という声が聞かれることがあります。
@@ -193,6 +192,11 @@ sidebarProducts:
 この器具がもたらすのは、単なる見た目の変化に留まりません。安定した体幹は、日常生活動作の効率を高め、長時間のデスクワークにおける姿勢改善や、様々なスポーツパフォーマンスの向上に寄与します。
 
 自宅というプライベートな空間で、自身の身体と真剣に向き合い、健康的で活動的なライフスタイルを築きたいと願うすべての方にとって、「4輪式 腹筋ローラー（肘当て・膝マット・スマホスタンド付）」は、その努力を確かな結果へと繋げる、健康維持への投資として検討できます。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>4輪式 腹筋ローラー</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D4%25E8%25BC%25AA%25E5%25BC%258F%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F4%E8%BC%AA%E5%BC%8F%20%E8%85%B9%E7%AD%8B%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D4%25E8%25BC%25AA%25E5%25BC%258F%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### よくある質問
 

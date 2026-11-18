@@ -31,7 +31,6 @@ sidebarProducts:
     price: 1238
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -134,6 +133,11 @@ sidebarProducts:
 
 このグローブの最大の魅力は、その優れたコストパフォーマンスにあります。1,100円という価格で、手首の怪我のリスクを低減し、トレーニング効果を高められるなら、これは賢い投資と言えるでしょう。特にトレーニング初心者や、手首に不安を感じる方には、まず試していただきたい逸品です。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>パワーグリップ 本革 トレーニンググローブ 滑り止め 革</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E6%259C%25AC%25E9%259D%25A9%2520%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2596%2520%25E6%25BB%2591%25E3%2582%258A%25E6%25AD%25A2%25E3%2582%2581%2520%25E9%259D%25A9" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00u76c1.ve2q578f.g00u76c1.ve2q6d3d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-fitness%2Ffig-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-fitness%2Fi%2F10000053%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E6%259C%25AC%25E9%259D%25A9%2520%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2596%2520%25E6%25BB%2591%25E3%2582%258A%25E6%25AD%25A2%25E3%2582%2581%2520%25E9%259D%25A9" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## よくある質問
 
 <strong>Q1: サイズ選びで失敗しないためのポイントはありますか？</strong>
@@ -148,4 +152,3 @@ A2: リストラップは手首を一周半から二周ほど巻きつけ、マ�
 A3: はい、ポリエステル製のため手洗いが可能です。中性洗剤を使い、優しく押し洗いしてください。
 
 その後は形を整えて陰干しすることで、清潔さを保ち、長く使用することができます。乾燥機の使用は素材を傷める可能性があるので避けてください。
-

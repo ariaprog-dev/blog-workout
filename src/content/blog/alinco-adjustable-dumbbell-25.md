@@ -21,7 +21,6 @@ sidebarProducts:
     price: 0
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅での筋トレを始める際、限られたスペースや初期費用、そしてトレーニング進捗に合わせた重量調整の難しさなど、多くの課題に直面する方もいらっしゃるでしょう。
@@ -242,6 +241,11 @@ sidebarProducts:
 
 これらのデメリットを踏まえても、アジャスタブルダンベル25が提供する「省スペース」「重量調整の手軽さ」「コストパフォーマンス」は、多くの宅トレユーザーにとって非常に魅力的な選択肢です。
 完璧な器具は存在しませんが、自身のトレーニングスタイルや環境に合致するかどうかを見極め、デメリットを受け入れた上で導入するなら、非常に有用なツールとなるでしょう。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ALINCO アジャスタブルダンベル 25kg</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DALINCO%2520%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2596%25E3%2583%25AB%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252025kg" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FALINCO%20%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2025kg%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DALINCO%2520%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2596%25E3%2583%25AB%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252025kg" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### よくある質問
 

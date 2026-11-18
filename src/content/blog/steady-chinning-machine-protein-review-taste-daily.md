@@ -31,7 +31,6 @@ sidebarProducts:
     price: 2980
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で本格的なトレーニングを始めたいけれど、何をどう選べばいいか迷っていませんか？ 限られたスペースで効率よく身体を鍛えるには、適切な器具選びが不可欠です。今回紹介するのは、懸垂マシン 耐荷重150kg 高さ10段階 安定性です。
@@ -141,6 +140,11 @@ sidebarProducts:
 | 販売ショップ | STEADY(ステディ) |
 | レビュー評価 | 4.54 (1695件) |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>STEADY 懸垂マシン 改良バー 耐荷重150kg</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSTEADY%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%2520%25E6%2594%25B9%25E8%2589%25AF%25E3%2583%2590%25E3%2583%25BC%2520%25E8%2580%2590%25E8%258D%25B7%25E9%2587%258D150kg" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSTEADY%20%E6%87%B8%E5%9E%82%E3%83%9E%E3%82%B7%E3%83%B3%20%E6%94%B9%E8%89%AF%E3%83%90%E3%83%BC%20%E8%80%90%E8%8D%B7%E9%87%8D150kg%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DSTEADY%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%2520%25E6%2594%25B9%25E8%2589%25AF%25E3%2583%2590%25E3%2583%25BC%2520%25E8%2580%2590%25E8%258D%25B7%25E9%2587%258D150kg" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## よくある質問
 
 <strong>Q1: このプロテインは、きなこ風味以外にもフレーバーがありますか？</strong>
@@ -151,4 +155,3 @@ A2: トレーニング後の30分以内（ゴールデンタイム）や、就�
 
 <strong>Q3: プロテインでお腹がゴロゴロしてしまう場合、どうすれば良いですか？</strong>
 A3: もし乳糖不耐症の可能性があるなら、乳糖が除去されたWPI（ホエイプロテインアイソレート）や、乳成分を含まないソイプロテイン・ピープロテインなどへの切り替えを検討しましょう。少量の摂取から試してみるのも有効です。
-

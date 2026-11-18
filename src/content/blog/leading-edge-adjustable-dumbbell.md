@@ -21,7 +21,6 @@ sidebarProducts:
     price: 2990
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 可変式ダンベルをネット通販で探すと、1万円台のノーブランド品から7万円を超える高級品（フレックスベル等）まで無数に並んでおり、「<strong>どれが本当に壊れにくく、コスパが良いのか？</strong>」と頭を抱えてしまいます。
@@ -181,6 +180,11 @@ LEADING EDGE 可変式ダンベル 24kg 2個セット LE-AD24は、単なるト�
 
 日々の生活の中で、自身のペースで身体を鍛え、健康を維持する手段として、この可変式ダンベルは有効な選択肢となり得ます。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>LEADING EDGE リーディングエッジ ダンベル</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DLEADING%2520EDGE%2520%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%2583%25E3%2582%25B8%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00pjxl1.ve2q5c8f.g00pjxl1.ve2q69e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesports%2F9221510090002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesports%2Fi%2F11433951%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DLEADING%2520EDGE%2520%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%2583%25E3%2582%25B8%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 可変式ダンベルは故障しやすいと聞きますが、この商品はどうですか？</strong>
@@ -197,4 +201,3 @@ A2: 多くのトレーニング種目において、片手24kgは十分な負荷
 A3: LEADING EDGE 可変式ダンベル 24kg 2個セット LE-AD24は、同価格帯の製品と比較して、2.5kg刻みでの細かな重量調整が可能な点が大きなメリットです。これにより、より多くの筋力レベルや種目に対応でき、怪我のリスクを減らしつつ効率的な漸進性過負荷を実現できます。
 
 また、ダイヤル式の操作感もスムーズで、省スペース性も優れており、自宅での多様なトレーニングニーズに応えるバランスの取れた製品と言えます。
-
