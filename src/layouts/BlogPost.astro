@@ -57,6 +57,7 @@ const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 const currentId = Astro.url.pathname.split('/').filter(Boolean).pop();
+const isBlogArticle = /^\/blog\/[^/]+/.test(Astro.url.pathname);
 const excludeId = currentId || (allPosts.length > 0 ? allPosts[0].id : null);
 const candidatePosts = allPosts.filter(post => post.id !== excludeId);
 const sidebarPosts = candidatePosts.slice(0, 10);
@@ -259,6 +260,11 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 				align-items: stretch;
 				min-height: 1000px; /* 記事が短い場合でもサイドバーがスクロールする高さを確保 */
 			}
+			.blog-layout-container.static-page-layout {
+				display: block;
+				width: 820px;
+				min-height: auto;
+			}
 			.main-content {
 				flex: 1;
 				min-width: 0;
@@ -439,7 +445,8 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 
 			/* スマホ・タブレット向けレスポンシブ（サイドバーは非表示） */
 			@media (max-width: 800px) {
-				.blog-layout-container {
+				.blog-layout-container,
+				.blog-layout-container.static-page-layout {
 					flex-direction: column;
 					gap: 1.5rem;
 					width: 100%;
@@ -1297,10 +1304,10 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 	</head>
 
 	<body>
-		<div id="reading-progress-bar" class="reading-progress-bar" aria-hidden="true"></div>
+		{isBlogArticle && <div id="reading-progress-bar" class="reading-progress-bar" aria-hidden="true"></div>}
 		<Header />
 		<main>
-			<article class="blog-layout-container">
+			<article class={`blog-layout-container${isBlogArticle ? '' : ' static-page-layout'}`}>
 				<div class="main-content">
 					<div class="prose">
 						<!-- パンくずリスト -->
@@ -1356,7 +1363,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 						)}
 
 						<!-- スマート目次（Table of Contents） -->
-						{headings && headings.filter(h => h.depth === 2 || h.depth === 3).length > 0 && (
+						{isBlogArticle && headings && headings.filter(h => h.depth === 2 || h.depth === 3).length > 0 && (
 							<div class="toc-container">
 								<details class="toc-details">
 									<summary class="toc-summary">
@@ -1382,6 +1389,8 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 						)}
 
 						<slot />
+						{isBlogArticle && (
+							<>
 						{pubDate && (
 							<div class="post-end-date">
 								<p>投稿日：<FormattedDate date={pubDate} />{updatedDate && <span>（最終更新日：<FormattedDate date={updatedDate} />）</span>}</p>
@@ -1524,6 +1533,8 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 								</div>
 							</section>
 						)}
+							</>
+						)}
 
 						<!-- E-E-A-T 編集部ポリシー・検証基準カード -->
 
@@ -1531,6 +1542,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 					</div>
 				</div>
 
+				{isBlogArticle && (
 				<aside class="sidebar">
 					<div class="sidebar-sticky">
 						<div class="sidebar-sticky-inner">
@@ -1631,9 +1643,11 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 						</div>
 					</div>
 				</aside>
+				)}
 			</article>
 
 			<!-- スマホ専用フローティング・クイックバー -->
+			{isBlogArticle && (
 			<div class="mobile-quick-bar" id="mobile-quick-bar" style="position: fixed; bottom: 20px; right: 16px; display: none; z-index: 99; flex-direction: column; gap: 8px;">
 				<button id="quick-toc-btn" style="background: rgba(255,255,255,0.95); color: #14532d; border: 1.5px solid #bbf7d0; border-radius: 9999px; padding: 8px 14px; font-size: 0.78rem; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.1); cursor: pointer; display: flex; align-items: center; gap: 4px; backdrop-filter: blur(4px);">
 					<span>📋</span> 目次
@@ -1645,6 +1659,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 					▲
 				</button>
 			</div>
+			)}
 		</main>
 		<Footer />
 		<script is:inline>

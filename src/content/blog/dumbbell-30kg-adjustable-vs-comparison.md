@@ -110,7 +110,7 @@ sidebarProducts:
 
 さらに、この衝撃吸収は、身体にも恩恵をもたらします。ダンベルを床に置く際や、デッドリフトのように床から持ち上げる際に発生する「ガツン」という衝撃は、手首や肘、肩関節に微細な負担をかける可能性があります。
 
-ラバープレートなら、この物理的な衝撃を和らげ、長期的な関節へのストレス軽減に貢献すると考えられます。
+[ラバープレート](/blog/rubber-weight-plate/)なら、この物理的な衝撃を和らげ、長期的な関節へのストレス軽減に貢献すると考えられます。
 
 アイアンプレートのダンベルを使用していると、トレーニングの進行に伴い、プレート同士がぶつかる金属音や、床に置いたときの衝撃音が気になる場合があります。
 
@@ -179,6 +179,8 @@ sidebarProducts:
 *   <strong>一軒家や専用のトレーニングスペースがある方</strong>: 床へのダメージや騒音が、比較的気にならない環境の方。
 *   <strong>ラバー特有の匂いが苦手な方</strong>: 素材の匂いに敏感な方には、アイアンタイプが適しています。
 *   <strong>シンプルなギアを好む方</strong>: 余分な装飾がなく、純粋に「鉄」の重量感を求める方に。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/irotec-dumbbell-40kg-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">宅トレ進化の鍵！IROTEC可変ダンベル40KGで費用対効果を最大化</a> ／ <a href="/blog/alinco-adjustable-dumbbell-25/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">アジャスタブルダンベル25は本当に必要？宅トレ効果を最大化する科学的根拠</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>IROTEC アイアンダンベル 60KGセットが</strong></div>

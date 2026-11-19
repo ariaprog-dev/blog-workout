@@ -39,7 +39,11 @@ const resolvedImageUrl = heroImage
 	? new URL(heroImage, Astro.site || Astro.url).toString()
 	: (image ? new URL(image.src, Astro.url).toString() : undefined);
 
-const isHome = Astro.url.pathname === '/' || Astro.url.pathname === '/index.html';
+const normalizedPath = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : `${Astro.url.pathname}/`;
+const isHome = normalizedPath === '/' || Astro.url.pathname === '/index.html';
+const isAbout = normalizedPath === '/about/';
+const isArchive = normalizedPath === '/archive/';
+const isNoindex = isArchive || normalizedPath.startsWith('/404');
 const displayTitle = isHome ? SITE_TITLE : `${title} | ${SITE_TITLE}`;
 
 // 構造化データの作成
@@ -104,6 +108,40 @@ if (isHome) {
 	];
 
 	jsonLd = items;
+} else if (isAbout) {
+	const siteOrigin = Astro.site?.toString() || canonicalURL.origin;
+	jsonLd = [
+		{
+			"@context": "https://schema.org",
+			"@type": "AboutPage",
+			"name": title,
+			"description": description,
+			"url": canonicalURL.toString(),
+			"mainEntity": {
+				"@type": "Person",
+				"name": "宅トレ研究家（「最強宅トレ」管理人）",
+				"url": canonicalURL.toString()
+			}
+		},
+		{
+			"@context": "https://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+				{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "ホーム",
+					"item": siteOrigin
+				},
+				{
+					"@type": "ListItem",
+					"position": 2,
+					"name": "運営者情報・プロフィール",
+					"item": canonicalURL.toString()
+				}
+			]
+		}
+	];
 }
 ---
 
@@ -118,7 +156,7 @@ if (isHome) {
 	</script>
 )}
 <meta name="google-site-verification" content="aj3MDKAk2rGfFa3kIAgTPxsHvkBmoJy45c0Z-NJkMbc" />
-<meta name="robots" content="max-image-preview:large" />
+<meta name="robots" content={isNoindex ? 'noindex, follow' : 'max-image-preview:large'} />
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5244593798922699" crossorigin="anonymous"></script>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />

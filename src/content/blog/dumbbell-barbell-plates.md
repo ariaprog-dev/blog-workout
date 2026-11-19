@@ -134,7 +134,7 @@ sidebarProducts:
 
 「今まで自重トレーニングばかりで、物足りなさを感じていたのですが、『停滞期打破』を導入して以来、ダンベルプレスやスクワットに重量をかけられるようになり、一気に筋肉がつき始めました。特に、ダンベルをバーベルとして使えるのは本当に便利で、デッドリフトもできるのが嬉しいです。
 
-ラバープレートなので、夜遅くにトレーニングしても音が気にならないのも助かりますね」（30代男性、宅トレ歴1年）
+[ラバープレート](/blog/rubber-weight-plate/)なので、夜遅くにトレーニングしても音が気にならないのも助かりますね」（30代男性、宅トレ歴1年）
 
 「高重量を扱えるので、まさに『停滞期打破』という名前の通り、筋力と筋量の伸びを感じています。ジムの予約や移動のストレスから解放され、自宅で自分のペースで集中できるのが最高です。グリップもしっかりしていて、滑る心配がなく、安心して追い込めます」（40代男性、宅トレ歴3年）
 
@@ -241,6 +241,8 @@ sidebarProducts:
 | 『停滞期打破』 (可変式ダンベル・バーベル用プレート) | ダンベル・バーベル両用、ラバーコーティングプレート、高強度スチールシャフト | 幅広い重量に調整可能（漸進性過負荷対応） | 省スペース（固定式複数個より） | 最新の販売価格は商品カードおよび公式ショップでご確認ください |
 | 一般的な固定式ダンベル（複数セット） | 各重量ごとに独立したダンベル、シンプルな構造 | 各ダンベルの重量に固定 | 多くのスペースが必要 | 重量・セット数により変動（数万円〜） |
 | ジムのフリーウェイト | 多様なマシン・フリーウェイトが利用可能、専門的な指導も | 非常に幅広い重量に調整可能 | 自宅での設置不要 | 月会費制（年間数万円〜十数万円） |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/alinco-adjustable-dumbbell-25/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">アジャスタブルダンベル25は本当に必要？宅トレ効果を最大化する科学的根拠</a> ／ <a href="/blog/home-workout-bench-dumbbell-max/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">なぜ今、トレーニングベンチ＋可変式ダンベルか？解剖学的メリットで宅トレ効果を最大化</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ダンベル バーベル用 プレート</strong></div>

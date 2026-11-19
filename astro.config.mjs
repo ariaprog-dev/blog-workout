@@ -49,6 +49,7 @@ const _fallbackLastmodIso = _latestLastmodMs > 0 ? new Date(_latestLastmodMs).to
 export default defineConfig({
 	site: 'https://saikyotakutore.ariawriter.com',
 	integrations: [mdx(), sitemap({
+		filter: (page) => !page.includes('/archive/') && !page.includes('/404'),
 		serialize(item) {
 			let _pathname = new URL(item.url).pathname;
 			try { _pathname = decodeURIComponent(_pathname); } catch {}
