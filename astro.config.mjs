@@ -44,6 +44,38 @@ function _collectBlogDates(dir, prefix = '') {
 	}
 }
 _collectBlogDates(_blogDir);
+
+const _pagesDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), 'src/pages');
+function _collectStaticPageDates(dir, prefix = '') {
+	if (!fs.existsSync(dir)) return;
+	for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+		const fullPath = path.join(dir, entry.name);
+		if (entry.isDirectory()) {
+			if (entry.name === 'blog') continue;
+			_collectStaticPageDates(fullPath, `${prefix}${entry.name}/`);
+			continue;
+		}
+		if (!entry.name.endsWith('.astro')) continue;
+		if (entry.name.includes('[') || entry.name === '404.astro') continue;
+		const content = fs.readFileSync(fullPath, 'utf-8');
+		const updatedMatch = content.match(/updatedDate=\{new Date\(['"]([^'"]+)['"]\)\}/);
+		const pubMatch = content.match(/pubDate=\{new Date\(['"]([^'"]+)['"]\)\}/);
+		const chosen = _toIsoDate(updatedMatch?.[1]) || _toIsoDate(pubMatch?.[1]);
+		if (!chosen) continue;
+		if (chosen.ms > _latestLastmodMs) _latestLastmodMs = chosen.ms;
+		let routePath;
+		if (entry.name === 'index.astro') {
+			if (!prefix) continue;
+			routePath = `/${prefix}`;
+		} else {
+			const name = entry.name.replace(/\.astro$/, '');
+			routePath = `/${prefix}${name}/`;
+		}
+		_postLastmodMap.set(routePath, chosen.iso);
+		_postLastmodMap.set(routePath.toLowerCase(), chosen.iso);
+	}
+}
+_collectStaticPageDates(_pagesDir);
 const _fallbackLastmodIso = _latestLastmodMs > 0 ? new Date(_latestLastmodMs).toISOString() : undefined;
 
 export default defineConfig({

@@ -1,0 +1,64 @@
+---
+import { getCollection } from 'astro:content';
+import {
+	GUIDE_HUB,
+	GUIDE_PAGES,
+	filterPostsForGuide,
+	type GuideId,
+} from '../data/guides';
+
+interface Props {
+	currentGuideId: GuideId;
+	sectionTitle?: string;
+}
+
+const {
+	currentGuideId,
+	sectionTitle = 'このテーマに関連する検証・比較記事',
+} = Astro.props;
+
+const allPosts = await getCollection('blog');
+const relatedPosts = filterPostsForGuide(currentGuideId, allPosts, 6);
+const siblingGuides = GUIDE_PAGES.filter((g) => g.id !== currentGuideId);
+---
+
+<section class="guide-footer-section" aria-label="関連記事と他の基礎知識">
+	{relatedPosts.length > 0 && (
+		<div>
+			<h2>{sectionTitle}</h2>
+			<div class="guide-related-grid">
+				{relatedPosts.map((post) => (
+					<a href={`/blog/${post.id}/`} class="guide-related-card">
+						<div class="guide-related-thumb">
+							{post.data.heroImage ? (
+								<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+							) : (
+								<span>🏋️</span>
+							)}
+						</div>
+						<div class="guide-related-body">
+							<h3 class="guide-related-title">{post.data.title}</h3>
+							<span class="guide-related-more">記事を読む →</span>
+						</div>
+					</a>
+				))}
+			</div>
+		</div>
+	)}
+
+	<div class="guide-sibling-box">
+		<h3>📖 他の宅トレ基礎知識もあわせて読む</h3>
+		<div class="guide-sibling-links">
+			{siblingGuides.map((guide) => (
+				<a href={guide.href} class="guide-sibling-link">
+					<span>{guide.icon}</span>
+					<span>{guide.shortTitle}：{guide.badge}</span>
+				</a>
+			))}
+			<a href={GUIDE_HUB.href} class="guide-sibling-link">
+				<span>{GUIDE_HUB.icon}</span>
+				<span>{GUIDE_HUB.shortTitle}へ戻る</span>
+			</a>
+		</div>
+	</div>
+</section>

@@ -1,0 +1,442 @@
+/* =========================================================
+ * 最強宅トレ - 基礎知識ページ群（/guide/*）共通スタイル
+ * ========================================================= */
+
+.guide-article {
+	color: #1e293b;
+	line-height: 1.85;
+}
+
+.guide-article h1,
+.guide-article h2,
+.guide-article h3,
+.guide-article h4,
+.guide-footer-section h2,
+.guide-footer-section h3 {
+	text-transform: none;
+}
+
+.guide-lead {
+	font-size: 1.02rem;
+	line-height: 1.85;
+	color: #0f172a;
+	background: linear-gradient(135deg, rgba(255, 237, 213, 0.6) 0%, #ffffff 100%);
+	border: 1px solid rgba(234, 88, 12, 0.22);
+	border-radius: 12px;
+	padding: 1.3rem 1.5rem;
+	margin: 0 0 2rem;
+}
+
+.guide-lead p:last-child {
+	margin-bottom: 0;
+}
+
+.guide-toc {
+	background: #f8fafc;
+	border: 1px solid #cbd5e1;
+	border-radius: 10px;
+	padding: 1.2rem 1.5rem;
+	margin: 0 0 2.5rem;
+}
+
+.guide-toc-title {
+	font-size: 1rem;
+	font-weight: 800;
+	color: #0f172a;
+	margin: 0 0 0.75rem;
+	display: flex;
+	align-items: center;
+	gap: 0.4rem;
+}
+
+.guide-toc ol {
+	margin: 0;
+	padding-left: 1.35rem;
+}
+
+.guide-toc li {
+	margin-bottom: 0.35rem;
+	font-size: 0.94rem;
+}
+
+.guide-toc a {
+	color: #c2410c;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.guide-toc a:hover {
+	text-decoration: underline;
+	color: #9a3412;
+}
+
+.guide-article h2 {
+	font-size: 1.48rem;
+	color: #0f172a;
+	border-left: 5px solid #ea580c;
+	padding-left: 0.75rem;
+	margin-top: 2.75rem;
+	margin-bottom: 1.2rem;
+}
+
+.guide-article h3 {
+	font-size: 1.18rem;
+	color: #c2410c;
+	margin-top: 2rem;
+	margin-bottom: 0.85rem;
+}
+
+.guide-article ul,
+.guide-article ol {
+	margin: 1rem 0 1.5rem;
+	padding-left: 1.5rem;
+}
+
+.guide-article li {
+	margin-bottom: 0.55rem;
+}
+
+/* レスポンシブ比較テーブル */
+.guide-table-wrap {
+	width: 100%;
+	overflow-x: auto;
+	margin: 1.5rem 0 2rem;
+	border-radius: 10px;
+	border: 1px solid #cbd5e1;
+	background: #ffffff;
+	box-shadow: 0 4px 12px rgba(15, 23, 42, 0.05);
+}
+
+.guide-table {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 0.92rem;
+	min-width: 560px;
+}
+
+.guide-table th {
+	background: #0f172a;
+	color: #ffffff;
+	font-weight: 700;
+	text-align: left;
+	padding: 0.85rem 1rem;
+	white-space: nowrap;
+}
+
+.guide-table td {
+	padding: 0.8rem 1rem;
+	border-top: 1px solid #e2e8f0;
+	vertical-align: top;
+	color: #334155;
+}
+
+.guide-table tbody tr:nth-child(even) {
+	background: #f8fafc;
+}
+
+/* コールアウト（実践メモ・安全注意・医療免責） */
+.guide-callout {
+	border-radius: 10px;
+	padding: 1.25rem 1.4rem;
+	margin: 1.6rem 0;
+	border: 1px solid #cbd5e1;
+	background: #f8fafc;
+}
+
+.guide-callout-title {
+	font-weight: 800;
+	font-size: 1rem;
+	margin: 0 0 0.5rem;
+	display: flex;
+	align-items: center;
+	gap: 0.45rem;
+}
+
+.guide-callout p:last-child,
+.guide-callout ul:last-child {
+	margin-bottom: 0;
+}
+
+.guide-callout-tip {
+	background: linear-gradient(135deg, #fff7ed 0%, #ffedd5 100%);
+	border: 1px solid #fdba74;
+	border-left: 5px solid #ea580c;
+	color: #0f172a;
+}
+
+.guide-callout-tip .guide-callout-title {
+	color: #9a3412;
+}
+
+.guide-callout-warn {
+	background: #fef2f2;
+	border: 1px solid #fecaca;
+	border-left: 5px solid #dc2626;
+	color: #7f1d1d;
+}
+
+.guide-callout-warn .guide-callout-title {
+	color: #991b1b;
+}
+
+/* ステップカード */
+.guide-step-list {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+	margin: 1.5rem 0 2rem;
+}
+
+.guide-step-card {
+	display: flex;
+	gap: 1.1rem;
+	align-items: flex-start;
+	background: #ffffff;
+	border: 1px solid #cbd5e1;
+	border-radius: 12px;
+	padding: 1.2rem 1.35rem;
+	box-shadow: 0 3px 10px rgba(15, 23, 42, 0.04);
+}
+
+.guide-step-num {
+	flex-shrink: 0;
+	width: 2.3rem;
+	height: 2.3rem;
+	border-radius: 8px;
+	background: linear-gradient(135deg, #ea580c, #c2410c);
+	color: #ffffff;
+	font-weight: 800;
+	font-size: 1rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 0 3px 8px rgba(234, 88, 12, 0.25);
+}
+
+.guide-article .guide-step-body h3,
+.guide-article .guide-step-body h4,
+.guide-step-body h3,
+.guide-step-body h4 {
+	margin: 0 0 0.4rem;
+	font-size: 1.08rem;
+	color: #0f172a;
+}
+
+.guide-step-body p {
+	margin: 0 0 0.5rem;
+	font-size: 0.94rem;
+}
+
+.guide-step-body p:last-child {
+	margin-bottom: 0;
+}
+
+/* ハブページのテーマカード */
+.guide-hub-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+	gap: 1.25rem;
+	margin: 1.5rem 0 2.5rem;
+}
+
+.guide-hub-card {
+	display: flex;
+	flex-direction: column;
+	background: #ffffff;
+	border: 1px solid #cbd5e1;
+	border-radius: 12px;
+	padding: 1.35rem;
+	text-decoration: none;
+	color: inherit;
+	box-shadow: 0 4px 14px rgba(15, 23, 42, 0.05);
+	transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.guide-hub-card:hover {
+	transform: translateY(-3px);
+	box-shadow: 0 10px 24px rgba(234, 88, 12, 0.12);
+	border-color: #ea580c;
+}
+
+.guide-hub-card-top {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 0.5rem;
+	margin-bottom: 0.75rem;
+}
+
+.guide-hub-icon {
+	font-size: 1.65rem;
+	line-height: 1;
+}
+
+.guide-hub-badge {
+	font-size: 0.74rem;
+	font-weight: 700;
+	color: #9a3412;
+	background: #ffedd5;
+	border: 1px solid #fdba74;
+	padding: 0.2rem 0.65rem;
+	border-radius: 9999px;
+}
+
+.guide-hub-card h3 {
+	margin: 0 0 0.55rem;
+	font-size: 1.08rem;
+	color: #0f172a;
+	line-height: 1.45;
+}
+
+.guide-hub-card p {
+	margin: 0 0 1rem;
+	font-size: 0.88rem;
+	color: #475569;
+	line-height: 1.7;
+	flex-grow: 1;
+}
+
+.guide-hub-card-footer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 0.82rem;
+	font-weight: 700;
+	color: #ea580c;
+	padding-top: 0.75rem;
+	border-top: 1px solid #e2e8f0;
+}
+
+/* 関連ブログ記事グリッド（GuideFooterSection） */
+.guide-footer-section {
+	margin-top: 3.25rem;
+	padding-top: 2rem;
+	border-top: 2px solid #cbd5e1;
+}
+
+.guide-footer-section h2 {
+	font-size: 1.45rem;
+	color: #0f172a;
+	border-left: 5px solid #ea580c;
+	padding-left: 0.75rem;
+	margin-top: 0;
+	margin-bottom: 1.2rem;
+}
+
+.guide-related-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+	gap: 1rem;
+	margin: 1rem 0 2.25rem;
+}
+
+.guide-related-card {
+	display: flex;
+	flex-direction: column;
+	background: #ffffff;
+	border: 1px solid #cbd5e1;
+	border-radius: 10px;
+	overflow: hidden;
+	text-decoration: none;
+	color: inherit;
+	transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.guide-related-card:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
+	border-color: #ea580c;
+}
+
+.guide-related-thumb {
+	height: 140px;
+	background: #f8fafc;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+}
+
+.guide-related-thumb img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.guide-related-body {
+	padding: 0.95rem 1rem;
+	display: flex;
+	flex-direction: column;
+	flex-grow: 1;
+}
+
+.guide-related-title {
+	font-size: 0.92rem;
+	font-weight: 700;
+	color: #0f172a;
+	line-height: 1.45;
+	margin: 0 0 0.5rem;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+
+.guide-related-more {
+	margin-top: auto;
+	font-size: 0.78rem;
+	font-weight: 700;
+	color: #ea580c;
+}
+
+.guide-sibling-box {
+	background: #f8fafc;
+	border: 1px solid #cbd5e1;
+	border-radius: 12px;
+	padding: 1.35rem;
+}
+
+.guide-sibling-box h3 {
+	margin: 0 0 0.9rem;
+	font-size: 1.08rem;
+	color: #0f172a;
+}
+
+.guide-sibling-links {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+	gap: 0.75rem;
+}
+
+.guide-sibling-link {
+	display: flex;
+	align-items: center;
+	gap: 0.55rem;
+	padding: 0.75rem 0.9rem;
+	background: #ffffff;
+	border: 1px solid #cbd5e1;
+	border-radius: 8px;
+	text-decoration: none;
+	color: #0f172a;
+	font-size: 0.88rem;
+	font-weight: 700;
+	transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.guide-sibling-link:hover {
+	border-color: #ea580c;
+	background: #fff7ed;
+}
+
+@media (max-width: 640px) {
+	.guide-lead,
+	.guide-toc,
+	.guide-callout {
+		padding: 1.05rem 1.1rem;
+	}
+	.guide-step-card {
+		flex-direction: column;
+		gap: 0.7rem;
+		padding: 1rem 1.1rem;
+	}
+}

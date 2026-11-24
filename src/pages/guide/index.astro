@@ -1,0 +1,113 @@
+---
+import Layout from '../../layouts/BlogPost.astro';
+import '../../styles/guide.css';
+import { GUIDE_HUB, GUIDE_PAGES } from '../../data/guides';
+---
+
+<Layout
+	title={GUIDE_HUB.title}
+	description={GUIDE_HUB.description}
+	pubDate={new Date('2026-11-20')}
+>
+	<div class="guide-article">
+		<div class="guide-lead">
+			<p>
+				自宅トレーニングで成果を出すうえで最初にやるべきことは、器具を買い漁ることではなく<strong>「自分が何のために筋トレをするのか（目的）」をはっきりさせること</strong>です。筋肥大を目指すのか、筋力UPを狙うのか、引き締めや健康維持が目的なのかによって、正しいフォームの意識・重量・回数・セット数・揃えるべき道具まで変わってきます。この基礎知識ハブでは、宅トレ歴5年（68kg→82kg）の管理人の実践知見と運動生理学の基本を4つのテーマに分けて整理しました。
+			</p>
+		</div>
+
+		<nav class="guide-toc" aria-label="このページの内容">
+			<p class="guide-toc-title">📑 このガイドの歩き方</p>
+			<ol>
+				<li><a href="#themes">4つの宅トレ基礎知識テーマから選ぶ</a></li>
+				<li><a href="#roadmap">目的別・最初に読むおすすめの順番</a></li>
+				<li><a href="#minimum-gear">宅トレを始める際の最低限の考え方</a></li>
+				<li><a href="#disclaimer">検証スタンスと安全性・医療免責</a></li>
+			</ol>
+		</nav>
+
+		<h2 id="themes">1. 4つの宅トレ基礎知識テーマ</h2>
+		<p>
+			初めて自宅トレーニングに取り組む方は、まず<strong>「目的別筋トレ設計」</strong>で自分のゴールとやり方を決め、次に<strong>「自宅機材（ダンベル・300kgベンチ）」</strong>で最小限の設備（重量を変えられるダンベル＋耐荷重300kg以上のアジャスタブルベンチ）を確認するのがもっとも遠回りの少ない進め方です。
+		</p>
+
+		<div class="guide-hub-grid">
+			{GUIDE_PAGES.map((guide) => (
+				<a href={guide.href} class="guide-hub-card">
+					<div class="guide-hub-card-top">
+						<span class="guide-hub-icon">{guide.icon}</span>
+						<span class="guide-hub-badge">{guide.badge}・約{guide.readingMinutes}分</span>
+					</div>
+					<h3>{guide.title}</h3>
+					<p>{guide.summary}</p>
+					<div class="guide-hub-card-footer">
+						<span>基礎知識を読む</span>
+						<span>→</span>
+					</div>
+				</a>
+			))}
+		</div>
+
+		<h2 id="roadmap">2. 目的別・最初に読むおすすめの順番</h2>
+		<div class="guide-table-wrap">
+			<table class="guide-table">
+				<thead>
+					<tr>
+						<th>あなたの目的・段階</th>
+						<th>1ページ目</th>
+						<th>2ページ目</th>
+						<th>達成したい状態</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td><strong>筋肉を大きくしたい（筋肥大）</strong></td>
+						<td><a href="/guide/training/">目的別筋トレ設計</a></td>
+						<td><a href="/guide/nutrition/">プロテインと栄養の基礎</a></td>
+						<td>狙った筋肉に効かせるフォーム・回数設定と栄養管理を確立</td>
+					</tr>
+					<tr>
+						<td><strong>扱う重量・出力を伸ばしたい（筋力UP）</strong></td>
+						<td><a href="/guide/training/">目的別筋トレ設計</a></td>
+						<td><a href="/guide/safety/">筋トレの怪我予防・保護ギア</a></td>
+						<td>高重量に耐えるフォーム・休憩設定と関節を守るギア導入判断</td>
+					</tr>
+					<tr>
+						<td><strong>最小限の予算で自宅環境を整えたい</strong></td>
+						<td><a href="/guide/home-gym/">自宅機材（ダンベル・300kgベンチ）</a></td>
+						<td><a href="/guide/safety/#home-safety">安全対策と床保護</a></td>
+						<td>ダンベル（可変式・プレート式）と耐荷重300kg以上ベンチの失敗しない選定</td>
+					</tr>
+					<tr>
+						<td><strong>プロテイン・サプリで迷っている</strong></td>
+						<td><a href="/guide/nutrition/">プロテインと栄養の基礎</a></td>
+						<td><a href="/guide/training/#principles">回復理論と休養の基本</a></td>
+						<td>食事を土台に、WPC/WPI・ソイ等の目的に合った補給食を選択</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<h2 id="minimum-gear">3. 宅トレを始める際の最低限の考え方</h2>
+		<div class="guide-callout guide-callout-tip">
+			<p class="guide-callout-title">🏋️ 管理人（宅トレ研究家）からの基本方針</p>
+			<p>
+				自宅で本格的にトレーニングを続けるために最低限用意しておきたい道具は、突き詰めると<strong>「① 重量を変えられるダンベル（可変式、またはシャフト＋プレート）」</strong>と<strong>「② アジャスタブルトレーニングベンチ（耐荷重300kg以上を強く推奨）」</strong>の2つです。
+			</p>
+			<p>
+				最初から高価な保護ギアや大型マシンをすべて揃える必要はありません。まずは目的を決めて基礎フォームを固め、<strong>後々高重量を扱うようになってから怪我予防やフォーム安定のためにベルト・リストラップ・パワーグリップ・スリーブ等の各種ギアを検討する</strong>のが最も合理的で安全なステップです。
+			</p>
+		</div>
+
+		<h2 id="disclaimer">4. 検証スタンスと安全性・医療免責</h2>
+		<div class="guide-callout guide-callout-warn">
+			<p class="guide-callout-title">⚠️ 安全利用および医療免責に関するご注意</p>
+			<p>
+				当ブログ「最強宅トレ」の解説は、管理人の5年間の実践知見（68kg→82kgの増量過程でシャフト＋プレート式ダンベルやEZバーを運用した経験）および運動生理学の一般的知見・メーカー公開仕様をもとに整理した参考情報です。未所有の機材・サプリメントについて実使用体験を偽る記述は行いません。
+			</p>
+			<p>
+				運動・栄養・サプリメントに関する解説は医療行為や医師の診断に代わるものではありません。関節の痛み・持病・体調に不安がある場合や服薬中の方は、無理に実践せず必ず医師や専門家にご相談ください。運営方針の詳細は <a href="/about/">プロフィール・当ブログについて</a> もあわせてご確認ください。
+			</p>
+		</div>
+	</div>
+</Layout>

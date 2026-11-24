@@ -22,12 +22,20 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
+const normalizedPath = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : `${Astro.url.pathname}/`;
+const isHome = normalizedPath === '/' || Astro.url.pathname === '/index.html';
+const isAbout = normalizedPath === '/about/';
+const isArchive = normalizedPath === '/archive/';
+const isGuideHub = normalizedPath === '/guide/';
+const isGuideSubpage = normalizedPath.startsWith('/guide/') && !isGuideHub;
+const isNoindex = isArchive || normalizedPath.startsWith('/404');
+
 const { 
 	title, 
 	description, 
 	image = FallbackImage, 
 	heroImage,
-	type = Astro.url.pathname.includes('/blog/') ? 'article' : 'website',
+	type = Astro.url.pathname.includes('/blog/') || isGuideSubpage ? 'article' : 'website',
 	pubDate,
 	updatedDate,
 	faq,
@@ -39,11 +47,6 @@ const resolvedImageUrl = heroImage
 	? new URL(heroImage, Astro.site || Astro.url).toString()
 	: (image ? new URL(image.src, Astro.url).toString() : undefined);
 
-const normalizedPath = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : `${Astro.url.pathname}/`;
-const isHome = normalizedPath === '/' || Astro.url.pathname === '/index.html';
-const isAbout = normalizedPath === '/about/';
-const isArchive = normalizedPath === '/archive/';
-const isNoindex = isArchive || normalizedPath.startsWith('/404');
 const displayTitle = isHome ? SITE_TITLE : `${title} | ${SITE_TITLE}`;
 
 // 構造化データの作成
@@ -57,7 +60,7 @@ if (isHome) {
 		"url": Astro.site?.toString() || canonicalURL.origin,
 		"description": description
 	};
-} else if (type === 'article') {
+} else if (type === 'article' && !isGuideSubpage) {
 	const imageUrl = resolvedImageUrl;
 	const aboutUrl = new URL('/about/', Astro.site || canonicalURL.origin).toString();
 	const items: any[] = [
@@ -107,6 +110,21 @@ if (isHome) {
 		}
 	];
 
+	if (faq && faq.length > 0) {
+		items.push({
+			"@context": "https://schema.org",
+			"@type": "FAQPage",
+			"mainEntity": faq.map((f) => ({
+				"@type": "Question",
+				"name": f.question,
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": f.answer
+				}
+			}))
+		});
+	}
+
 	jsonLd = items;
 } else if (isAbout) {
 	const siteOrigin = Astro.site?.toString() || canonicalURL.origin;
@@ -142,6 +160,108 @@ if (isHome) {
 			]
 		}
 	];
+} else if (isGuideHub) {
+	const siteOrigin = Astro.site?.toString() || canonicalURL.origin;
+	jsonLd = [
+		{
+			"@context": "https://schema.org",
+			"@type": "CollectionPage",
+			"name": title,
+			"description": description,
+			"url": canonicalURL.toString()
+		},
+		{
+			"@context": "https://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+				{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "ホーム",
+					"item": siteOrigin
+				},
+				{
+					"@type": "ListItem",
+					"position": 2,
+					"name": title,
+					"item": canonicalURL.toString()
+				}
+			]
+		}
+	];
+} else if (isGuideSubpage) {
+	const siteOrigin = Astro.site?.toString() || canonicalURL.origin;
+	const guideHubUrl = new URL('/guide/', siteOrigin).toString();
+	const aboutUrl = new URL('/about/', siteOrigin).toString();
+	const items: any[] = [
+		{
+			"@context": "https://schema.org",
+			"@type": "Article",
+			"headline": title,
+			"description": description,
+			"image": resolvedImageUrl,
+			"datePublished": pubDate ? pubDate.toISOString() : undefined,
+			"dateModified": updatedDate ? updatedDate.toISOString() : (pubDate ? pubDate.toISOString() : undefined),
+			"mainEntityOfPage": {
+				"@type": "WebPage",
+				"@id": canonicalURL.toString()
+			},
+			"author": {
+				"@type": "Person",
+				"name": "宅トレ研究家（「最強宅トレ」管理人）",
+				"url": aboutUrl
+			},
+			"publisher": {
+				"@type": "Organization",
+				"name": SITE_TITLE,
+				"logo": {
+					"@type": "ImageObject",
+					"url": new URL('/favicon.png', siteOrigin).toString()
+				}
+			}
+		},
+		{
+			"@context": "https://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+				{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "ホーム",
+					"item": siteOrigin
+				},
+				{
+					"@type": "ListItem",
+					"position": 2,
+					"name": "基礎知識",
+					"item": guideHubUrl
+				},
+				{
+					"@type": "ListItem",
+					"position": 3,
+					"name": title,
+					"item": canonicalURL.toString()
+				}
+			]
+		}
+	];
+
+	if (faq && faq.length > 0) {
+		items.push({
+			"@context": "https://schema.org",
+			"@type": "FAQPage",
+			"mainEntity": faq.map((f) => ({
+				"@type": "Question",
+				"name": f.question,
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": f.answer
+				}
+			}))
+		});
+	}
+
+	jsonLd = items;
 }
 ---
 
