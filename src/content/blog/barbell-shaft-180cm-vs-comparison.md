@@ -19,20 +19,17 @@ faq:
   - question: 'バーベルシャフトの歪みや劣化を防ぐには？'
     answer: 'トレーニング後は必ずシャフトからプレートを外してください。プレートを装着したまま放置すると、シャフトに負荷がかかり続けて歪みの原因となります。また、シャフトを投げ落とすことは避け、優しく扱うことで耐久性を保てます。カラー（留め具）は緩みやすいので、各セット前や休憩時に締め直す習慣をつけることで、安全に長く使用できます。'
 sidebarProducts:
-  - title: '【P10倍★9日まで】　バーベルシャフト 180cm BODYMAKER ボディメーカー シャフト ウエイトトレーニング カラー バーベル 筋力 筋肉 筋トレ トレーニング フリーウエイト ダンベル 宅トレ ホームジム 8kg'
+  - title: 'BODYMAKER バーベルシャフト 180cm（8kg）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00psqw1.ve2q5623.g00psqw1.ve2q60ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodymaker%2Fbs180%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbodymaker%2Fi%2F10000949%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/bodymaker/cabinet/b/bs_01.jpg?_ex=600x600'
-    price: 11000
     microCopy: '詳細を見る'
-  - title: '【楽天1位】バーベルシャフト バーベル 3分割 長さ180cm ダンベルプレート用 バーベルシャフト/バー[カラー付/シャフト径28mm/重量約10kg] 連結 バーベルシャフト 筋トレ トレーニング 分解 重り 交換 追加 パーツ FIELDOOR 1年保証 ★[送料無料]'
+  - title: 'FIELDOOR 3分割 バーベルシャフト 180cm（28mm径・約10kg）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa12367%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10058784%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a12367.jpg?_ex=600x600'
-    price: 4510
     microCopy: '詳細を見る'
-  - title: '【楽天1位】バーベルシャフト バーベル 3分割 長さ180cm ダンベルプレート用 バーベルシャフト/バー[カラー付/シャフト径28mm/重量約10kg] 連結 バーベルシャフト 筋トレ トレーニング 分解 重り 交換 追加 パーツ FIELDOOR 1年保証 ■[送料無料]'
+  - title: 'FIELDOOR 3分割 バーベルシャフト 180cm（28mm径・約10kg）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00q6pe1.ve2q5c3e.g00q6pe1.ve2q69be/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmile88%2Fa12367%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmile88%2Fi%2F10064476%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/smile88/cabinet/master/1st/a12367.jpg?_ex=600x600'
-    price: 4510
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -46,24 +43,24 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bodymaker/cabinet/b/bs_01.jpg?_ex=600x600" alt="P10倍★9日" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bodymaker/cabinet/b/bs_01.jpg?_ex=600x600" alt="BODYMAKER バーベルシャフト 180cm" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">P10倍★9日</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">BODYMAKER バーベルシャフト 180cm</h4>
 
-<div class="live-price-box" data-product-key="p10倍★9日" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div class="live-price-box" data-product-key="bodymaker-バーベルシャフト-180cm" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥11,000</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DP10%25E5%2580%258D%25E2%2598%25859%25E6%2597%25A5" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBODYMAKER%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2595%25E3%2583%2588%2520180cm" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00psqw1.ve2q5623.g00psqw1.ve2q60ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodymaker%2Fbs180%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbodymaker%2Fi%2F10000949%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DP10%25E5%2580%258D%25E2%2598%25859%25E6%2597%25A5" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBODYMAKER%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2595%25E3%2583%2588%2520180cm" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -120,7 +117,6 @@ IROTECは、多くの宅トレ愛好家に支持されるトレーニング器�
 | :----------- | :------------------------- |
 | 価格         | 最新の販売価格は商品カードおよび公式ショップでご確認ください |
 | 販売ショップ | スーパースポーツカンパニー |
-| レビュー評価 | 4.52 (52件)                |
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>IROTECシャフト</strong></div>
@@ -135,7 +131,6 @@ BODYMAKERも、トレーニングウェアや器具で人気のブランドで�
 | :----------- | :-------------------- |
 | 価格         | 最新の販売価格は商品カードおよび公式ショップでご確認ください |
 | 販売ショップ | ボディメーカー        |
-| レビュー評価 | 4.0 (7件)             |
 
 ### BODYMAKERの設計思想：普遍的な使いやすさと将来性への配慮
 
@@ -178,7 +173,6 @@ BODYMAKERのシャフトは、IROTECと比較して商品カードで確認で�
 | **プレートスリーブ** | 約28cm（短め、装着枚数に限りあり）                              | 350mm（高重量設定しやすい）          |
 | **耐荷重**     | 明記なし                                                        | 150kg                              |
 | **互換性**     | 他社製品との互換性に注意                                        | 記載なし（標準的と推測）           |
-| **レビュー評価** | 4.52 (52件)                                                     | 4.0 (7件)                          |
 
 ### スペック・性能の比較：機能性と将来性
 
@@ -200,7 +194,7 @@ IROTECの約122cmワイドグリップとローレット加工は、ベンチプ
 
 ### コストパフォーマンスと維持費：初期投資と長期的な視点
 
-価格は商品カードで確認できますが、送料の有無も考慮に入れるべきです。どちらも本州・四国・九州は送料無料ですが、北海道・沖縄在住の場合はIROTECが別途2,750円かかるのに対し、BODYMAKERは全地域で送料無料です。
+価格は各ショップで確認できますが、送料の有無も考慮に入れるべきです。本州・四国・九州は送料無料であっても、北海道・沖縄などの一部地域では送料条件がショップごとに異なる場合があるため、最終的な総額は販売ページでご確認ください。
 
 地域によってはBODYMAKERの方が最終的な支払額が異なる可能性もあります。
 

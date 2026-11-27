@@ -18,7 +18,6 @@ sidebarProducts:
 - title: 幅広ヨガマット
   url: https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B9%85%E5%BA%83%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88%2F
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/max-a09809.jpg?_ex=600x600
-  price: 2980
   microCopy: 詳細を見る
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。

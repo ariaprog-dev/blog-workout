@@ -17,27 +17,23 @@ faq:
 - question: 450mm・550mm・650mmのシャフトはどのように選び分ければよいですか？
   answer: 片手25〜30kg前後の取り回し重視なら450mm、小さめ・薄めのプレートも多めに載せて片手40〜48kg以上の高重量プレスやロウに対応したい場合は550mmがバランスの良い基準になります。650mmクラスは主にワンハンドロウ等の単腕超高重量種目向けの設計です。
 sidebarProducts:
-- title: 【11/25 1:59迄 P10倍(要エントリー)】IROTEC（アイロテック）ロングスクリューダンベルシャフト55（カラー付）/ ダンベル シャフト
+- title: IROTEC（アイロテック）ロングスクリューダンベルシャフト55（カラー付）/ ダンベル シャフト
     ベンチプレス 鉄アレイ バーベル 筋トレ グッズ 3kg ウエイトトレーニング トレーニング器具 ウエイト 鉄アレー アームカール
   url: https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000358%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000358%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/newitem2023/09699798/sds5520231013.jpg?_ex=600x600
-  price: 5830
   microCopy: 詳細を見る
 - title: ダンベルシャフト 550mm 2本セット(スクリューカラー付）送料無料 筋トレ トレーニング ウエイト バーベル ロング [WILD FIT ワイルドフィット]
   url: https://hb.afl.rakuten.co.jp/hgc/g00qbcu1.ve2q5b8a.g00qbcu1.ve2q654d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwildfit%2Fn029-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwildfit%2Fi%2F10003260%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/wildfit/cabinet/dumbell/n029-2set.jpg?_ex=600x600
-  price: 12100
   microCopy: 詳細を見る
 - title: GronG(グロング) ダンベルシャフト ストレートバーウエイトトレーニング 45cm シャフト径28mm 2.5kg カラー付き
   url: https://hb.afl.rakuten.co.jp/hgc/g00spwj1.ve2q53a0.g00spwj1.ve2q6b6b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiimoshop%2Fgrong-170-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiimoshop%2Fi%2F10001710%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/iimoshop/cabinet/newsamune/0078171325.jpg?_ex=600x600
-  price: 2000
   microCopy: 詳細を見る
-- title: 【11/25 1:59迄 P10倍(要エントリー)】IROTEC（アイロテック）スーパーロングスクリューダンベルシャフト65 / ダンベル ダンベルシャフト
+- title: IROTEC（アイロテック）スーパーロングスクリューダンベルシャフト65 / ダンベル ダンベルシャフト
     シャフト ベンチプレス 鉄アレイ バーベル 筋トレ グッズ ウエイトトレーニング トレーニング器具 ウエイト 鉄アレー アームカール
   url: https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2Fsds65%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10001500%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/11710986/sds65/sds65main1.jpg?_ex=600x600
-  price: 7700
   microCopy: 詳細を見る
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -60,7 +56,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="irotec-ロングスクリューダンベルシャフト55" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥5,830</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -112,12 +108,12 @@ sidebarProducts:
 
 楽天市場の公式ストア・取扱ショップで確認できた、長さ別主要4モデルの公称仕様は以下の通りです。
 
-| モデル名 | 全長 | シャフト径 | 重量（1本） | セット内容・価格目安（税込） | 対応目安・向いている用途 |
+| モデル名 | 全長 | シャフト径 | 重量（1本） | セット内容 | 対応目安・向いている用途 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| IROTEC ロングスクリュー55 | 55cm（550mm） | φ28mm | 3kg | 1本＋カラー付 / ¥5,830 | 両手プレスと高重量の両立（550mm標準・実用目安40〜48kg級 ※公式耐荷重非公開） |
-| WILD FIT 550mm 2本セット | 550mm | φ28mm | 3kg | 2本セット＋カラー4個 / ¥12,100 | グリップ130mm/スリーブ200mm明記・片手60kg専用設計 |
-| GronG ダンベルシャフト 45cm | 約45cm（450mm） | φ28mm | 約2.5kg | 1本＋ラバー付カラー2個 / ¥2,000 | 40cm前後からの軽度拡張・片手25〜30kg前後の取り回し重視 |
-| IROTEC スーパーロング65 | 約65cm（650mm） | φ28mm | 約3.3kg（カラー含） | 1本＋カラー付 / ¥7,700 | スリーブ約25cm・ワンハンドロウ等の単腕高重量種目特化 |
+| IROTEC ロングスクリュー55 | 55cm（550mm） | φ28mm | 3kg | 1本＋カラー付 | 両手プレスと高重量の両立（550mm標準・実用目安40〜48kg級 ※公式耐荷重非公開） |
+| WILD FIT 550mm 2本セット | 550mm | φ28mm | 3kg | 2本セット＋カラー4個 | グリップ130mm/スリーブ200mm明記・片手60kg専用設計 |
+| GronG ダンベルシャフト 45cm | 約45cm（450mm） | φ28mm | 約2.5kg | 1本＋ラバー付カラー2個 | 40cm前後からの軽度拡張・片手25〜30kg前後の取り回し重視 |
+| IROTEC スーパーロング65 | 約65cm（650mm） | φ28mm | 約3.3kg（カラー含） | 1本＋カラー付 | スリーブ約25cm・ワンハンドロウ等の単腕高重量種目特化 |
 
 ## 用途別・ロングシャフト4モデルの詳細比較
 
@@ -125,10 +121,10 @@ sidebarProducts:
 
 国内ホームジム市場で定番のアイロテック（スーパースポーツカンパニー）による全長55cm・φ28mmのロングシャフトです。本体重量は1本あたり約3kgで、グリップ部はローレット加工が施されています。
 
-穴径29mmのレギュラープレート専用設計となっており、1本単位（5,830円）で購入できるため、まずはワンハンドロウ用に1本試してからもう1本買い足す運用にも柔軟に対応できます。
+穴径29mmのレギュラープレート専用設計となっており、1本単位で購入できるため、まずはワンハンドロウ用に1本試してからもう1本買い足す運用にも柔軟に対応できます（最新価格・在庫は各ショップでご確認ください）。
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>IROTEC ダンベルシャフト 550mm</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（参考価格: ¥5,830）</span></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>IROTEC ダンベルシャフト 550mm</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（価格・在庫は各ショップで確認）</span></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DIROTEC%2520%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2595%25E3%2583%258855" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000358%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000358%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIROTEC%2520%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2595%25E3%2583%258855" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
@@ -136,21 +132,21 @@ sidebarProducts:
 
 ワイルドフィット製の550mmシャフトは、グリップ部130mm・プレート取付部（スリーブ）200mm・本体重量3kg/本と細かな各部寸法および「片手60kg専用設計」が公式ページに明記されているのが特長です。
 
-最初から2本セット（スクリューカラー4個付・12,100円）で届くため、左右同じ仕様のペアを一括で揃えたい場合や、片手あたりの装着可能枚数目安（アイアン5kg×12枚＝60kgまで等）を明確に把握して組みたい場合に検討しやすい構成です。
+最初から2本セット（スクリューカラー4個付）で届くため、左右同じ仕様のペアを一括で揃えたい場合や、片手あたりの装着可能枚数目安（アイアン5kg×12枚＝60kgまで等）を明確に把握して組みたい場合に検討しやすい構成です（最新価格は各ショップでご確認ください）。
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>WILD FIT シャフト 550mm 2本セット</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（参考価格: ¥12,100）</span></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>WILD FIT シャフト 550mm 2本セット</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（価格・在庫は各ショップで確認）</span></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWILD%2520FIT%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2595%25E3%2583%2588%2520550mm" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00qbcu1.ve2q5b8a.g00qbcu1.ve2q654d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwildfit%2Fn029-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwildfit%2Fi%2F10003260%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DWILD%2520FIT%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2595%25E3%2583%2588%2520550mm" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
 ### GronG ダンベルシャフト 45cm 28mm（省スペース・手頃な450mmクラス）
 
-550mmまでは長すぎて取り回しが不安という方に向くのが、全長約45cm（450mm）・約2.5kgのグロング製28mmシャフトです。1本あたり2,000円と導入ハードルが低く、ラバー付きカラーが2個付属しています。
+550mmまでは長すぎて取り回しが不安という方に向くのが、全長約45cm（450mm）・約2.5kgのグロング製28mmシャフトです。1本単位の手頃な価格帯で導入ハードルが低く、ラバー付きカラーが2個付属しています。
 
 付属35〜40cmシャフトからの手軽なステップアップに適しており、10kgプレートや複数枚の5kgプレートを活かしながらアームカール・ショルダープレス時の肘や大腿への引っかかりを抑えたいケースに適しています。
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>GronG ダンベルシャフト 45cm</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（参考価格: ¥2,000）</span></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>GronG ダンベルシャフト 45cm</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（価格・在庫は各ショップで確認）</span></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGronG%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2595%25E3%2583%2588%252045cm%252028mm" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00spwj1.ve2q53a0.g00spwj1.ve2q6b6b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiimoshop%2Fgrong-170-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiimoshop%2Fi%2F10001710%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DGronG%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2595%25E3%2583%2588%252045cm%252028mm" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
@@ -161,7 +157,7 @@ sidebarProducts:
 長さ65cmクラスになると両手同時のプレス種目やフライでは横幅を取りやすいため、主に片手50kg超のワンハンドダンベルロウやゴブレットスクワット・シュラッグなど、片手・縦持ち中心で極限までプレートを積みたい中上級者向けの設計と言えます。
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>IROTEC スーパーロングシャフト 65cm</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（参考価格: ¥7,700）</span></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>IROTEC スーパーロングシャフト 65cm</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（価格・在庫は各ショップで確認）</span></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DIROTEC%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2595%25E3%2583%2588%252065cm%2520SDS65" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2Fsds65%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10001500%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIROTEC%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2595%25E3%2583%2588%252065cm%2520SDS65" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 

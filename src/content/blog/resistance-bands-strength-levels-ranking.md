@@ -29,20 +29,17 @@ faq:
 
 これにより、漸進性過負荷の原則を実践し、筋力アップを目指せます。'
 sidebarProducts:
-  - title: '【5のつく日、店内全品50％OFF！】トレーニングチューブ 5本セット 強度別 エクササイズバンド ストレッチ ゴムバンド 筋トレ 懸垂 チューブ トレーニング ループ ループバンド ちゅーぶ ゴムチューブ レジスタンスバンド シェイプアップ 体操 リハビリ'
+  - title: 'トレーニングチューブ 5本セット（強度別）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00sceo1.ve2q59b4.g00sceo1.ve2q697e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhonest-online%2Fgetfit-training-tube-5set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhonest-online%2Fi%2F10000731%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/honest-online/cabinet/08451362/08792667/main.jpg?_ex=600x600'
-    price: 4980
     microCopy: '詳細を見る'
   - title: 'セラバンド トレーニングバンド 2m 強度レベル+1 グリーン #TBB-3 THERABAND'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00tqw31.ve2q502c.g00tqw31.ve2q6ae5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdmonline-shop%2Faa8900012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdmonline-shop%2Fi%2F10000150%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin100_03/168-8557.jpg?_ex=600x600'
-    price: 2200
     microCopy: '詳細を見る'
-  - title: 'トレーニングバンド トレーニングチューブ エクササイズバンド 美尻 3本セット 強度別 筋トレ チューブ お尻トレ 美脚 脚痩せ ダイエット ヨガ ピラティス バンド エクササイズ ストレッチ トレーニング 丈夫 収納袋付き 送料無料'
+  - title: 'トレーニングバンド 3本セット（強度別・収納袋付き）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00u6yg1.ve2q527c.g00u6yg1.ve2q63e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F3qshop%2Fchi2268%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F3qshop%2Fi%2F10000778%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/3qshop/cabinet/image5/chi2268.jpg?_ex=600x600'
-    price: 2700
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -65,7 +62,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="トレーニングチューブ-5本セット-強度別" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥4,980</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -84,18 +81,18 @@ sidebarProducts:
 
 ## 総合比較一覧表
 
-| 順位 | 商品名 | 主な特徴 | 価格帯 | おすすめな人 |
+| 順位 | 商品名 | 主な特徴 | 価格・在庫 | おすすめな人 |
 | :--- | :--- | :--- | :--- | :--- |
-| <strong>1位</strong> | <strong>STEADY トレーニングチューブ 強度別5本セット</strong> | 5段階負荷、ドアアンカー・動画付属、手厚い保証 | 2,000円台 | 初心者から中級者まで、万能に宅トレしたい人 |
-| <strong>2位</strong> | <strong>HONEST トレーニングチューブ 5本セット</strong> | TPE素材、選べる表面加工、充実の付属品 | 4,000円台 | 品質と耐久性を重視し、デザインも選びたい人 |
-| <strong>3位</strong> | <strong>セラバンド トレーニングバンド 2m 強度レベル+1</strong> | 医療・リハビリ実績、ハンドルレスで応用性が高い | 2,000円台 | リハビリや特定の筋肉のケア・柔軟性向上をしたい人 |
-| <strong>4位</strong> | <strong>トレーニングバンド 美尻 3本セット</strong> | 布製ループ、滑り止め付き、お尻・脚トレ特化 | 2,000円台 | お尻や脚を集中的に鍛えたい人、皮膚への負担が気になる人 |
+| <strong>1位</strong> | <strong>STEADY トレーニングチューブ 強度別5本セット</strong> | 5段階負荷、ドアアンカー・動画付属、手厚い保証 | 各ショップで確認 | 初心者から中級者まで、万能に宅トレしたい人 |
+| <strong>2位</strong> | <strong>HONEST トレーニングチューブ 5本セット</strong> | TPE素材、選べる表面加工、充実の付属品 | 各ショップで確認 | 品質と耐久性を重視し、デザインも選びたい人 |
+| <strong>3位</strong> | <strong>セラバンド トレーニングバンド 2m 強度レベル+1</strong> | 医療・リハビリ実績、ハンドルレスで応用性が高い | 各ショップで確認 | リハビリや特定の筋肉のケア・柔軟性向上をしたい人 |
+| <strong>4位</strong> | <strong>トレーニングバンド 美尻 3本セット</strong> | 布製ループ、滑り止め付き、お尻・脚トレ特化 | 各ショップで確認 | お尻や脚を集中的に鍛えたい人、皮膚への負担が気になる人 |
 
 ---
 
 ## 第1位: STEADY トレーニングチューブ 強度別5本セット
 
-STEADYのトレーニングチューブは、<strong>自宅トレーニングの課題を総合的に解決してくれる</strong>、非常にバランスの取れた製品です。5段階の強度別チューブと充実した付属品で、全身くまなく鍛えられます。レビュー評価4.69（2051件）という実績も信頼の証ですね。
+STEADYのトレーニングチューブは、<strong>自宅トレーニングの課題に幅広く対応できる</strong>、バランスの取れた製品です。5段階の強度別チューブと充実した付属品で、全身のトレーニングに取り入れやすくなっています。
 
 #### なぜ宅トレで選ぶべきか？ STEADYが提供する機能的価値
 
@@ -153,7 +150,7 @@ HONESTのトレーニングチューブは、STEADYと同様に5段階の強度�
 
 #### 妥協すべき点と向いていない人
 
-STEADYと比較すると、価格が少し高めな点（4,980円）が挙げられます。また、トレーニング解説動画は付属していないため、チューブトレーニング初心者や、様々な種目を学びたい人は、別途YouTubeなどで情報を集める手間が必要です。
+STEADYと比較すると、やや上位の価格帯になる点が挙げられます。また、トレーニング解説動画は付属していないため、チューブトレーニング初心者や、様々な種目を学びたい人は、別途YouTubeなどで情報を集める手間が必要です。
 
 <strong>初心者で動画による丁寧なガイドを求める方</strong>や、<strong>とにかく初期費用を抑えたい方</strong>には、STEADYの方が向いているかもしれません。しかし、<strong>ラテックスアレルギーの懸念がある方</strong>や、<strong>質感やデザインにもこだわりたい方</strong>にとっては、HONESTは有力な選択肢となるでしょう。
 

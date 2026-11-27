@@ -15,20 +15,17 @@ faq:
   - question: '賃貸でもダンベル使って大丈夫？'
     answer: 'ダンベルを扱う際は、床への衝撃や騒音に配慮が必要です。厚手のトレーニングマットを敷く、フローリングに直接置かない、静かに動作するなどの対策を徹底しましょう。特に可変式ダンベルは重くなるため、専用のスタンドやマットを組み合わせると安心です。'
 sidebarProducts:
-  - title: '【20日はP最大10倍&1,000円OFFcp！】【★2年保証＆レビュープレゼント】ダンベル 可変式 80kgセット 40kg×2個 17段階調整 静音設計 ワンタッチ重量変更 コンパクト収納 自宅トレーニング アジャスタブルダンベル'
+  - title: '可変式ダンベル 40kg×2個（80kgセット・17段階調整）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-80kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/h2brothers/cabinet/fitness/danberu-80kgns2.jpg?_ex=600x600'
-    price: 15980
     microCopy: '詳細を見る'
-  - title: '【20日はP最大10倍&1,000円OFFcp！】【★2年保証】ダンベル 可変式 40kg×2個 80kgセット17段階調整 静音設計 ワンタッチ重量変更 コンパクト収納 自宅トレーニング アジャスタブルダンベル'
+  - title: '可変式ダンベル 40kg×2個セット（17段階重量調整）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00tsh61.ve2q568d.g00tsh61.ve2q650b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsportsmonster%2Fdanberu-80kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsportsmonster%2Fi%2F10000024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/sportsmonster/cabinet/fitness/danberu-80kg_rakuten.jpg?_ex=600x600'
-    price: 16980
     microCopy: '詳細を見る'
-  - title: 'ダンベル 1kg 1.5kg 2kg 2個セット 女性用 1キロ 1.5キロ 2キロ 女性 鉄アレイ おしゃれ コンパクト かわいい 男性用 オリジナル動画付 エクササイズ ダイエット カラー シェイプアップ 筋トレ 送料無料 ギフト'
+  - title: 'カラーダンベル 2個セット（1kg・1.5kg・2kg）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00s3ih1.ve2q5b8f.g00s3ih1.ve2q6a97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmooshop%2F10000099%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmooshop%2Fi%2F10000099%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mooshop/cabinet/mem_item/training2/imgrc0133414855.jpg?_ex=600x600'
-    price: 1290
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -49,7 +46,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="ダンベル-可変式-80kgセット-40kg×2個" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥15,980</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -130,7 +127,7 @@ WM FITNESSのカラーダンベルは、大人可愛いくすみカラーやポ�
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 1,380円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 重量展開 | 1kg、1.5kg、2kg、3kg、4kg、5kg、6kg、7kg、8kg、10kg |
 | 材質 | クロロプレンゴム（合成ゴム）、スチール |
 | 特徴 | 六角形、ラバーコーティング、豊富なカラーバリエーション |
@@ -147,7 +144,7 @@ WM FITNESSのカラーダンベルは、大人可愛いくすみカラーやポ�
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 15,980円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 重量調整 | 5kg〜40kg（17段階） |
 | サイズ | （約）幅44cm×奥行25cm×高さ24cm |
 | 特徴 | ダイヤル式重量変更、キロ表記、静音設計、オンザニー対応 |
@@ -161,11 +158,11 @@ WM FITNESSのカラーダンベルは、大人可愛いくすみカラーやポ�
 
 こちらもONE STEPと同様に、5kgから40kgまで17段階の重量調整が可能な高性能ダンベルです。特に「プレートが落ちない仕組み」や「バージンABS樹脂採用の台座」など、安全性と耐久性にこだわった設計が光ります。
 
-「Tarazan」で紹介された実績や、吉良友汰選手推奨という点は、製品の信頼性への大きな後押しになります。徹底した品質管理と多段階検品を行っているため、安心して高重量トレーニングに取り組めるでしょう。より安全性と品質に重きを置く方には、TOP FILMが有力な選択肢となります。
+丁寧な検品工程とプレートの保護設計が採用されており、安心して高重量トレーニングに取り組めるでしょう。より安全性と使い勝手のバランスに重きを置く方には、TOP FILMが有力な選択肢となります。
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 16,980円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 重量調整 | 5kg〜40kg（17段階） |
 | 特徴 | 2秒で重量変化、プレート落下防止機構、バージンABS樹脂台座、静音設計 |
 

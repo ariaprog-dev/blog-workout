@@ -18,7 +18,6 @@ sidebarProducts:
 - title: PROIRON パワーグリップ リストラップ 筋トレ グローブ
   url: https://hb.afl.rakuten.co.jp/hgc/g00ugv01.ve2q55ad.g00ugv01.ve2q6675/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fproiron%2Fpro-zld02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fproiron%2Fi%2F10000307%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/proiron/cabinet/10958164/1.jpg?_ex=600x600
-  price: 1999
   microCopy: 詳細を見る
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -35,7 +34,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="proiron-パワーグリップ-リストラップ-筋トレ" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥1,999</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>

@@ -15,20 +15,17 @@ faq:
   - question: '30kg（片手）は自宅トレーニングで十分な重さですか？'
     answer: '片手30kgは、ほとんどの宅トレ種目において十分な高重量です。スクワットやデッドリフトのような下半身の種目、ダンベルプレス、ダンベルローイングといった上半身の主要種目にも対応できます。トレーニング経験者でも、この重量で全身を十分に追い込めるレベルと言えるでしょう。'
 sidebarProducts:
-  - title: '【9/30はポイントアップデー】IROTEC（アイロテック）アイアンダンベル60KGセット ダンベル 30kg 2個セット/ ダンベルセット ezバー 筋トレ 器具 アジャスタブル ダンベルプレート 可変式ダンベル ベンチプレス トレーニング器具 バーベル 筋トレ器具 鉄アレイ'
+  - title: 'IROTEC アイアンダンベル 60kgセット（30kg×2個）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511621/1x1_id60.jpg?_ex=600x600'
-    price: 22000
     microCopy: '詳細を見る'
-  - title: '【努力価格】 ダンベル 30kg 2個セット シャフト グリップ 滑り止め加工 重さ調節可能 筋トレ トレーニング バーベル 鉄アレイ 重り ケトルベル 筋トレグッズ 筋トレ ezバー 可変式 セット プレート 60kg'
+  - title: '可変式アイアンダンベル 30kg×2個セット'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00sc6q1.ve2q582b.g00sc6q1.ve2q647c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarketjapan%2Fyt-db60s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarketjapan%2Fi%2F10000125%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/item/06187641/imgrc0073190486.jpg?_ex=600x600'
-    price: 13800
     microCopy: '詳細を見る'
-  - title: '【★最大1,000円OFFcp！】ダンベル 可変式 10kg 20kg 30kg 40kg 可変式ダンベル シャフト付き バーベル 鉄アレイ トレーニング 静音 筋トレ TOP FILM'
+  - title: 'TOP FILM 可変式ダンベル（10〜40kg）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fpolydumbbell-40%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000913%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/h2brothers/cabinet/fitness2/polydumbbell_0_4.jpg?_ex=600x600'
-    price: 2880
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -51,7 +48,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="irotec-アイアンダンベル60kgセット-ダンベル" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥22,000</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -78,9 +75,8 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 25,850円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | スーパースポーツカンパニー |
-| レビュー評価 | 4.45 (740件) |
 | 特徴 | ラバーリング付きプレート、マットブラック塗装、ローレット加工グリップ |
 | セット内容 | スクリュウダンベルシャフト2.5kg×2、1.25kgプレート×4、2.5kgプレート×4、5kgプレート×8、各サイズラバーリング |
 
@@ -90,9 +86,8 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 22,000円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | スーパースポーツカンパニー |
-| レビュー評価 | 4.51 (447件) |
 | 特徴 | アイアンプレート、マットブラック塗装、ローレット加工グリップ |
 | セット内容 | スクリュウダンベルシャフト2.5kg×2、1.25kgプレート×4、2.5kgプレート×4、5kgプレート×8 |
 
@@ -114,11 +109,11 @@ sidebarProducts:
 
 アイアンプレートのダンベルを使用していると、トレーニングの進行に伴い、プレート同士がぶつかる金属音や、床に置いたときの衝撃音が気になる場合があります。
 
-特に夜間のトレーニングでは、音を抑えるために意識的にゆっくり置く必要があり、これが集中力を削ぐ一因にもなっていました。
+特に夜間のトレーニングでは、音を抑えるために意識的にゆっくり置く必要があり、これが集中力を削ぐ要因になりやすいです。
 
-そこでラバーダンベルに切り替えたのですが、初日はラバーリングを一つ一つプレートに取り付ける作業に少し戸惑いましたね。数が多いので地味な作業ですが、一度つけてしまえば後は快適です。
+ラバーダンベルを選択した場合、初回の組み立て時にラバーリングを各プレートにはめ込む作業が必要になりますが、一度装着してしまえば以後は床への衝撃音や傷を気にせず快適に扱いやすくなります。
 
-また、製品到着直後はラバー特有の匂いが強い場合があるため、数日間ベランダで換気し、その後は部屋の窓を開けて使用することで匂いが軽減されます。この対応により、トレーニング環境の快適性が向上します。
+また、製品到着直後はラバー特有の匂いが強い場合があるため、数日間風通しの良い場所で換気し、部屋の空気を入れ替えながら使用することで匂いが軽減されます。この対応により、トレーニング環境の快適性が向上します。
 
 ## 高重量を支える秘密：グリップと安全性の科学
 
@@ -134,13 +129,13 @@ sidebarProducts:
 
 ## 予算と長期的な満足度：アイアンかラバーか、選択の基準
 
-初期費用を見ると、ラバーダンベルセットが25,850円に対し、アイアンダンベルセットは22,000円と、約3,850円の価格差があります。この差をどう捉えるかが、製品選びの重要なポイントです。
+ラバーダンベルセットはアイアンダンベルセットに比べてラバーリング付属分の初期費用がやや高くなる傾向がありますが、床保護や静音性、プレート本体の傷つきにくさを含めた長期的な扱いやすさとのトレードオフで選ぶのが基本です（最新の価格差は各ショップリンク先でご確認ください）。
 
-ジムに通う場合、月会費が約1万円だとすると年間12万円。ダンベル購入費は、ジム会費の数ヶ月分で済みます。
+ジムに通う場合、月会費が約1万円前後の施設なら年間12万円前後かかりますが、家庭用ダンベルセットはいったん揃えれば維持費ゼロで何年も自宅トレーニングを継続できます。
 
 自宅でこれだけの高重量を扱える環境が数万円で手に入るのは、圧倒的なコストパフォーマンスと言えるでしょう。ジムへの移動時間も不要なので、忙しい現代人にとって宅トレは効率的な選択です。
 
-ラバーダンベルの3,850円の価格差は、前述した床保護・騒音軽減・関節への優しさといったメリットへの投資です。特にマンションやアパートにお住まいの方、家族と同居している方にとっては、この差額以上の価値があると感じるはずです。
+ラバーダンベルとの価格差は、前述した床保護・騒音軽減・関節への優しさといったメリットへの投資です。特にマンションやアパートにお住まいの方、家族と同居している方にとっては、この防音・保護性能の有無が大きく影響します。
 
 長期的な視点で見れば、床材の補修費用や近隣トラブルのリスクを考えれば、むしろ安価な投資とも言えます。
 
@@ -150,14 +145,14 @@ sidebarProducts:
 
 | 比較項目 | IROTEC ラバーダンベル 60KG セット | IROTEC アイアンダンベル 60KGセット |
 | :--- | :--- | :--- |
-| <strong>価格</strong> | 25,850円 | 22,000円 |
+| <strong>価格・在庫</strong> | 各ショップで確認（ラバー保護仕様） | 各ショップで確認（鉄製スタンダード） |
 | <strong>プレート素材</strong> | ラバー（外周）＋アイアン | アイアン |
 | <strong>床への配慮</strong> | 高い（衝撃・音を緩和） | 低い（直接的な衝撃） |
 | <strong>騒音</strong> | 低減効果あり | 発生しやすい |
 | <strong>初期の匂い</strong> | ラバー特有の匂いがある場合あり | 基本的に匂いなし |
 | <strong>グリップ</strong> | ローレット加工（共通） | ローレット加工（共通） |
 | <strong>重量調整</strong> | プレート着脱式（1.25kg刻み） | プレート着脱式（1.25kg刻み） |
-| <strong>レビュー評価</strong> | 4.45 (740件) | 4.51 (447件) |
+| <strong>レビュー確認</strong> | 各ショップの最新レビューで確認 | 各ショップの最新レビューで確認 |
 
 ## どんなトレーニーに最適か？タイプ別おすすめ
 
@@ -169,7 +164,7 @@ sidebarProducts:
 *   <strong>見た目の重厚感を求める方</strong>: マットブラックのアイアンにラバーリングが加わることで、よりプロフェッショナルな雰囲気が出ます。
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>IROTEC ラバーダンベル 60KG セットが</strong></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>IROTEC ラバーダンベル 60KG セット</strong></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DIROTEC%2520%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252060KG%2520%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIROTEC%2520%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252060KG%2520%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
@@ -183,7 +178,7 @@ sidebarProducts:
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/irotec-dumbbell-40kg-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">宅トレ進化の鍵！IROTEC可変ダンベル40KGで費用対効果を最大化</a> ／ <a href="/blog/alinco-adjustable-dumbbell-25/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">アジャスタブルダンベル25は本当に必要？宅トレ効果を最大化する科学的根拠</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>IROTEC アイアンダンベル 60KGセットが</strong></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>IROTEC アイアンダンベル 60KGセット</strong></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DIROTEC%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25A2%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252060KG%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIROTEC%20%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2060KG%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIROTEC%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25A2%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252060KG%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 

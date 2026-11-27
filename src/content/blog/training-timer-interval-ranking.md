@@ -18,17 +18,14 @@ sidebarProducts:
   - title: 'スポーツタイマー インターバルタイマー タイムタイマー ストップウォッチ トレーニングタイマー デジタイマ チャレンジ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ulc21.ve2q5945.g00ulc21.ve2q61eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmnshoten-osaka%2Fck082056480a6d9%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmnshoten-osaka%2Fi%2F10057378%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mnshoten-osaka/cabinet/ck082/ck082056480a6d9_1.jpg?_ex=600x600'
-    price: 7511
     microCopy: '詳細を見る'
-  - title: 'インターバルタイマー スポーツタイマー トレーニングタイマー インターバル タイマー デジタルタイマー リモコン コードレス トレーニング用 繰り返し ストップウォッチ 筋トレ ワークアウト 宅トレ 剣道 陸上 体育館 カウントダウン カウントアップ ジム【楽天1位獲得】'
+  - title: 'スポーツ・インターバルタイマー（リモコン付き・コードレス）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00uji71.ve2q5b5b.g00uji71.ve2q64c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Furban-eden%2Fue-004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Furban-eden%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/urban-eden/cabinet/ue-004/ue-004_1.jpg?_ex=600x600'
-    price: 10980
     microCopy: '詳細を見る'
-  - title: 'インターバルタイマー 繰り返し スポーツタイマー トレーニング ジム 充電式 マグネット 大音量 大きい 大画面 大型 トレーニングタイマー インターバル タイマー デジタルタイマー コードレス トレーニング用 ストップウォッチ 筋トレ ワークアウト カウントダウン 宅トレ'
+  - title: 'インターバルタイマー（充電式・マグネット対応）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00rhq61.ve2q5839.g00rhq61.ve2q6b96/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-funksstore%2Fs-timer-24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-funksstore%2Fi%2F10011898%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/auc-funksstore/cabinet/ch03/s-timer-24-rnk_00_.jpg?_ex=600x600'
-    price: 7980
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -49,7 +46,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="スポーツタイマー-インターバルタイマー-タイムタイマー" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥7,511</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -68,7 +65,7 @@ sidebarProducts:
 
 ## インターバルタイマー選びの重要ポイントと選定基準
 
-インターバルトレーニングは、短い休憩を挟みながら高強度の運動を繰り返すことで、心肺機能の向上や脂肪燃焼効果を高めます。この効率を最大限に引き出すには、精度の高い時間管理が不可欠です。
+インターバルトレーニングは、短い休憩を挟みながら高強度の運動を繰り返すことで、心肺機能の向上やエネルギー消費の促進につながります。この効率を最大限に引き出すには、精度の高い時間管理が不可欠です。
 
 タイマーを選ぶ際は、まずLED表示の「視認性」を重視してください。トレーニング中は動きが激しく、遠くからでもパッと時間が確認できるものが理想です。次に「音量」は、BGMをかけながらのトレーニングでも確実に聞き取れるレベルが必要でしょう。
 
@@ -96,7 +93,7 @@ TABATAやEMOMなどのプリセットモードが充実しているのも助か�
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 12,580円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | eightyoneshop |
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
@@ -122,7 +119,7 @@ TABATAやEMOMなどのプリセットモードが充実しているのも助か�
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 7,511円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | MN商店 |
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
@@ -144,9 +141,8 @@ TABATAやEMOMなどのプリセットモードが充実しているのも助か�
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 7,980円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | ファンクスストア |
-| レビュー評価 | 4.67 (6件) |
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>インターバルタイマー 繰り返し スポーツタイマー</strong></div>
@@ -169,9 +165,8 @@ TABATAやEMOMなどのプリセットモードが充実しているのも助か�
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 10,980円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | Urban Eden |
-| レビュー評価 | 4.13 (40件) |
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/elbow-sleeve-workout-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">肘サポーター エルボースリーブおすすめ人気ランキング4選を徹底比較！</a> ／ <a href="/blog/ems-abs-muscle-belt-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">EMS 腹筋ベルトおすすめ人気ランキング4選を徹底比較！</a></p>
 
@@ -200,7 +195,7 @@ TABATAやEMOMなどのプリセットモードが充実しているのも助か�
 
 - <strong>HIIT・タバタプロトコル</strong>: 20秒全力運動＋10秒完全休息の8セット（計4分）で最大酸素摂取量を向上。
 - <strong>筋肥大インターバル</strong>: 多関節種目は90〜120秒、単関節種目は60秒に固定して無駄なスマホいじりを排除。
-- <strong>サーキットトレーニング</strong>: 30秒種目＋15秒インターバルで心拍数を落とさず脂肪燃焼を促進。
+- <strong>サーキットトレーニング</strong>: 30秒種目＋15秒インターバルで心拍数を保ちながら全身運動を効率よく継続。
 
 ### よくある質問
 

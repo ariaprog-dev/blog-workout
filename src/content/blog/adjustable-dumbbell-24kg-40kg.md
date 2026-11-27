@@ -15,7 +15,6 @@ sidebarProducts:
   - title: 'ライシン パンプキング 可変式ダンベル 24kg/40kg'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ssrh1.ve2q5ddb.g00ssrh1.ve2q6784/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flysin%2Fls-pk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flysin%2Fi%2F10000562%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product5/pk24-40_th.jpg?_ex=600x600'
-    price: 9900
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -40,7 +39,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="ライシン-パンプキング-可変式ダンベル-24kg" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥9,900</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -100,23 +99,23 @@ sidebarProducts:
 ### 24kgモデルがジャストフィットする人
 - <strong>細マッチョ・細身のシルエットを維持したい方</strong>: 体重を増やさず、体脂肪を落としながら引き締めたい場合、24kgあれば肩・腕・腹筋・背中上部は十分に鍛え上げられます。
 - <strong>自宅の床耐荷重やスペースが極めてシビアな環境</strong>: 2個セットで約48kgとなり、40kgモデル（約80kg）に比べて女性や初心者でも部屋間の移動や掃除が格段に容易です。
-- <strong>予算を3万円前後に抑えたい方</strong>: 40kgモデルに比べて導入コストを約半分に抑えられます。
+- <strong>予算を抑えて導入しやすい選択肢</strong>: 40kgモデルに比べて初期コストを抑えやすくなっています。
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>24kgモデルがジャストフィットする人</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D24kg%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%258C%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2581%2599%25E3%2582%258B%25E4%25BA%25BA" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F24kg%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%88%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%81%99%E3%82%8B%E4%BA%BA%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D24kg%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%258C%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2581%2599%25E3%2582%258B%25E4%25BA%25BA" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ライシン パンプキング 可変式ダンベル 24kg</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25B7%25E3%2583%25B3%2520%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2597%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252024kg" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%82%A4%E3%82%B7%E3%83%B3%20%E3%83%91%E3%83%B3%E3%83%97%E3%82%AD%E3%83%B3%E3%82%B0%20%E5%8F%AF%E5%A4%89%25E5%25BC%258F%E3%83%80%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252024kg%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25B7%25E3%2583%25B3%2520%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2597%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252024kg" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
 ### 40kgモデルを最初から選ぶべき人
-- <strong>分厚い胸板や広い背中を手に入れたい男性</strong>: 大胸筋や広背筋の筋肥大には高重量プレスが必須であり、24kgでは確実に1年以内に物足りなくなります。
-- <strong>過去にスポーツ経験やジム通い経験がある方</strong>: 筋力の発達が早く、数ヶ月で24kgを突破する可能性が極めて高いため、40kgを選ばないと後悔します。
-- <strong>「一生モノの宅トレ環境」を一発で完成させたい方</strong>: 買い直しに伴う金銭的ロスとメルカリ等での大型荷物発送の手間を完全にゼロにできます。
+- <strong>分厚い胸板や広い背中を手に入れたい男性</strong>: 大胸筋や広背筋の筋肥大には高重量プレスが有効であり、24kgでは1年ほどで負荷が物足りなくなるケースが少なくありません。
+- <strong>過去にスポーツ経験やジム通い経験がある方</strong>: 筋力の発達が早く、数ヶ月で24kgを突破する可能性が高いため、将来の負荷を見据えるなら40kgクラスが選択肢になります。
+- <strong>「長く使える宅トレ環境」を一発で整えたい方</strong>: 買い直しに伴う金銭的ロスや大型荷物の処分・入れ替えの手間を抑えやすくなります。
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/variable-dumbbell-24kg-workout/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">【時短×筋肥大】可変式ダンベル24kgの実践活用術！瞬時重量変更を活かすドロップセット＆宅トレメニュー</a> ／ <a href="/blog/leading-edge-adjustable-dumbbell/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">【実機検証】LEADING EDGE可変式ダンベルLE-AD24の実力！フレックスベルや他社製との違いを徹底比較</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>40kgモデルを最初から選ぶべき人</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D40kg%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592%25E6%259C%2580%25E5%2588%259D%25E3%2581%258B%25E3%2582%2589%25E9%2581%25B8%25E3%2581%25B6%25E3%2581%25B9%25E3%2581%258D%25E4%25BA%25BA" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F40kg%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%9C%80%E5%88%9D%E3%81%8B%E3%82%89%E9%81%B8%E3%81%B6%E3%81%B9%E3%81%8D%E4%BA%BA%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D40kg%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592%25E6%259C%2580%25E5%2588%259D%25E3%2581%258B%25E3%2582%2589%25E9%2581%25B8%25E3%2581%25B6%25E3%2581%25B9%25E3%2581%258D%25E4%25BA%25BA" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ライシン パンプキング 可変式ダンベル 40kg</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25B7%25E3%2583%25B3%2520%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2597%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252040kg" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%82%A4%E3%82%B7%E3%83%B3%20%E3%83%91%E3%83%B3%E3%83%97%E3%82%AD%E3%83%B3%E3%82%B0%20%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252040kg%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25B7%25E3%2583%25B3%2520%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2597%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252040kg" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
 ## 可変式ダンベルの正直なデメリットと安全な取り扱い上の注意
@@ -141,7 +140,7 @@ sidebarProducts:
 ## よくある質問（FAQ）
 
 ### Q1. ダンベル以外に一緒に揃えるべき必須アイテムは何ですか？
-最も重要なのは「アジャスタブルインクラインベンチ」と「厚手のトレーニングマット」です。ベンチがあることでダンベルプレスの可動域が劇的に広がり、マットがあることで床を傷つけず安全にトレーニングできます。
+最も重要なのは「アジャスタブルインクラインベンチ」と「厚手のトレーニングマット」です。ベンチがあることでダンベルプレスの可動域が大きく広がり、マットがあることで床を傷つけず安全にトレーニングできます。
 
 ### Q2. 女性でも可変式ダンベルは扱えますか？
 多くの可変式ダンベルは最小重量が2kg〜4kg程度から細かく設定できるため、女性のヒップアップや二の腕の引き締めトレーニングにも全く問題なく兼用できます。
@@ -154,7 +153,7 @@ sidebarProducts:
 ### よくある質問（FAQ）：『ライシン パンプキング 可変式ダンベル 24kg/40kg』
 
 <strong>Q1. 「なぜ可変式ダンベルの重量選びで後悔する人が続出するのか？」を踏まえ、自宅トレーニングで効果を高めるコツは何ですか？</strong>
-A1. 『ライシン パンプキング 可変式ダンベル 24kg/40kg』（参考価格：9900円前後）を使用する際は、反動を使わず狙った筋肉の収縮と伸展を意識した正しいフォームを維持し、無理のない負荷から段階的に強度を高めていくことが重要です。
+A1. 『ライシン パンプキング 可変式ダンベル 24kg/40kg』を使用する際は、反動を使わず狙った筋肉の収縮と伸展を意識した正しいフォームを維持し、無理のない負荷から段階的に強度を高めていくことが重要です。
 
 <strong>Q2. 24kgモデルと40kgモデルで重量の刻みやロック構造に注意すべき点はありますか？</strong>
 A2. 24kg版は2.5kg刻み中心で初心者や女性にも扱いやすく、40kg版は2kg〜3kg前後ずつ段階的に高負荷まで対応しますが本体全長も大きくなります。いずれも台座へ真っすぐ収めてからダイヤルを回すことでロック機構の噛み合わせ不良を防げます。

@@ -1,8 +1,8 @@
 ---
-title: トレーニングボード解体新書！分離式が腹筋と体幹を科学的に鍛えるメカニズム
-description: 多機能トレーニングボードで自宅トレ停滞期を打破！大胸筋・上腕三頭筋・三角筋を多角的に刺激し、正しいフォームへ矯正。Amazonで人気の本製品のレビューや効果的な使い方を徹底解説します。
+title: トレーニングボード解体新書！多機能プッシュアップボードで胸・肩・体幹を鍛えるメカニズム
+description: 多機能プッシュアップボードで自宅トレの刺激を多角化！大胸筋・上腕三頭筋・三角筋を狙って手首負担を抑え、正しいフォームで効率よく鍛える選び方と使い方を徹底解説します。
 pubDate: '2026-07-05'
-heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/imeilifestyle/cabinet/10560659/11109405/y920764_1.jpg?_ex=600x600
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/hobbyone/cabinet/mainpic01/pushupbar-01-5.jpg?_ex=600x600
 genre: workout
 mediaType: gear
 tags:
@@ -15,10 +15,9 @@ faq:
 - question: 設置や片付けは簡単ですか？
   answer: 非常に簡単です。このトレーニングボードは基本的に組み立て不要で、製品到着後すぐにトレーニングを開始できます。グリップをボードの穴に差し込むだけで準備が完了します。トレーニング終了後は、グリップを抜いてボードの裏側に収納したり、差し込んだまま壁に立てかけたりするだけで片付けが完了します。コンパクトなため、リビングや寝室の隅に置いても場所を取りません。
 sidebarProducts:
-- title: 自動リバウンド 腹筋マシン コア&腹筋筋力トレーニングボード
-  url: https://hb.afl.rakuten.co.jp/hgc/g00u7xo1.ve2q5c18.g00u7xo1.ve2q6901/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimeilifestyle%2Fy920764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimeilifestyle%2Fi%2F10004286%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/imeilifestyle/cabinet/10560659/11109405/y920764_1.jpg?_ex=600x600
-  price: 9853
+- title: プッシュアップボード プッシュアップバー 筋トレ 多機能トレーニングボード
+  url: https://hb.afl.rakuten.co.jp/hgc/g00r6tb1.ve2q5764.g00r6tb1.ve2q66ab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhobbyone%2Fpushupbar-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhobbyone%2Fi%2F10117156%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/hobbyone/cabinet/mainpic01/pushupbar-01-5.jpg?_ex=600x600
   microCopy: 詳細を見る
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -29,7 +28,7 @@ sidebarProducts:
 
 そのような自宅トレーニングの課題に対し、一つの解決策として注目されるのが、この多機能トレーニングボードです。本製品は、複数のグリップポジションを直感的に使い分けられるように設計されており、大胸筋のあらゆる部位や上腕三頭筋、三角筋といった主要なターゲットマッスルに多角的な刺激を与えます。
 
-同時に、安定したフォームをサポートすることで、トレーニングの質を向上させてくれるでしょう。省スペースで質の高い全身運動を求める方にとって、自宅トレーニングを次のレベルへと引き上げる画期的なツールとして期待されます。
+同時に、安定したフォームをサポートすることで、トレーニングの質を向上させてくれるでしょう。省スペースで質の高い上半身・体幹トレーニングを求める方にとって、自宅トレーニングを次のレベルへと引き上げる実用的なツールと言えます。
 
 ## 身体の仕組みと使いやすさの秘密を活かす設計：多彩な角度で筋肉を呼び覚ます
 
@@ -61,24 +60,24 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/imeilifestyle/cabinet/10560659/11109405/y920764_1.jpg?_ex=600x600" alt="自動リバウンド 腹筋マシン" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/hobbyone/cabinet/mainpic01/pushupbar-01-5.jpg?_ex=600x600" alt="プッシュアップボード" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">自動リバウンド 腹筋マシン</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">角度ガイド・手首負担軽減</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">プッシュアップボード（多機能トレーニングボード）</h4>
 
-<div class="live-price-box" data-product-key="自動リバウンド-腹筋マシン" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div class="live-price-box" data-product-key="プッシュアップボード" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥9,853</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%2587%25AA%25E5%258B%2595%25E3%2583%25AA%25E3%2583%2590%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2597%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00u7xo1.ve2q5c18.g00u7xo1.ve2q6901/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimeilifestyle%2Fy920764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimeilifestyle%2Fi%2F10004286%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%2587%25AA%25E5%258B%2595%25E3%2583%25AA%25E3%2583%2590%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00r6tb1.ve2q5764.g00r6tb1.ve2q66ab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhobbyone%2Fpushupbar-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhobbyone%2Fi%2F10117156%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2597%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -105,15 +104,15 @@ sidebarProducts:
 | **特徴2**        | グリップによる手首・肩関節への負担軽減設計                                                          |
 | **特徴3**        | 不安定要素による体幹インナーマッスル活性化                                                          |
 | **設置・収納**   | 組み立て不要、コンパクト設計で省スペース                                                            |
-| **価格**         | 最新の販売価格は商品カードおよび公式ショップでご確認ください                                        |
+| **価格・在庫**   | 最新の販売価格は商品カードおよび各ショップで確認                                                    |
 
 ## 宅トレのリアルな効率：導入コストと設置シミュレーション
 
-自宅で継続しやすい環境を整える上で気になるのが「スペース」と「初期費用」です。このトレーニングボードは、その両方の課題に対して取り入れやすい仕様となっています。
+自宅で継続しやすい環境を整える上で気になるのが「スペース」と「維持コスト」です。このトレーニングボードは、自宅環境に取り入れやすい仕様となっています。
 
-### 初期費用とランニングコスト
+### 維持コストがかからない手軽さ
 
-トレーニングボードの初期費用は製品によって異なりますが、数千円から1万円程度で手に入ることがほとんどです。一度購入すれば電気代や維持費などの継続的なランニングコストはかからず、手頃な予算で自宅に体幹・上半身トレーニング環境を用意できます。
+トレーニングボードは一度購入すれば電気代や月額費などの継続的なランニングコストはかからず、自宅に体幹・上半身トレーニング環境を用意できます（価格・在庫は各ショップでご確認ください）。
 
 ### 自宅での設置シミュレーション
 
@@ -135,15 +134,13 @@ sidebarProducts:
 
 ## 確かなスペックとレベル別活用術：多様なトレーニングへの応用
 
-このトレーニングボードは、多くのユーザーからその効果を実感する声が寄せられています。トレーニング専門エディターの知見からも、多くの利用者と同様にその効果が評価されています。
+このトレーニングボードは、プッシュアップの角度と手首保護を設計に落とし込んだギアであり、多くの宅トレ愛好家から機能面が評価されています。
 
-### リアルなスペックと使い勝手の検証
+### 構造上の評価ポイントと課題
 
-「最初は半信半疑でしたが、使ってみてびっくりしました。今まで意識できなかった胸の奥の方に、しっかり効いているのが分かります。特に大胸筋の上部に刺激が入る感覚が明確で、理想の形に近づいている手応えがありますね。」という声は、ボードの設計思想が狙い通りに効果を発揮している証拠です。
+色分けされたガイドに沿ってグリップを差し替えるだけで刺激する部位（大胸筋上部・中部、三角筋、上腕三頭筋）を切り替えられるため、意識したい筋肉を狙いやすいのが特長です。また、グリップを握ることで床へ直接手を突くよりも手首を自然な角度に保ちやすく、手首に不安がある方でもフォームを安定させやすい設計です。
 
-また、「手首が弱い僕でも、グリップを握ることで安定してプッシュアップができるから、安心して追い込めるのが嬉しいです。おかげで怪我なく継続できています。」といった安全性に関する評価も多く聞かれます。
-
-一方で、「正直、自重トレーニングだけだと、やっぱり筋肉の限界は来ます。もっと高重量を扱いたい人には物足りないかもしれません。」という意見もあります。これはまさに、この商品の性質をよく捉えた正直な感想であり、後述する限界と補完策のセクションで詳しく触れます。
+一方で、自重を負荷とする構造上、さらに高重量を扱いたい段階に達した場合はダンベルやバーベルなど別器具での負荷追加が必要になる点は、事前把握しておくべき割り切りポイントです。
 
 ### レベル別活用術
 
@@ -234,11 +231,11 @@ sidebarProducts:
 
 トレーニングボードは、単なるプッシュアップ補助具の枠を超え、限られた自宅スペースでジムに匹敵する質の高いトレーニングを実現するための「賢い選択肢」と言えます。フォームの改善、怪我のリスク軽減、そして何よりも多様な刺激で筋肉の成長を促すその設計思想は、自宅トレーニング愛好家の製品の機能性への理解を深め、実践的な効果をもたらしてくれるでしょう。
 
-日々の忙しさからジム通いが難しい方、トレーニングの停滞期に悩む方、そして手首や肩の負担を気にせず質の高い自重トレーニングを続けたい方にとって、このボードは自宅での運動効率を劇的に向上させる強力な味方になります。自宅トレーニングを次のレベルへと引き上げる一つの手段として、このトレーニングボードがあなたの選択肢となることを期待されます。
+日々の忙しさからジム通いが難しい方、トレーニングの停滞期に悩む方、そして手首や肩の負担を気にせず質の高い自重トレーニングを続けたい方にとって、このボードは自宅での運動効率を高める実用的な味方になります。自宅トレーニングを次のレベルへと引き上げる一つの手段として、このトレーニングボードは有力な選択肢の一つです。
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/soomloom-ab-roller-for-beginners/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">SOOMLOOM腹筋ローラーは宅トレ初心者向けか？静音と膝マットで腹筋を割る解剖学的根拠</a> ／ <a href="/blog/push-up-bar-workout-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">プッシュアップバー（腕立て伏せ用）の選び方ガイド｜手首保護角度と滑り止め構造を比較</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>自動リバウンド 腹筋マシン</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%2587%25AA%25E5%258B%2595%25E3%2583%25AA%25E3%2583%2590%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00u7xo1.ve2q5c18.g00u7xo1.ve2q6901/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimeilifestyle%2Fy920764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimeilifestyle%2Fi%2F10004286%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%2587%25AA%25E5%258B%2595%25E3%2583%25AA%25E3%2583%2590%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>プッシュアップボード（多機能トレーニングボード）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2597%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00r6tb1.ve2q5764.g00r6tb1.ve2q66ab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhobbyone%2Fpushupbar-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhobbyone%2Fi%2F10117156%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2597%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>

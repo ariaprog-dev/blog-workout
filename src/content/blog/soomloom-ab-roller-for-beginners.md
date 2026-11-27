@@ -18,7 +18,6 @@ sidebarProducts:
 - title: Soomloom アブホイール 腹筋ローラー
   url: https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSoomloom%20%E8%85%B9%E7%AD%8B%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%20%E3%83%9E%E3%83%83%E3%83%88%E4%BB%98%E3%81%8D%2F
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/lumina88/cabinet/ty-08/main/1.jpg?_ex=600x600
-  price: 2980
   microCopy: 詳細を見る
 ---
 ### よくある質問
@@ -103,7 +102,7 @@ SOOMLOOMの設計は、安定した幅広のホイール構造や、人間工学
 
 ## 小さな投資で始める：SOOMLOOM腹筋ローラーの費用感と省スペース性
 
-SOOMLOOM腹筋ローラーは一般的なモデルであれば数千円（2,000円前後）と手頃な価格で購入でき、一度揃えればランニングコストはほぼゼロです。準備時間もほとんどかからないため、朝の10分や夜の10分といったスキマ時間に自宅でサッと質の高い腹筋トレーニングを始められます。
+SOOMLOOM腹筋ローラーは一般的なモデルであれば数千円台の手頃な価格帯で購入でき、一度揃えればランニングコストはほぼゼロです。準備時間もほとんどかからないため、朝の10分や夜の10分といったスキマ時間に自宅でサッと質の高い腹筋トレーニングを始められます。
 
 設置スペースに関しても、SOOMLOOM腹筋ローラーは非常にコンパクトです。製品にもよりますが、一般的なサイズであれば、直径約15～20cm、幅約25～30cm程度です。
 

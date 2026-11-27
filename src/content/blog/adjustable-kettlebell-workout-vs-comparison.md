@@ -19,20 +19,17 @@ faq:
   - question: 'ケトルベルを使う際に、床の保護は必要ですか？'
     answer: 'はい、フローリングや畳の上でケトルベルを使う場合は、トレーニングマットの使用が推奨されます。特にAXIS FITのような硬質素材で重量のあるケトルベルは、誤って落とすと床を大きく傷つけるリスクが高いです。注水式ケトルベルもPE素材で比較的柔らかいですが、マットを敷くことで床の保護と防音効果が期待できます。'
 sidebarProducts:
-  - title: 'ケトルベル 注水式 可変式ケトルベル ウォーターケトルベル 重量調整可能 ダンベル 筋トレ器具 トレーニング器具 自宅トレーニング ホームジム ヒップアップ ダイエット スクワット スイング 全身トレーニング 握りやすい ハンドル 軽量 コンパクト 持ち運び PE ABS'
+  - title: '注水式 可変式ケトルベル（PE・ABS製）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00upl81.ve2q51c7.g00upl81.ve2q63d6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-and-d1212%2Fhl001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-and-d1212%2Fi%2F10000502%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/a-and-d1212/cabinet/11609916/hl001.jpg?_ex=600x600'
-    price: 4380
     microCopy: '詳細を見る'
-  - title: '【先着100名限定・4,000円OFFクーポン】AXIS FIT 可変式ケトルベル 2kg-20kg 7段階調整 ダンベル代わり 筋トレ 自宅トレーニング 宅トレ 省スペース収納 ブラック'
+  - title: 'AXIS FIT 可変式ケトルベル 2kg-20kg 7段階調整'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00unbs1.ve2q5c11.g00unbs1.ve2q6983/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnquartet%2Fkettlebell-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnquartet%2Fi%2F10000102%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/nquartet/cabinet/kettlebell-1000-01.jpg?_ex=600x600'
-    price: 16800
     microCopy: '詳細を見る'
-  - title: '【秒速で重量変更】可変式ケトルベル アジャスタブル 筋肉トレーニング 筋トレ 鉄アレ ジム ヨガ 自宅トレーニング ウエイトリフティング 重量挙げ ダイヤル式 滑り止め 静音対策 転がり防止 省スペース 床を傷つけない初心者～上級者まで7段階重量調節可能 【1.5~20kg】'
+  - title: 'ダイヤル式 可変式ケトルベル 1.5〜20kg（7段階調節）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00snfq1.ve2q57ac.g00snfq1.ve2q6d7e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhonestshop%2Fk002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhonestshop%2Fi%2F10000351%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/honestshop/cabinet/12657703/12939435/sku-k002.jpg?_ex=600x600'
-    price: 28500
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -53,7 +50,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="ケトルベル-注水式-可変式ケトルベル" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥4,380</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -89,9 +86,8 @@ PE素材は床に優しく、万が一落としてしまってもフローリン
 #### スペック情報
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 4,380円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | A&D plus 楽天市場店 |
-| レビュー評価 | 5.0 (1件) |
 
 ## AXIS FIT 可変式ケトルベル：20kgまでの高負荷で限界を突破する
 次に、本格的な筋肥大や筋力アップを目指す方に向けた「AXIS FIT 可変式ケトルベル」です。これは<strong>2kgから20kgまで、7段階で重量調整が可能</strong>なプレート式ケトルベルです。
@@ -109,9 +105,8 @@ PE素材は床に優しく、万が一落としてしまってもフローリン
 #### スペック情報
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 16,800円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | エヌカルテット |
-| レビュー評価 | 5.0 (1件) |
 
 ## 徹底比較！2つの可変式ケトルベル、どちらがあなたの宅トレを変えるか？
 2つのケトルベルは、それぞれ異なる強みとターゲットを持っています。あなたのトレーニング目標に合わせて選ぶことが重要です。
@@ -120,13 +115,13 @@ PE素材は床に優しく、万が一落としてしまってもフローリン
 *   <strong>【重量調整のスムーズさとトレーニング効率】</strong>：注水式は水やパーツの出し入れが必要で、トレーニング中の頻繁な重量変更には向いていません。AXIS FITは台座に置くだけのクイック調整で、<strong>ドロップセットのような高強度トレーニング</strong>を効率的に行えます。
 *   <strong>【素材と床・体への優しさ】</strong>：注水式のPE素材は比較的柔らかく、床や手への負担が少ないのが魅力です。一方、AXIS FITは硬質な素材で構成されており、重量も重いため、<strong>フローリング保護のためのトレーニングマットは必須</strong>となります。
 *   <strong>【携帯性と収納性】</strong>：注水式は水を抜けば非常に軽量でコンパクトになり、持ち運びや収納に困りません。AXIS FITは常設が前提で、<strong>設置場所の確保と床保護</strong>が必要です。
-*   <strong>【コストパフォーマンス】</strong>：注水式は4,380円と初期費用を抑えられます。AXIS FITは16,800円（クーポン適用で実質12,800円）ですが、複数のケトルベルを揃える手間やスペースを考えれば、<strong>高重量帯のトレーニングを長く続けるなら結果的に経済的</strong>です。
+*   <strong>【コストパフォーマンス】</strong>：注水式は初期費用を抑えやすいエントリー価格帯が魅力です。AXIS FITは固定ウエイト式かつ重量可変機構を備えるため導入コストは上がりますが、複数のケトルベルを揃える手間やスペースを考えれば、<strong>高重量帯のトレーニングを長く続けるなら効率的な選択肢</strong>です。
 
 **【表の見方のポイント】**
 最大重量でご自身のトレーニングレベルや目標を判断してください。重量調整のしやすさは、トレーニング中の効率や集中力に直結します。価格は初期投資として重要ですが、将来的な重量アップや使い勝手も考慮して総合的に比較検討しましょう。
 
 | 比較項目 | 注水式可変ケトルベル | AXIS FIT 可変式ケトルベル |
-| :--- | :--- |
+| :--- | :--- | :--- |
 | <strong>最大重量</strong> | 約10kg | <strong>20kg</strong> |
 | <strong>最小重量</strong> | 約2kg | 2kg |
 | <strong>調整段階</strong> | 5段階 (2, 4, 6, 8, 10kg) | <strong>7段階</strong> (2, 5, 8, 11, 14, 17, 20kg) |
@@ -135,7 +130,7 @@ PE素材は床に優しく、万が一落としてしまってもフローリン
 | <strong>本体サイズ</strong> | 約幅15cm × 高さ20〜28cm | 約幅26cm × 奥行26cm × 高さ36cm |
 | <strong>携帯性</strong> | <strong>水を抜けば軽量・コンパクト</strong> | 常設向け（梱包重量22.5kg） |
 | <strong>床への配慮</strong> | 比較的傷つきにくい | <strong>トレーニングマットの使用を推奨</strong> |
-| <strong>価格（税込）</strong> | <strong>4,380円</strong> | 16,800円 (クーポン適用で実質12,800円) |
+| <strong>価格・在庫</strong> | 各ショップで確認 | 各ショップで確認 |
 | <strong>こんな人におすすめ</strong> | 初心者、女性、フォーム重視、旅行先でも使いたい | <strong>中上級者、本格的に筋肥大・筋力アップを目指す人</strong>、ドロップセット多用 |
 
 ## 最適なケトルベルの選び方

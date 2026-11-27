@@ -18,7 +18,6 @@ sidebarProducts:
 - title: ミズノ公式 ダンベルボール ボルレッチ 2個入り
   url: https://hb.afl.rakuten.co.jp/hgc/g00s5hs1.ve2q5eb6.g00s5hs1.ve2q60c3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmizunoshop%2Fc3jhi90449%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmizunoshop%2Fi%2F10124368%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/mizunoshop/cabinet/goods/1023/sh_c3jhi90449.jpg?_ex=600x600
-  price: 3960
   microCopy: 詳細を見る
 ---
 <strong>商品スペック</strong>
@@ -54,7 +53,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="ミズノ公式-ダンベルボール-ボルレッチ-2個入り" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥3,960</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -134,7 +133,7 @@ sidebarProducts:
 
 さらに、ジムまでの交通費（電車賃やガソリン代）、トレーニングウェアやシューズの初期投資、プロテインなどのサプリメント代も考慮に入れると、年間で10万円を超える出費になるのは珍しくありません。
 
-一方、ミズノ ダンベルボールの価格は、重さにもよりますが、数千円から高くても1万円程度で購入できます。例えば、2kgのボールであれば3,000円〜4,000円程度で手に入ります。
+一方、ミズノ ダンベルボールはウェイトの重さにもよりますが、一般的なフィットネス器具の中では手に取りやすい価格帯に設定されています（最新の販売価格は各ショップでご確認ください）。
 
 これが一度購入すれば基本的に追加費用は発生しません。もし数種類の重さを揃えたとしても、初年度のジム費用と比べれば圧倒的に安く済みます。
 
@@ -156,7 +155,7 @@ sidebarProducts:
 
 しかし、ミズノ ダンベルボールであれば、そのコンパクトさゆえに、ほとんど場所を取りません。直径がおよそ20cm前後なので、使わない時は本棚の隅やソファの下など、ちょっとした隙間に収納できます。
 
-リビングの一角でサッと取り出してトレーニングし、終わったら元の場所に片付ける、というスマートな使い方ができるのは大きな利点です。我が家もリビングの一角にヨガマットを敷いて使っていますが、普段はほとんど視界に入らず、生活空間を圧迫することがありません。
+リビングの一角でサッと取り出してトレーニングし、終わったら元の場所に片付ける、というスマートな使い方ができるのは大きな利点です。部屋の隅にヨガマットと一緒に置いておいても場所を取らず、生活空間を圧迫しにくい点が魅力です。
 
 この省スペース性は、特に都心部のマンションやアパートに住んでいる方にとっては、決定的なメリットとなるでしょう。
 
@@ -198,7 +197,7 @@ sidebarProducts:
 
 例えば、高重量トレーニング前のウォームアップとして、ダンベルボールを使った軽いスクワットやランジで股関節や肩甲骨周りの可動域を広げたり、トレーニングの最後に体幹の安定性を高めるエクササイズに活用できます。特に、プランクの際に片手でダンベルボールを支える「ダンベルボールプランク」は、腹斜筋や体幹全体のインナーマッスルに強烈な刺激を与えることができます。
 
-これは、通常のプランクだけでは得られない感覚で、全身の連動性を高める上で非常に効果的だと感じています。
+これは、通常のプランクだけでは得られにくい不安定性を活かした刺激で、全身の連動性を高める上で非常に効果的なバリエーションです。
 
 このように、ダンベルボールは初心者にとっては導入しやすい万能な全身トレーニング器具として、中上級者にとっては既存のトレーニングを補完し、質を高めるためのツールとして、幅広い層から支持されていることが分かります。それぞれのレベルや目的に応じて、その価値を最大限に引き出せる柔軟性も、この製品の大きな魅力と言えるでしょう。
 

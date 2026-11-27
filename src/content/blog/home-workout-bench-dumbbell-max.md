@@ -18,7 +18,6 @@ sidebarProducts:
   - title: 'トレーニングベンチ＋可変式ダンベル セット'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbcset-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744544/08964855/set2.jpg?_ex=600x600'
-    price: 27000
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -39,7 +38,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="トレーニングベンチ＋可変式ダンベル-セット" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥27,000</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -281,7 +280,7 @@ sidebarProducts:
 もちろん、超高重量を追求したい方や、ジムの社交性を求める方には向かないかもしれません。
 しかし、自分のペースで、着実に、そして何よりも「継続して」体を鍛えたいと願う方にとって、トレーニングベンチと可変式ダンベルの組み合わせは、賢明な選択肢の一つであり、理想の体と健康的な未来の実現をサポートする強力なパートナーとなり得ます。
 
-<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/new-improved-training-bench/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">トレーニングベンチ新型は宅トレ必須か？筋肥大を最大化する解剖学的メリット</a> ／ <a href="/blog/leading-edge-adjustable-dumbbell/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">【実機検証】LEADING EDGE可変式ダンベルLE-AD24の実力！フレックスベルや他社製との違いを徹底比較</a></p>
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/new-improved-training-bench/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">STEADY 多機能トレーニングベンチ（ST123系）は宅トレ必須か？筋肥大を促す解剖学的メリット</a> ／ <a href="/blog/leading-edge-adjustable-dumbbell/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">【実機検証】LEADING EDGE可変式ダンベルLE-AD24の実力！フレックスベルや他社製との違いを徹底比較</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>トレーニングベンチ＋可変式ダンベル セット</strong></div>

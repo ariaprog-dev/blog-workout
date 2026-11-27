@@ -9,7 +9,7 @@ tags:
   - 'angle:beginner'
 faq:
   - question: '従来の腹筋ローラーと比べて、肘当て付きは何が違いますか？'
-    answer: '体重を手首だけで支えるのではなく、前腕と肘全体で支えるため、手首への負担が劇的に軽減されます。また、プランクに近い安定した姿勢をキープできるため、腰が反りにくく安全です。'
+    answer: '体重を手首だけで支えるのではなく、前腕と肘全体で支えるため、手首への負担が大幅に軽減されます。また、プランクに近い安定した姿勢をキープできるため、腰が反りにくく安全です。'
   - question: '腰を痛めるのが心配です。怪我の予防策はありますか？'
     answer: '肘当てに前腕を乗せ、お腹を軽く引き込んで背中を丸め気味にする「骨盤後傾」を保つことで、腰椎へのストレスをほぼゼロに抑えて腹筋だけをダイレクトに収縮できます。'
   - question: '腹筋ローラー初心者でも使えますか？'
@@ -18,7 +18,6 @@ sidebarProducts:
   - title: '4輪式 腹筋ローラー (肘当て・膝マット付き)'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F4%E8%BC%AA%E5%BC%8F%20%E8%85%B9%E7%AD%8B%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%20%E8%82%98%E5%BD%93%E3%81%A6%2F'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600'
-    price: 0
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -43,7 +42,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="4輪式-腹筋ローラー" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">価格・在庫を確認</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>

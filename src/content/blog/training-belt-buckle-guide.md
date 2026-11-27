@@ -20,27 +20,22 @@ sidebarProducts:
 - title: "【公式サイト】GOLD'S GYM ゴールドジム EXレザーベルト G3322 | トレーニングベルト 最高級レザー 本革"
   url: https://hb.afl.rakuten.co.jp/hgc/g00qmdm1.ve2q5e1f.g00qmdm1.ve2q6070/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoldsgym%2Fggp-g3322%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoldsgym%2Fi%2F10000054%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/goldsgym/cabinet/ggp/imgrc0116950039.jpg?_ex=600x600
-  price: 12100
   microCopy: 詳細を見る
 - title: "Schiek シーク リフティングベルト 2004 全8色 トレーニングベルト ユニセックス ナイロン製 マジックテープ式 筋トレ ジム シーク トレーニングベルト Schiek ベルト XXS～M"
   url: https://hb.afl.rakuten.co.jp/hgc/g00r6c31.ve2q5bd0.g00r6c31.ve2q60fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjack%2Fschiek2004-%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjack%2Fi%2F10004245%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/jack/cabinet/imgrc0133434090.jpg?_ex=600x600
-  price: 9900
   microCopy: 詳細を見る
 - title: "レバーアクションベルト レバーベルト 10mm 筋トレ パワーベルト 筋力トレーニング ウエイトトレーニング スクワット 高機能 調節 腰サポートベルト バックル 宅トレ べると ベルト メンズ 筋力 腰 男性 サポーター グッズ 筋肉 強化 自宅 トレーニング 本革"
   url: https://hb.afl.rakuten.co.jp/hgc/g00thad1.ve2q5026.g00thad1.ve2q6b60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgorilla-squad%2Flever-belt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgorilla-squad%2Fi%2F10000052%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/gorilla-squad/cabinet/10457504/imgrc0102961358.jpg?_ex=600x600
-  price: 13800
   microCopy: 詳細を見る
 - title: "【公式サイト】GOLD'S GYM ゴールドジム パワーベルト シングルピン G3351　|トレーングベルト ベルト トレーニング"
   url: https://hb.afl.rakuten.co.jp/hgc/g00qmdm1.ve2q5e1f.g00qmdm1.ve2q6070/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoldsgym%2Fggp-g3351%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoldsgym%2Fi%2F10000059%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/goldsgym/cabinet/ggp/single_pin.jpg?_ex=600x600
-  price: 13200
   microCopy: 詳細を見る
 - title: "VOLIXナイロントレーニングベルト トレーニングベルト マジックテープ 筋トレ ベルト スクワット デッドリフト ベンチプレス 男女兼用 送料無料 ケガ予防 腹圧"
   url: https://hb.afl.rakuten.co.jp/hgc/g00unen1.ve2q5328.g00unen1.ve2q6da2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvolix%2Fnylonbelt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvolix%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/volix/cabinet/12116861/imgrc0109494198.jpg?_ex=600x600
-  price: 3980
   microCopy: 詳細を見る
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -61,7 +56,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="ゴールドジム-exレザーベルト-g3322" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥12,100</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -143,13 +138,13 @@ GOLD'S GYMなどの公式解説でも整理されている通り、トレーニ�
 
 楽天市場の公式ストア・正規取扱店等で確認できた、留め具方式の異なる主要5モデルの公称スペックを比較します（※仕様はショップ掲載情報に基づく調査時点の内容です）。
 
-| モデル名 | 留め具・素材/形状 | 幅・厚み（公称） | サイズ目安・参考価格（税込） | 向いている層 |
+| モデル名 | 留め具・素材/形状 | 幅・厚み（公称） | サイズ目安・価格確認 | 向いている層 |
 | :--- | :--- | :--- | :--- | :--- |
-| GOLD'S GYM EXレザーベルト G3322 | ベルト穴（2本ピン）／最高級本革・レギュラー型 | 厚さ約5mm（背中太・腹細） | XS(55-65) / S(65-75) / M(75-85) / L(85-95) / XL(95-105cm) ・ ¥12,100 | 本革の安心感と柔らかさ・扱いやすさを両立したい層 |
-| GOLD'S GYM パワーベルト シングルピン G3351 | ベルト穴（1本ピン）／レザー・パワー型 | 全周均一幅（ハード設計・厚さ約1cm目安） | S(65-80) / M(75-90) / L(85-100) / XL(95-110cm) ・ ¥13,200 | ピン穴の安心感とセット間の着脱しやすさを両立したい層 |
-| Schiek リフティングベルト 2004 | マジックテープ（特許ベルクロ）／ナイロン・湾曲フィット型 | 腰部幅約12cm / 軽量 | XXS(55-66) / XS(60-71) / S(68-81) / M(78-91cm)※ ・ ¥9,900 | 体のカーブに合う密着感・色展開・洗濯性を重視する層 |
-| VOLIX ナイロントレーニングベルト | マジックテープ（1点留め）／ナイロン・サイド細型 | 軽量・手洗い可（数値非公開） | 商品ページのサイズ表参照 ・ ¥3,980 | まず手頃にベルクロ式の調整感を試したい宅トレ入門 |
-| GORILLA SQUAD レバーアクションベルト 10mm | レバーアクション（ネジ調節）／本革スエード・パワー型 | 幅9.5cm / 厚さ約10mm | S(63-83)〜4XL(109-128cm)全7サイズ ・ ¥13,800 | 高重量スクワット・デッドリフトで強固な壁と瞬時着脱を求める層 |
+| GOLD'S GYM EXレザーベルト G3322 | ベルト穴（2本ピン）／最高級本革・レギュラー型 | 厚さ約5mm（背中太・腹細） | XS(55-65) / S(65-75) / M(75-85) / L(85-95) / XL(95-105cm)・価格は各ショップで確認 | 本革の安心感と柔らかさ・扱いやすさを両立したい層 |
+| GOLD'S GYM パワーベルト シングルピン G3351 | ベルト穴（1本ピン）／レザー・パワー型 | 全周均一幅（ハード設計・厚さ約1cm目安） | S(65-80) / M(75-90) / L(85-100) / XL(95-110cm)・価格は各ショップで確認 | ピン穴の安心感とセット間の着脱しやすさを両立したい層 |
+| Schiek リフティングベルト 2004 | マジックテープ（特許ベルクロ）／ナイロン・湾曲フィット型 | 腰部幅約12cm / 軽量 | XXS(55-66) / XS(60-71) / S(68-81) / M(78-91cm)※・価格は各ショップで確認 | 体のカーブに合う密着感・色展開・洗濯性を重視する層 |
+| VOLIX ナイロントレーニングベルト | マジックテープ（1点留め）／ナイロン・サイド細型 | 軽量・手洗い可（数値非公開） | 商品ページのサイズ表参照・価格は各ショップで確認 | まず手頃にベルクロ式の調整感を試したい宅トレ入門 |
+| GORILLA SQUAD レバーアクションベルト 10mm | レバーアクション（ネジ調節）／本革スエード・パワー型 | 幅9.5cm / 厚さ約10mm | S(63-83)〜4XL(109-128cm)全7サイズ・価格は各ショップで確認 | 高重量スクワット・デッドリフトで強固な壁と瞬時着脱を求める層 |
 
 ※Schiek 2004 のサイズは掲載ショップ（jack）の現行取扱範囲です。減量〜増量期の目安として通常体重65kgでXS着用・60〜70kgの範囲で調整可能と案内されています。
 
@@ -162,7 +157,7 @@ GOLD'S GYMなどの公式解説でも整理されている通り、トレーニ�
 形状は背中側が太く腹側が細いレギュラー型のため、スクワットやデッドリフトに加えてベントオーバーロウやショルダープレスなど上半身を動かす種目とも相性が良いバランスです。2本ピンのためセットごとの微調整には穴間隔の制約があるものの、「革ベルトの安心感は欲しいがガチガチの硬さは避けたい」という方に適した定番モデルです。一方、より厚手で全周が同じ幅のパワー型かつ着脱の手間を減らしたい場合は、次の1本ピンモデル **G3351** が比較対象になります。
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ゴールドジム EXレザーベルト G3322</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（参考価格: ¥12,100）</span></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ゴールドジム EXレザーベルト G3322</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（価格・在庫は各ショップで確認）</span></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25B8%25E3%2583%25A0%2520EX%25E3%2583%25AC%25E3%2582%25B6%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588%2520G3322" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00qmdm1.ve2q5e1f.g00qmdm1.ve2q6070/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoldsgym%2Fggp-g3322%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoldsgym%2Fi%2F10000054%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25B8%25E3%2583%25A0%2520EX%25E3%2583%25AC%25E3%2582%25B6%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588%2520G3322" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
@@ -173,7 +168,7 @@ GOLD'S GYMなどの公式解説でも整理されている通り、トレーニ�
 新品時は革が硬く扱いづらさを感じやすいものの、使い込むほど使用者の体へ馴染むのが特徴です。2本ピンのように毎回2箇所のピンを抜き差しする手順が不要で、レバー式のようにバックル金具をネジで付け替えずともピン穴単位でその場の調整ができるため、「ハードなパワーベルトのホールド感」と「ピンの外しやすさ・調整の自由度」のバランスを重視する候補になります。
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ゴールドジム パワーベルト シングルピン G3351</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（参考価格: ¥13,200）</span></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ゴールドジム パワーベルト シングルピン G3351</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（価格・在庫は各ショップで確認）</span></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25B8%25E3%2583%25A0%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588%2520G3351%25201%25E3%2583%2594%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00qmdm1.ve2q5e1f.g00qmdm1.ve2q6070/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoldsgym%2Fggp-g3351%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoldsgym%2Fi%2F10000059%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25B8%25E3%2583%25A0%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588%2520G3351%25201%25E3%2583%2594%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
@@ -184,7 +179,7 @@ GOLD'S GYMなどの公式解説でも整理されている通り、トレーニ�
 外側の細いベルトをバックルへ折り返してから特許技術のスライド＆グリップベルクロで密着させる構造になっており、面ファスナーの微調整のしやすさと高い保持力を両立しています。中性洗剤での手洗いと自然乾燥に対応しているため、夏場の宅トレで汗を多くかいた際も清潔に保ちやすい点も強みです。なお、下記の楽天市場掲載ショップの現行取扱はXXS〜Mサイズ（ウエスト目安55〜91cm）までのため、ウエスト91cm以上の方はAmazonやYahoo!ショッピング等でL・XLサイズの在庫をあわせてご確認ください。
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Schiek リフティングベルト 2004</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（参考価格: ¥9,900）</span></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Schiek リフティングベルト 2004</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（価格・在庫は各ショップで確認）</span></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSchiek%2520%25E3%2583%25AA%25E3%2583%2595%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588%25202004" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00r6c31.ve2q5bd0.g00r6c31.ve2q60fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjack%2Fschiek2004-%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjack%2Fi%2F10004245%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DSchiek%2520%25E3%2583%25AA%25E3%2583%2595%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588%25202004" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
@@ -195,7 +190,7 @@ GOLD'S GYMなどの公式解説でも整理されている通り、トレーニ�
 サイドを細く絞った設計により前屈時の骨盤への干渉を抑えつつ、背骨のアーチに沿って腰を支える構造です。コンパクトに畳めて手洗い洗濯にも対応しているため、「まず腹圧を入れて持ち上げる感覚を掴みたい」という段階の入門機として位置づけやすい一品です。
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>VOLIX ナイロントレーニングベルト</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（参考価格: ¥3,980）</span></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>VOLIX ナイロントレーニングベルト</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（価格・在庫は各ショップで確認）</span></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DVOLIX%2520%25E3%2583%258A%25E3%2582%25A4%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00unen1.ve2q5328.g00unen1.ve2q6da2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvolix%2Fnylonbelt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvolix%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DVOLIX%2520%25E3%2583%258A%25E3%2582%25A4%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
@@ -206,7 +201,7 @@ GOLD'S GYMなどの公式解説でも整理されている通り、トレーニ�
 裏側のプラスネジで金具位置を事前に設定しておけば、着用時はレバーを起こして掛けるだけでワンタッチ固定でき、セット完了後の酸欠・疲労時にも片手で瞬時に解除可能です。S（約63〜83cm）から4XL（約109〜128cm）までの7サイズ展開で体格に合わせて選びやすく、種目ごとに頻繁にサイズを変えない高重量リフターに向いています。
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>GORILLA SQUAD レバーアクションベルト 10mm</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（参考価格: ¥13,800）</span></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>GORILLA SQUAD レバーアクションベルト 10mm</strong> <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">（価格・在庫は各ショップで確認）</span></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGORILLA%2520SQUAD%2520%25E3%2583%25AC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00thad1.ve2q5026.g00thad1.ve2q6b60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgorilla-squad%2Flever-belt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgorilla-squad%2Fi%2F10000052%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DGORILLA%2520SQUAD%2520%25E3%2583%25AC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 

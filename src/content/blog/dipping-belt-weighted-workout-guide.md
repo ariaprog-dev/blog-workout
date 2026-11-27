@@ -15,20 +15,17 @@ faq:
   - question: '腰に負担がかからないか心配です。'
     answer: '腰パッド付きのディッピングベルトを選ぶことで、重りによる圧力を分散し、腰への負担を軽減できます。また、トレーニング中はしっかり腹圧をかけて体幹を安定させ、正しいフォームで行うことが怪我予防に繋がります。'
 sidebarProducts:
-  - title: '【楽天1位】【月間優良ショップ受賞】【現役トレーナー監修】 ディッピングベルト ディプスベルト ディップスベルト チンニング 懸垂 筋トレ 自重 加重 チンニングベルト 耐久性 荷重ベルト 懸垂補助 加重懸垂 ベルト おもり 耐荷重 丈夫 トレーニング'
+  - title: '加重用 ディッピングベルト'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00u8yb1.ve2q546f.g00u8yb1.ve2q62a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhummingbird2022%2F10000192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhummingbird2022%2Fi%2F10000192%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/hummingbird2022/cabinet/nankinjo/09995469/01.jpg?_ex=600x600'
-    price: 2280
     microCopy: '詳細を見る'
-  - title: 'ディプスベルト 筋トレ 陸上トレーニング ベルト 爆発力強化 加重ベルト ウエイトベルト 負荷チェーン付き調節可能 筋力アップ ランニング 懸垂 ディッピングベルト 自重トレーニング ディッピングベルト アスリート ディップスベルト ジム'
+  - title: 'チェーン付き 加重ディップスベルト'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00uwxl1.ve2q552d.g00uwxl1.ve2q6886/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeppin14%2Fhghg2467390%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeppin14%2Fi%2F10006062%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/beppin14/cabinet//13851819/hghg2467390.jpg?_ex=600x600'
-    price: 1960
     microCopy: '詳細を見る'
-  - title: '筋トレ チンニング ディプスベルト 自重 加重 ディッピングベルト ディップスベルト 加重懸垂 ディッピングベルト 懸垂 荷重ベルト 懸垂補助 耐久性 ベルト おもり 耐荷重 丈夫 トレーニング ジム'
+  - title: '懸垂・ディップス用 加重ベルト'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00uh3r1.ve2q5840.g00uh3r1.ve2q6889/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoconut1992%2Fvava2469219%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoconut1992%2Fi%2F10005760%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coconut1992/cabinet//image41/vava2469219.jpg?_ex=600x600'
-    price: 1599
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -52,7 +49,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="ディッピングベルト-ディプスベルト-ディップスベルト" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥2,280</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -115,12 +112,11 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 1,980円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | WINDIX |
-| レビュー評価 | 4.48 (63件) |
 
 <strong>WINDIX ディッピングベルト</strong>
-このベルトは腰パッドがないシンプルな設計なので、その分軽量で取り回しが楽です。値段も2,000円を切る手頃さで、最初の1本として試しやすいでしょう。
+このベルトは腰パッドがないシンプルな設計なので、その分軽量で取り回しが楽です。エントリー価格帯で比較的手頃に導入できるため、最初の1本として試しやすいでしょう。
 
 ただし、高重量を扱うようになった際は、腰への負担が増す可能性があるため、腹圧をしっかり意識したり、将来的にパッド付きへの買い替えも検討してみてください。
 
@@ -130,9 +126,8 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 2,280円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | hummingbird 楽天市場店 |
-| レビュー評価 | 4.58 (272件) |
 
 <strong>hummingbird ディッピングベルト</strong>
 「引っ張り強度180kg超の頑丈設計」と謳われているこのベルトは、まさに本格派向けと言えます。「耐久性」において非常に信頼性が高い製品です。
@@ -145,7 +140,7 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 1,960円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | Beppin楽天市場店 |
 
 <strong>Beppin楽天市場店 ディプスベルト</strong>

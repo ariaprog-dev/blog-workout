@@ -15,20 +15,17 @@ faq:
   - question: '飲み続けないと効果はなくなりますか？'
     answer: 'このサプリメントは、継続して摂取することで日々の栄養バランスを整え、身体の調子をサポートするものです。即効性があるわけではなく、摂取をやめればその補助効果は期待できなくなります。日々のコンディション維持のためにも、継続的な摂取が推奨されます。'
 sidebarProducts:
-  - title: 'ディアナチュラ 49種アミノ マルチビタミン＆ミネラル 100日分 400粒 【Dear-Natura(ディアナチュラ)】 栄養機能食品'
+  - title: 'ディアナチュラ 49種アミノ マルチビタミン＆ミネラル 400粒（100日分）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ugyn1.ve2q5bfb.g00ugyn1.ve2q689c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4946842639823%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10016166%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/823/4946842639823.jpg?_ex=600x600'
-    price: 2852
     microCopy: '詳細を見る'
-  - title: '【9/19 20時開始★タイムセールで1098円】マルチビタミン＆マルチミネラル　約6ヶ月 【cp】送料無料 サプリメント 健康 美容 ビタミンA ビタミンB ビタミンC ビタミンD ビタミンE 葉酸 ナイアシン ミネラル カロテン 鉄 亜鉛 カルシウム マグネシウム'
+  - title: 'マルチビタミン＆マルチミネラル（約6ヶ月分）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00r8h11.ve2q5066.g00r8h11.ve2q63fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseedcoms%2F1000290954-61111%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseedcoms%2Fi%2F10007630%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/seedcoms/cabinet/images/thum/sale/mvmm_6m_1098.jpg?_ex=600x600'
-    price: 1098
     microCopy: '詳細を見る'
-  - title: 'ネイチャーメイド マルチビタミン＆ミネラル 200粒入 【ネイチャーメイド(Nature Made)】 マルチビタミン'
+  - title: 'ネイチャーメイド マルチビタミン＆ミネラル 200粒入'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ugyn1.ve2q5bfb.g00ugyn1.ve2q689c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4987035262213%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10019050%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/213/4987035262213.jpg?_ex=600x600'
-    price: 2562
     microCopy: '詳細を見る'
 ---
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -51,7 +48,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="ディアナチュラ-49種アミノ-マルチビタミン＆ミネラル" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥2,852</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -96,9 +93,9 @@ sidebarProducts:
 
 初めて摂取する際には、「本当にこの4粒で49種類もの栄養素が摂れるのか？」と疑問に感じる方もいるかもしれません。
 
-劇的な変化を期待するような即効性があるわけではありません。しかし、2,852円で100日分（400粒）という価格は、1日あたり約28.5円と、手軽に継続しやすい費用感であると言えるでしょう。
+急激な変化を期待するような即効性があるわけではありません。しかし、100日分（400粒）入りの大容量ボトルは、1日あたりに換算しても継続しやすい費用感であると言えるでしょう（最新価格・セール情報は各ショップでご確認ください）。
 
-この価格で、これほど多くの栄養素を毎日手軽に補給できる点は、多くの利用者にとって魅力となるでしょう。外食で不足しがちな栄養素を補う意味でも、経済的な選択肢の一つと考えられます。
+毎日の食事で不足しがちなビタミン・ミネラル・アミノ酸を手軽にまとめて補給できる点は、外食が多い方にとっても無理なく続けやすい選択肢の一つと考えられます。
 
 ## 利用する上での注意点と検討ポイント
 
@@ -127,14 +124,14 @@ sidebarProducts:
 *   **日々のコンディショニング維持を重視する方。**ビタミンやミネラル、アミノ酸は身体のコンディションを整える上で欠かせません。乳酸菌の働きで、消化吸収のサポートも期待できます。
 
 一方で、不向きなケースもあります。
-*   **即効性のある劇的な筋肉増強を期待する方。**あくまで栄養補助食品であり、プロテインのような高タンパク質摂取を主目的とする製品ではありません。
+*   **短期的な筋肉増強を主な目的とする方。**あくまで栄養機能食品（マルチビタミン＆ミネラル・アミノ酸補給）であり、プロテインのような高タンパク質摂取を主目的とする製品ではありません。
 *   **特定の成分（例：単一のビタミンやミネラル）のみを高用量で摂りたい方。**この製品はマルチタイプなので、特定の成分に特化したサプリメントのほうが適しているかもしれません。
 
-| 製品名 | 主要成分 | 内容量/目安 | 参考価格 (税込) |
+| 製品名 | 主要成分 | 内容量/目安 | 価格・在庫 |
 | :--- | :--- | :--- | :--- |
-| ディアナチュラ 49種アミノ マルチビタミン＆ミネラル | 18種アミノ酸, 12種ビタミン, 9種ミネラル, 10種乳酸菌 | 100日分 (400粒) | 2,852円 |
-| マルチビタミン＆マルチミネラル (タイムセール品) | ビタミンA,B,C,D,E,葉酸,ナイアシン,ミネラル(鉄,亜鉛,カルシウム,マグネシウム),カロテン | 約6ヶ月分 | 1,098円 |
-| ネイチャーメイド マルチビタミン＆ミネラル | 複数ビタミン, 複数ミネラル | 200粒入 (※1日1粒目安で約200日分) | 2,562円 |
+| ディアナチュラ 49種アミノ マルチビタミン＆ミネラル | 18種アミノ酸, 12種ビタミン, 9種ミネラル, 10種乳酸菌 | 100日分 (400粒) | 各ショップで確認 |
+| マルチビタミン＆マルチミネラル（大容量パウチ） | ビタミンA,B,C,D,E,葉酸,ナイアシン,ミネラル(鉄,亜鉛,カルシウム,マグネシウム),カロテン | 約6ヶ月分 | 各ショップで確認 |
+| ネイチャーメイド マルチビタミン＆ミネラル | 複数ビタミン, 複数ミネラル | 200粒入 (※1日1粒目安で約200日分) | 各ショップで確認 |
 
 ディアナチュラ 49種アミノは、国内工場生産、着色料無添加という品質へのこだわりも魅力的です。栄養機能食品として、ビタミンB1（炭水化物からのエネルギー産生）、亜鉛（味覚やタンパク質代謝）、ビタミンE（抗酸化作用）といった重要な機能が明記されています。
 

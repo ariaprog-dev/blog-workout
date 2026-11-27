@@ -18,20 +18,17 @@ faq:
   - question: '懸垂が1回もできない初心者でも懸垂マシンを買う価値はありますか？'
     answer: '絶大な価値があります。懸垂マシンがあれば、足元に踏み台を置いてジャンプし、トップポジションから3〜5秒かけてゆっくり身体を下ろす「ネガティブ懸垂（エキセントリック収縮）」や、足を床につけた状態で行う「斜め懸垂」、さらにはバーにゴムチューブを引っ掛けて体重を免荷する「アシスト懸垂」が自宅で毎日行えます。この段階的トレーニングにより、0回だった人でも数週間〜2ヶ月程度で自力懸垂ができるようになります。'
 sidebarProducts:
-  - title: '懸垂 懸垂マシン 懸垂器具 ぶら下がり健康器 チンニングスタンド けんすいマシーン 筋トレーニング 【意匠登録取得済】MK301YL'
+  - title: 'WASAI 懸垂マシン MK301YL'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ruxc1.ve2q542b.g00ruxc1.ve2q638b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwasai%2Fmk301%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwasai%2Fi%2F10000090%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/wasai/cabinet/05926486/imgrc0109728117.jpg?_ex=600x600'
-    price: 7990
     microCopy: '詳細を見る'
-  - title: '【LINE追加全員5%OFF】懸垂マシン 耐荷重150kg 【1年保証】高さ10段階 安定性 ウェストパッド アームパッド ディップス レッグレイズ 腕立て伏せ チンニングスタンド 懸垂器具 懸垂バー トレーニング器具 筋トレ 宅トレ STEADY ステディ ST115'
+  - title: 'STEADY（ステディ）懸垂マシン ST115（耐荷重150kg）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00saul1.ve2q5b2f.g00saul1.ve2q6e15/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftkms%2Fst115%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftkms%2Fi%2F10000667%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/fitness/st115/241204_thumb.jpg?_ex=600x600'
-    price: 14990
     microCopy: '詳細を見る'
-  - title: '★期間限定1000円クーポンあり★ぶら下がり健康器 懸垂マシン 高さ調節可能 耐荷重180kg 土台八の字型 大吸盤設計 懸垂器具 筋力 筋肉 背筋 腹筋 大胸筋 アームレストクッションあり 背面クッションあり レーニングチューブ付き 家庭用 日本語取扱説明書付き'
+  - title: 'ぶら下がり健康器 懸垂マシン（耐荷重180kg・八の字型土台）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Fbrsgl-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000000%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/compass1640049026.jpg?_ex=600x600'
-    price: 11980
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -60,7 +57,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="懸垂-懸垂マシン-懸垂器具-ぶら下がり健康器" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥7,990</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -88,7 +85,7 @@ sidebarProducts:
 体重が70kgの場合でも、反動を使った懸垂や勢いよく飛びつく動作では体重の1.5倍以上の瞬間荷重がかかります。将来的な加重ベルト（ディッピングベルト）による加重トレも見据え、<strong>「耐荷重150kg以上」</strong>を公称するモデルを選びましょう。
 
 ### 3. グリップの多様性（パラレル・ワイド・ナロー対応）
-背中の筋肉（広背筋）は、手のひらを向かい合わせる「パラレルグリップ」、順手で広く握る「ワイドグリップ」、逆手で握る「チンニング」で刺激の入る部位が劇的に変化します。はしご型や斜めアール加工されたバーがあるとトレーニングのマンネリを防げます。
+背中の筋肉（広背筋）は、手のひらを向かい合わせる「パラレルグリップ」、順手で広く握る「ワイドグリップ」、逆手で握る「チンニング」で刺激の入る部位が大きく変化します。はしご型や斜めアール加工されたバーがあるとトレーニングのマンネリを防げます。
 
 ### 4. アームレスト（肘パッド）とバッククッションの干渉防止
 ディップスやハンギングレッグレイズを行うためのパッド類は便利ですが、懸垂時に頭や肘がぶつからないよう適切なクリアランスが設計されているかを確認してください。
@@ -97,15 +94,15 @@ sidebarProducts:
 
 ## 【ランキング第1位】STEADY ST115 — 独自の設計で広背筋と腹筋を極める
 
-### 圧倒的な剛性感とはしご型バー！細部まで計算し尽くされた傑作
+### 圧倒的な剛性感とはしご型バー！細部まで計算し尽くされた設計
 
-ランキング第1位は、フィットネスブランド累計販売数100万個を誇るSTEADYのフラッグシップモデル、<strong>「STEADY ST115」</strong>です。
+ランキング第1位は、フィットネスブランドとして広く知られるSTEADYのフラッグシップモデル、<strong>「STEADY ST115」</strong>です。
 
-最大のストロングポイントは、徹底的なユーザー検証から生まれた<strong>「はしご型ハンドルバー」</strong>と<strong>「耐荷重150kgの肉厚フレーム」</strong>です。一般的なストレートバーと異なり、パラレルグリップ（平行握り）が最初から組み込まれているため、手首や肩関節に過度な負担をかけず、広背筋下部や大円筋に強烈な収縮をかけることができます。
+最大のストロングポイントは、使いやすさを追求した<strong>「はしご型ハンドルバー」</strong>と<strong>「耐荷重150kgの肉厚フレーム」</strong>です。一般的なストレートバーと異なり、パラレルグリップ（平行握り）が最初から組み込まれているため、手首や肩関節に過度な負担をかけず、広背筋下部や大円筋に効率よく刺激をかけることができます。
 
-さらに特許庁実用新案登録済みの<strong>「回転式ウエストパッド」</strong>を搭載。ハンギングレッグレイズを行う際、パッドを横にクルッと回転させることで、膝や大腿部がクッションに一切干渉しません。これにより、骨盤を胸元まで深く丸め込むフルレンジの可動域で腹直筋下部を限界まで追い込むことが可能です。
+さらに特許庁実用新案登録済みの<strong>「回転式ウエストパッド」</strong>を搭載。ハンギングレッグレイズを行う際、パッドを横にクルッと回転させることで、膝や大腿部がクッションに一切干渉しません。これにより、骨盤を胸元まで深く丸め込むフルレンジの可動域で腹直筋下部を効率よく追い込むことが可能です。
 
-価格は約14,990円とエントリーモデルよりやや高価ですが、面で地面を捉える大型脚カバー、10段階の高さ調節、安心の1年保証を兼ね備えており、宅トレ器具として適した一台です。
+エントリーモデルより上位の価格帯に位置づけられますが、面で地面を捉える大型脚カバー、10段階の高さ調節、メーカーの1年保証を兼ね備えており、宅トレ器具として充実した一台です（最新価格は各ショップでご確認ください）。
 
 【製品基本スペック】
 | 項目 | 詳細スペック |
@@ -119,17 +116,17 @@ sidebarProducts:
 ---
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>STEADY ST115 — 独自の設計で広背筋と腹筋を極める</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSTEADY%2520ST115%2520%25E2%2580%2594" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSTEADY%20ST115%20%E2%80%94%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DSTEADY%2520ST115%2520%25E2%2580%2594" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>STEADY ST115 懸垂マシン</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSTEADY%2520ST115%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSTEADY%20ST115%20%E6%87%B8%E5%9E%82%E3%83%9E%E3%82%B7%E3%83%B3%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DSTEADY%2520ST115%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
-## 【ランキング第2位】WASAI MK301YL — 1万円以下の圧倒的コスパと省スペース
+## 【ランキング第2位】WASAI MK301YL — コスパと省スペースを両立
 
 ### 余分な装飾を削ぎ落とした質実剛健！意匠登録取得の定番マシン
 
 第2位は、宅トレ器具のパイオニア的存在であるWASAI（和才）のロングセラー、<strong>「WASAI MK301YL」</strong>です。
 
-魅力はなんと言っても<strong>「7,000円台〜8,000円前後という驚異の価格設定」</strong>です。ディップス用パッドや背もたれクッションといった付加機能を思い切って省き、「懸垂（チンニング）」と「ディップス」の基本動作に特化させることで、驚異的なコストパフォーマンスと設置のコンパクトさを実現しています。
+魅力はなんと言っても<strong>エントリークラスの手頃な価格設定とシンプルさ</strong>です。ディップス用パッドや背もたれクッションといった付加機能を思い切って省き、「懸垂（チンニング）」と「ディップス」の基本動作に特化させることで、優れたコストパフォーマンスと設置のコンパクトさを実現しています。
 
 余分なクッションが張り出していないため、6畳間の部屋の隅やワンルームのスペースに置いても視覚的な圧迫感が少なく、日常の生活動線を邪魔しません。シンプルな構造ゆえに組み立ての手順も少なく、ボルト留めもスムーズに行えます。
 
@@ -141,14 +138,14 @@ sidebarProducts:
 | <strong>耐荷重</strong> | 120kg |
 | <strong>本体重量</strong> | 約15kg |
 | <strong>高さ調整</strong> | 5段階調整 |
-| <strong>特徴</strong> | 意匠登録取得、シンプル省スペース、1万円以下の破格プライス |
+| <strong>特徴</strong> | 意匠登録取得、シンプル省スペース、手頃なエントリー価格帯 |
 | <strong>おすすめ対象</strong> | 部屋のスペースを圧迫したくない方、コスパ最優先で懸垂を始めたい方 |
 
 ---
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>WASAI MK301YL — 1万円以下の圧倒的コスパと省スペース</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWASAI%2520MK301YL%2520%25E2%2580%2594%25201%25E4%25B8%2587%25E5%2586%2586%25E4%25BB%25A5%25E4%25B8%258B%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWASAI%20MK301YL%20%E2%80%94%201%E4%B8%87%E5%86%86%E4%BB%A5%E4%B8%8B%E3%81%AE%E5%9C%A7%E5%80%92%E7%9A%84%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DWASAI%2520MK301YL%2520%25E2%2580%2594%25201%25E4%25B8%2587%25E5%2586%2586%25E4%25BB%25A5%25E4%25B8%258B%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>WASAI MK301YL 懸垂マシン</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWASAI%2520MK301YL%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWASAI%20MK301YL%20%E6%87%B8%E5%9E%82%E3%83%9E%E3%82%B7%E3%83%B3%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DWASAI%2520MK301YL%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
 ## 【ランキング第3位】八の字型大吸盤 懸垂マシン（耐荷重180kg）
@@ -196,7 +193,7 @@ sidebarProducts:
 
 ---
 
-<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/wasai-mk301yl-chinning-stand-review-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">WASAI MK301YL懸垂マシンで始める宅トレ革命：本当に必要な一台はどれ？</a> ／ <a href="/blog/steady-chinning-machine-protein-review-taste-daily/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">STEADY懸垂マシンと極める宅トレ！きなこプロテインで成果を最大化</a></p>
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/wasai-mk301yl-chinning-stand-review-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">WASAI MK301YL懸垂マシンで始める宅トレ比較：自宅に合う一台の選び方</a> ／ <a href="/blog/steady-chinning-machine-protein-review-taste-daily/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">STEADY懸垂マシンと極める宅トレ！きなこプロテインで成果を最大化</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>改良モデル 多機能ぶら下がり健康器（YouTen）</strong></div>
@@ -207,7 +204,7 @@ sidebarProducts:
 
 紹介した4モデルの主要スペックを整理した客観比較表です。
 
-**【表の見方のポイント】** 最も注視すべきは2行目の「土台形状」と4行目の「本体重量・剛性感」です。体重70kg以上のトレーニーや反動を使う懸垂を行う場合、H型フレーム＋脚幅100cm超のSTEADY（①）やWASAI（②）を選ばないと、ぶら下がった瞬間の嫌な揺れやキシミに悩まされることになる。
+**【表の見方のポイント】** 最も注視すべきは2行目の「土台形状」と4行目の「本体重量・剛性感」です。体重70kg以上のトレーニーや反動を使う懸垂を行う場合、H型フレーム＋脚幅100cm超のSTEADY（①）やWASAI（②）のような安定性の高い構造を選ばないと、ぶら下がった際の揺れやキシミが気になりやすくなります。
 
 | 比較項目 | ① STEADY ST115 | ② WASAI MK301YL | ③ 八の字型大吸盤モデル | ④ YouTen 改良モデル |
 | :--- | :--- | :--- | :--- | :--- |
@@ -217,7 +214,7 @@ sidebarProducts:
 | <strong>グリップ仕様</strong> | <strong>はしご型マルチグリップ</strong> | ストレート＋斜めアール | ワイド＋パラレル | ストレート＋ワイド |
 | <strong>腹筋用パッド</strong> | <strong>回転式（干渉ゼロ）</strong> | なし（省スペース優先） | 固定式厚手クッション | 固定式クッション |
 | <strong>設置床面積目安</strong> | 約100cm × 80cm | <strong>約90cm × 65cm</strong> | 約105cm × 85cm | 約100cm × 75cm |
-| <strong>価格帯の目安</strong> | 約14,990円 | <strong>約7,990円（最安）</strong> | 約11,980円 | 約9,980円 |
+| <strong>価格帯の目安</strong> | 最新価格は各ショップで確認 | 最新価格は各ショップで確認 | 最新価格は各ショップで確認 | 最新価格は各ショップで確認 |
 
 ---
 

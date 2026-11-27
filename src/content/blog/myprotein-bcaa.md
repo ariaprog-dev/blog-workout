@@ -18,7 +18,6 @@ sidebarProducts:
 - title: マイプロテイン 2:1:1 BCAA 250g Myprotein
   url: https://hb.afl.rakuten.co.jp/hgc/g00stxr1.ve2q5da5.g00stxr1.ve2q63c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fact-online%2Fmp-wp-006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fact-online%2Fi%2F10000174%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/act-online/cabinet/point/mp-wp-006.jpg?_ex=600x600
-  price: 3980
   microCopy: 詳細を見る
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -41,7 +40,7 @@ MYPROTEIN BCAA 分岐鎖アミノ酸は、理想的な配合比率と優れた�
 <div class="live-price-box" data-product-key="マイプロテイン-2-1-1-bcaa-250g" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥3,980</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -97,7 +96,7 @@ BCAAは消化吸収が早く、摂取後すぐに血中にアミノ酸として�
 この計算に基づくと、1袋で**250g ÷ 5g = 50回分**使用できることになります。
 したがって、**1回あたりのコストは、商品カードの価格を50回で割ることで算出できます。**
 
-この費用対効果で、トレーニング中のパフォーマンス維持とリカバリーサポートが得られるのは、注目に値します。例えば、毎日トレーニングをするとして、1ヶ月（30日）BCAAを摂取したとしても、約900円程度の出費で済みます。
+この費用対効果で、トレーニング中のパフォーマンス維持とリカバリーサポートが得られるのは、注目に値します。毎日継続しても1回あたり・1ヶ月あたりのコストを抑えやすいため、飲料水や市販ドリンクを毎日買う感覚で取り入れやすいのが特徴です（最新価格は各ショップでご確認ください）。
 
 これは缶コーヒー数本分の価格とほぼ同等です。一般的な清涼飲料水を毎日購入するよりも、身体にとって合理的な選択肢となり得ます。
 
@@ -159,7 +158,7 @@ MYPROTEIN BCAAは非常に優れたサプリメントですが、購入前に知
 
 しかし、最初の購入で期待通りの味でなかった場合、少なからず「割り切り」が必要になるかもしれません。
 
-次に、**適切な摂取量と過剰摂取の注意点**です。BCAAは必須アミノ酸ですが、必要以上の量を摂取しても、効果が劇的に向上するわけではありません。
+次に、**適切な摂取量と過剰摂取の注意点**です。BCAAは必須アミノ酸ですが、必要以上の量を摂取しても、効果が大きく高まるわけではありません。
 
 製品の推奨摂取量（一般的には1回あたり5g〜10g）を守ることが重要です。過剰な摂取は、体内のアミノ酸バランスを崩したり、消化器系に負担をかけたりする可能性も考えられます。
 

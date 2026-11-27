@@ -4,7 +4,7 @@ description: 'プレワークアウト カフェインの選び方・おすす�
 pubDate: '2026-09-21'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/08739184/10215617/6008062_01.jpg?_ex=600x600'
 genre: 'workout'
-mediaType: 'gear'
+mediaType: 'supplement'
 tags:
   - 'angle:ranking'
 faq:
@@ -15,20 +15,17 @@ faq:
   - question: '肌がピリピリするのですが、問題ないですか？'
     answer: '多くのプレワークアウトに含まれるベータアラニンが原因で、肌がピリピリする感覚（アラニンフラッシュ）を感じることがあります。これは皮膚の神経終末が一時的に活性化される生理現象であり、身体に害はありません。しばらくすると収まることがほとんどですが、気になる場合は摂取量を減らしたり、食事と一緒に摂ることで和らげることができます。'
 sidebarProducts:
-  - title: 'ProSupps ミスターハイド プレワークアウト 【 iHerb アイハーブ 公式 】 プロサップス Mr Hyde シグネチャー クレアチン ベータアラニン アミノ酸 カフェイン サプリメント サプリ パウダー 粉末 ブルーラズ味 216g'
+  - title: 'ProSupps Mr.Hyde シグネチャー プレワークアウト ブルーラズ味 216g'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00u5mk1.ve2q540b.g00u5mk1.ve2q6f3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiherb-official%2F87246%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiherb-official%2Fi%2F10007688%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/08739184/10215617/6008062_01.jpg?_ex=600x600'
-    price: 4477
     microCopy: '詳細を見る'
-  - title: 'ザカース オレンジマンゴー 250g（8.8oz） 50回分 JNX SPORTS（ジェーエヌエックススポーツ）アミノ酸 カフェイン プレワークアウト トレーニング'
+  - title: 'JNX SPORTS ザ・カース！プレワークアウト オレンジマンゴー 250g'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00t6u91.ve2q5cac.g00t6u91.ve2q6678/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwomensfitness%2Fjx-64491%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwomensfitness%2Fi%2F10004539%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/womensfitness/cabinet/item/j_01/jx-64491.jpg?_ex=600x600'
-    price: 3892
     microCopy: '詳細を見る'
-  - title: 'ザ・カース！ プレワークアウト ダークグレープ味 150g (5.3oz) パウダー JNX Sports THE CURSE！ PRE-WORKOUT Dark Grape カフェイン エネルギー スタミナ'
+  - title: 'JNX SPORTS ザ・カース！プレワークアウト ダークグレープ味 150g'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00t6u91.ve2q5cac.g00t6u91.ve2q6678/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwomensfitness%2Fjx-60015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwomensfitness%2Fi%2F10024964%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/womensfitness/cabinet/item/j_01/jx-60015.jpg?_ex=600x600'
-    price: 2882
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -49,7 +46,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="prosupps-ミスターハイド-プレワークアウト" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥4,477</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -108,9 +105,8 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 3,980円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | ビーレジェンド プロテイン -公式- |
-| レビュー評価 | 4.5 (20件) |
 
 <strong>特徴と評価</strong>:
 国内メーカー「ビーレジェンド」が手掛けるプレワークアウトです。1回分あたりカフェイン150mg、ベータアラニン2g、アルギニン、シトルリンを配合しています。
@@ -141,9 +137,8 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 3,892円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | Costopa |
-| レビュー評価 | 5.0 (2件) |
 
 <strong>特徴と評価</strong>:
 JNX SPORTSの「ザカース」は、そのネーミングからしてインパクトがあります。1回分でカフェイン155mg、ベータアラニン・クレアチンモノハイドレート・クエン酸が計3,000mg、さらにL-シトルリンとL-アルギニンα-ケトグルタレート（AKG）が計900mg配合されており、非常にバランスの良い配合です。
@@ -153,7 +148,7 @@ JNX SPORTSの「ザカース」は、そのネーミングからしてインパ�
 <strong>メリット</strong>:
 カフェイン、ベータアラニン、クレアチン、アルギニン、シトルリンと、プレワークアウトの主要成分をほぼ網羅しています。特にクレアチンも配合されているため、瞬発力を要するトレーニングにも対応できます。
 
-オレンジマンゴー味は、多くの人が飲みやすいと感じるでしょう。1回あたり約78円という高コスパも継続しやすいポイントです。
+オレンジマンゴー味は、多くの人が飲みやすいと感じるバランスです。50回分入りの大容量パックのため、1回あたりのコストを抑えて継続しやすい点も魅力です（最新価格は各ショップでご確認ください）。
 
 <strong>デメリット</strong>:
 海外製品のため、日本のサプリメントに慣れていると、成分の安全性や管理体制に不安を感じる人もいるかもしれません。また、アレルゲン情報として「ピーナッツ、木の実、牛乳、卵、小麦、貝類、魚、大豆を扱う工場で製造」されていると明記されており、アレルギー体質の方は注意が必要です。
@@ -172,16 +167,16 @@ JNX SPORTSの「ザカース」は、そのネーミングからしてインパ�
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 4,477円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | iHerb |
 
 <strong>特徴と評価</strong>:
-ProSuppsのミスターハイドは、非常に多角的なアプローチでトレーニングをサポートする海外製のプレワークアウトです。クレアチン、ベータアラニンはもちろん、Nitrosigine?（アルギニンケイ酸塩イノシトール）、L-テアニン、N-アセチル-チロシン、GABA、そして3種類のカフェイン源（無水カフェイン、リンゴ酸ディカフェイン、TeaCrine?テアクリン）をブレンドしています。
+ProSuppsのミスターハイドは、非常に多角的なアプローチでトレーニングをサポートする海外製のプレワークアウトです。クレアチン、ベータアラニンはもちろん、Nitrosigine（アルギニンケイ酸塩イノシトール）、L-テアニン、N-アセチル-チロシン、GABA、そして3種類のカフェイン源（無水カフェイン、リンゴ酸ディカフェイン、TeaCrine テアクリン）をブレンドしています。
 
 <strong>メリット</strong>:
 多くの有効成分が配合されており、「オールインワン」製品としての特徴を持ちます。カフェインが複数源から供給されることで、即効性と持続性の両方が期待できます。
 
-特にNitrosigine?は血流改善に特化した成分で、より強烈なパンプ感を求める人に適しているでしょう。L-テアニンやGABAがカフェインによる過度な興奮を抑え、集中力を高める効果も期待できます。
+特にNitrosigineは血流改善に特化した成分で、より強烈なパンプ感を求める人に適しているでしょう。L-テアニンやGABAがカフェインによる過度な興奮を抑え、集中力を高める効果も期待できます。
 
 <strong>デメリット</strong>:
 カフェインの総量が明確に記載されていないため、自分で計算する必要があり、摂取量を調整しにくい点が挙げられます。成分の種類が非常に多い分、アレルギーや体質に合わない成分がないか、一つ一つ確認する手間がかかります。
@@ -202,7 +197,7 @@ ProSuppsのミスターハイドは、非常に多角的なアプローチでト
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 2,882円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | Costopa |
 
 <strong>特徴と評価</strong>:
@@ -211,14 +206,14 @@ ProSuppsのミスターハイドは、非常に多角的なアプローチでト
 JNX Sportsは「世界から言い訳を無くす」をミッションに掲げたブランドだけあって、強力なサポートが期待できます。主要成分はオレンジマンゴー味とほぼ同じで、カフェイン、ベータアラニン、クレアチン、クエン酸などがブレンドされています。
 
 <strong>メリット</strong>:
-プレワークアウトを初めて試す人や、色々な味を試したい人にとって、この150gの少量パックは非常に手軽です。価格も2,882円とお手頃なので、気軽に購入できるでしょう。
+プレワークアウトを初めて試す人や、色々な味を試したい人にとって、この150gの少量パックは非常に手軽です。合計金額を抑えた少量パッケージなので、初めての方でも試しやすくなっています（最新価格は各ショップでご確認ください）。
 
 新しい製品を試す際には、まず少量パックから始めることが有効です。ダークグレープ味も安定して飲みやすいフレーバーの一つです。
 
 <strong>デメリット</strong>:
 内容量が少ないため、1回あたりのコストはオレンジマンゴー味の50回分タイプと比べると割高になります。約30回分なので、毎日使用すると約1ヶ月で使い切ってしまいます。
 
-また、成分内容の詳細が「画像をご確認ください」となっており、購入前に正確な配合量を把握しにくい点は正直微妙だと感じます。
+また、成分詳細が販売ページの画像掲載のみとなっている店舗もあるため、購入前に配合量を事細かく確認したい方にはやや分かりにくく感じられる場合があります。
 
 <strong>対策</strong>:
 本格的にプレワークアウトを習慣にしたい場合は、大容量タイプを検討した方がコスパは良いでしょう。成分詳細については、販売サイトの画像やメーカー公式サイトで念入りに確認してください。

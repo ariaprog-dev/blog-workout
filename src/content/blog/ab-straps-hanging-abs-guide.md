@@ -15,20 +15,17 @@ faq:
   - question: 'どんなトレーニングに使えますか？'
     answer: '主に腹筋トレーニングの「ハンギング・ニーレイズ（膝上げ）」や「ハンギング・レッグレイズ（足上げ）」に活用できます。これらの種目は腹直筋全体、特に下部腹筋への効果が高いです。また、側腹筋を鍛える「ツイスト・レッグレイズ」など、バリエーションを増やすことも可能です。'
 sidebarProducts:
-  - title: '懸垂腹筋ストラップ 2個セット 吊り下げ用 カラビナ付き 筋トレ用 アブストラップ トレーニングベルト 腹筋運動 懸垂器具用 ポリエステル製 ブラック レッド'
+  - title: '懸垂腹筋ストラップ 2個セット（カラビナ付き）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00uhss1.ve2q5b7f.g00uhss1.ve2q629f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fapiness%2Fb0gvdjthzr-rougfsdfa%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fapiness%2Fi%2F10193587%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/apiness/cabinet/13325447/13325448/imgrc0113646780.jpg?_ex=600x600'
-    price: 7214
     microCopy: '詳細を見る'
-  - title: '懸垂 腹筋 トレーニング 吊り下げ ストラップ アブストラップ 筋トレ 腹筋台 補助 サポート器具 腕吊り クッション 自宅 ジム フィットネス用品 腹筋強化 トレーニング器具'
+  - title: '懸垂用 アブストラップ（クッション付き）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00u9du1.ve2q513b.g00u9du1.ve2q6752/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakuboku-shop%2Fb0gjn59k6s-etgrytgg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftakuboku-shop%2Fi%2F10127728%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/takuboku-shop/cabinet/13289887/13289888/imgrc0119848727.jpg?_ex=600x600'
-    price: 9757
     microCopy: '詳細を見る'
-  - title: '懸垂 腹筋 ベルト アブストラップ 2個セット 懸垂マシン用 ハンギング アブドミナル スイング アーム ストラップ 筋トレ エクササイズ 器具 腕 自宅 ジム ワークアウト 上半身 トレーニング ギア 運動 サポート フィットネス 用品'
+  - title: 'ハンギング アブドミナル ストラップ 2個セット'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ulw31.ve2q5356.g00ulw31.ve2q6045/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyume-marche%2Fb0gjg42g12-erthggh%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyume-marche%2Fi%2F10116727%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/yume-marche/cabinet/13457711/13457712/imgrc0112554702.jpg?_ex=600x600'
-    price: 11487
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -51,7 +48,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="懸垂腹筋ストラップ-2個セット-吊り下げ用-カラビナ付き" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥7,214</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -110,12 +107,12 @@ Beingfitのアブストラップは、最大130kgまでの耐荷重に対応し�
 
 ここまで解説してきたポイントを踏まえて、主要なアブストラップ製品の比較表を紹介します。
 
-| 製品名 | 価格 | 素材 | 耐荷重 | 主な特徴 |
+| 製品名 | 価格・在庫 | 素材 | 耐荷重 | 主な特徴 |
 | :--- | :--- | :--- | :--- | :--- |
-| Beingfit アブストラップ | 最新の販売価格は商品カードおよび公式ショップでご確認ください | 厚手EVAクッション、高耐久ナイロンベルト、スチール（カラビナ） | 最大約130kg | 肘保護クッション、高耐久性、汎用性 |
-| 懸垂腹筋ストラップ 2個セット 吊り下げ用 カラビナ付き 筋トレ用 アブストラップ トレーニングベルト 腹筋運動 懸垂器具用 ポリエステル製 ブラック レッド | 7,214円 | ポリエステル製 | 公式ショップで確認 | 2個セット、カラビナ付き、筋トレ・腹筋運動向け |
-| 懸垂 腹筋 トレーニング 吊り下げ ストラップ アブストラップ 筋トレ 腹筋台 補助 サポート器具 腕吊り クッション 自宅 ジム フィットネス用品 腹筋強化 トレーニング器具 | 9,757円 | 公式ショップで確認 | 公式ショップで確認 | 補助サポート器具、腕吊り、クッション付き、自宅・ジム向け |
-| 懸垂 腹筋 ベルト アブストラップ 2個セット 懸垂マシン用 ハンギング アブドミナル スイング アーム ストラップ 筋トレ エクササイズ 器具 腕 自宅 ジム ワークアウト 上半身 トレーニング ギア 運動 サポート フィットネス 用品 | 11,487円 | 公式ショップで確認 | 公式ショップで確認 | 2個セット、懸垂マシン用、ハンギングアブドミナルスイング、筋トレ・エクササイズ向け |
+| Beingfit アブストラップ | 各ショップで確認 | 厚手EVAクッション、高耐久ナイロンベルト、スチール（カラビナ） | 最大約130kg | 肘保護クッション、高耐久性、汎用性 |
+| 懸垂腹筋ストラップ 2個セット（カラビナ付き） | 各ショップで確認 | ポリエステル製 | 公式ショップで確認 | 2個セット、カラビナ付き、筋トレ・腹筋運動向け |
+| 懸垂 腹筋トレーニング 吊り下げアブストラップ（腕吊りクッション付） | 各ショップで確認 | 公式ショップで確認 | 公式ショップで確認 | 補助サポート器具、腕吊り、クッション付き、自宅・ジム向け |
+| 懸垂 腹筋ベルト アブストラップ 2個セット（スイングアーム対応） | 各ショップで確認 | 公式ショップで確認 | 公式ショップで確認 | 2個セット、懸垂マシン用、ハンギング腹筋運動向け |
 
 より高い耐久性や快適性を重視する場合、これらの高価格帯の製品も検討対象となります。本格的なトレーニング環境の構築や、長期的なパフォーマンス向上を目指すユーザーに適した製品です。
 

@@ -15,20 +15,17 @@ faq:
   - question: 'プロテインと一緒に摂っても良いですか？'
     answer: 'はい、プロテインと一緒に摂ることは非常に効果的です。プロテインは筋肉の材料となるタンパク質を供給し、HMBはそのタンパク質の分解を抑え、合成を促進するという異なる役割を持っています。互いに補完し合う関係にあるため、トレーニング後にプロテインと一緒にHMBを摂取するのは、筋肥大を目指す上で理想的な組み合わせと言えます。'
 sidebarProducts:
-  - title: '【楽天ランキングNO.1!】 HMB 100,000mg 薬剤師監修 日本製 36日分 HMBサプリ ドラゴンマッスル ダイエット BCAA クレアチン アルギニン EAA 筋肉サプリ ダイエットサプリ カルニチン ギムネマ HMBオススメ 男性 女性 サプリ GMP認定 TOKYOサプリ'
+  - title: 'TOKYOサプリ ドラゴンマッスル HMB 100,000mg 36日分'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00te151.ve2q5854.g00te151.ve2q6eca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarlabosupli%2F10000005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarlabosupli%2Fi%2F10000005%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/starlabosupli/cabinet/07308594/05_hmb_thum_240426.jpg?_ex=600x600'
-    price: 2680
     microCopy: '詳細を見る'
-  - title: 'HMB PREMIUM 360粒 約2ヶ月分 HMB 90000mg 大人気 サプリメント GMP認定国内製造 高品質 低価格 男性 女性 スポーツ トレーニング 筋トレ 自信 ダイエット 体型維持 タブレット 錠剤 送料無料 誠輝堂'
+  - title: '誠輝堂 HMB PREMIUM 360粒 90,000mg（約2ヶ月分）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00s5gi1.ve2q56e5.g00s5gi1.ve2q61d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikido%2Fhmb-premium%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikido%2Fi%2F10000287%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/seikido/cabinet/hmb/imgrc0104336941.jpg?_ex=600x600'
-    price: 1580
     microCopy: '詳細を見る'
   - title: '協和食研 HMB タブレット 国産HMB原料使用 HMB カルシウム HMB サプリ HMB サプリメント 360粒入 30日分'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00t1x21.ve2q5ace.g00t1x21.ve2q62ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyowashokken%2F4h-2f86-qely%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyowashokken%2Fi%2F10000007%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/kyowashokken/cabinet/05923550/imgrc0078782342.jpg?_ex=600x600'
-    price: 2980
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -51,7 +48,7 @@ HMBが宅トレに有効とされる理由、および各サプリメントが�
 <div class="live-price-box" data-product-key="hmb-100-000mg-薬剤師監修-日本製-36日分" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥2,680</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -90,9 +87,8 @@ HMBを摂取することで、トレーニング中の筋分解を最小限に�
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 1,990円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | あっと@バディ(シーディ薬局) |
-| レビュー評価 | 4.61 (14999件) |
 | 内容量 | 168.48g（390mg×432粒） |
 | HMBカルシウム（12粒あたり） | 3,060mg |
 | 1日あたりの目安 | 6〜12粒 |
@@ -115,9 +111,8 @@ HMBサプリの摂取粒数は1日12粒と多めに設定されている場合�
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 2,680円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | TOKYOサプリ公式楽天市場店 |
-| レビュー評価 | 4.54 (1306件) |
 | 内容量 | 162g（450mg×360粒） |
 | HMBカルシウム（12粒あたり） | 約3,333mg (総HMB100,000mg/36日分より算出) |
 | 1日あたりの目安 | 10〜12粒 |
@@ -129,9 +124,9 @@ HMBサプリの摂取粒数は1日12粒と多めに設定されている場合�
 
 これらの成分は、単体で摂取すると費用がかさむため、オールインワンで摂れるのは大きなメリットです。複数のサプリメントを個別に用意する手間を省きたい場合に、複合タイプは選択肢の一つとなります。
 
-粒は少し大きめに感じましたが、飲み込む際に引っかかることもなく、匂いも特に気になりませんでした。
+粒はやや大きめの設計ですが、飲み込みやすさや匂いの少なさといった点で継続しやすい仕様となっています。
 
-<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/dearnatura-49amino-review-taste-daily/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">宅トレ愛好家が選ぶ！ディアナチュラ49種アミノで毎日を最適化する戦略</a> ／ <a href="/blog/valx-protein-home-workout-muscle/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">【本音レビュー】VALXホエイプロテインWPCの評判と口コミ！味・溶けやすさ・コスパを徹底検証</a></p>
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/dearnatura-49amino-review-taste-daily/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">宅トレ愛好家が選ぶ！ディアナチュラ49種アミノで毎日を最適化する戦略</a> ／ <a href="/blog/valx-protein-home-workout-muscle/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">VALXホエイプロテインWPCの特徴と評価！味・溶けやすさ・WPC/WPI比較を徹底検証</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ドラゴンマッスル HMB 360粒</strong></div>
@@ -143,12 +138,12 @@ HMBサプリの摂取粒数は1日12粒と多めに設定されている場合�
 ここからは、2つの商品を具体的な数字と特徴で比較していきましょう。
 
 | 比較項目 | HMB MAX pro 432粒 | ドラゴンマッスル HMB 360粒 |
-| --- | --- |
-| <strong>価格</strong> | 1,990円 | 2,680円 |
+| --- | --- | --- |
+| <strong>価格・在庫</strong> | 各ショップで確認 | 各ショップで確認 |
 | <strong>HMBカルシウム総量</strong> | 110,000mg | 100,000mg |
 | <strong>1日あたりの目安</strong> | 6〜12粒 | 10〜12粒 |
 | <strong>1日あたりHMBカルシウム量（最大）</strong> | 3,060mg | 約3,333mg |
-| <strong>1日あたりの費用（最大目安で計算）</strong> | 約55円 (1,990円 ÷ 36日) | 約74円 (2,680円 ÷ 36日) |
+| <strong>1袋の使用日数目安</strong> | 約36〜72日分 | 約30〜36日分 |
 | <strong>主な配合成分</strong> | HMBカルシウムのみ | HMBカルシウム、クレアチン、BCAA、EAA、アルギニン、カルニチン等 |
 | <strong>粒数</strong> | 432粒 | 360粒 |
 | <strong>生産体制</strong> | 国内原料＆国内生産 | GMP認定工場製造 |
@@ -165,11 +160,11 @@ HMB MAX proは、HMBカルシウム以外の有効成分は含まれていませ
 
 ### コストパフォーマンスと維持費：目的に応じた賢い選択
 
-1日あたりの費用で比較すると、HMB MAX proが約55円、ドラゴンマッスルが約74円となります。HMB MAX proは、純粋にHMBを摂る目的であれば、コストパフォーマンスに優れていると言えます。
+1袋あたりの粒数と継続日数で比較すると、HMB MAX proは432粒（最大1日12粒で約36日分）、ドラゴンマッスルは360粒（最大1日12粒で約30日分）となります。HMB MAX proは、純粋にHMBをシンプルに摂る目的であれば、単価を抑えやすく経済的な選択になりやすいです（最新価格は各ショップでご確認ください）。
 
-月々の費用を抑えたい、あるいはHMB以外のサプリメントは個別に摂取している、という場合には最適です。
+月々の費用を抑えたい、あるいはHMB以外のサプリメントは個別に摂取している、という場合には適しています。
 
-ドラゴンマッスルは単価こそ高めですが、複数の人気成分をオールインワンで摂取できることを考慮すれば、むしろ経済的です。例えば、クレアチン単体で1,500円、BCAA単体で2,000円といった費用がかかることを考えると、ドラゴンマッスルを選べばこれらの費用を圧縮できる可能性があります。
+ドラゴンマッスルは複合成分配合のため単価自体は高めになりやすいですが、複数の人気成分をオールインワンで摂取できることを考慮すれば合理的です。クレアチン単体やBCAA単体を別個に買い揃える場合と比べ、管理の手間や購入点数をまとめて圧縮できる可能性があります。
 
 複数のサプリを管理する手間も省けるため、時間的なコストパフォーマンスも高いと言えるでしょう。
 

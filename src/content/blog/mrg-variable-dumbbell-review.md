@@ -18,7 +18,6 @@ sidebarProducts:
   - title: '可変式ダンベル 24kg アジャスタブルダンベル'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00tqlh1.ve2q52c7.g00tqlh1.ve2q624d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmotions%2Fmd242%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmotions%2Fi%2F10000002%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/motions/cabinet/md/md-24-40_tum_1.jpg?_ex=600x600'
-    price: 9780
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -35,7 +34,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="可変式ダンベル-24kg-アジャスタブルダンベル" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥9,780</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -84,11 +83,11 @@ MRG可変式ダンベルは省スペース性に優れています。複数の�
 
 ジムに通う場合、月々の会費や往復の交通費、移動時間といった目に見えないコストがかかります。例えば、月に8,000円の会費と往復1時間の移動が週3回だとすると、年間で約10万円の費用と約150時間もの時間を消費することになります。
 
-MRG可変式ダンベルの本体価格は29,800円。初期投資はかかりますが、長期的に見れば圧倒的なコストパフォーマンスを発揮し、これらの隠れたコストを削減できます。
+MRG可変式ダンベルは初期投資こそかかるものの、長期的に見れば優れたコストパフォーマンスを発揮し、こうした通い続けるコストや移動時間のロスを抑えられます（最新価格は各ショップでご確認ください）。
 
 何よりも、朝起きてすぐにトレーニングを開始できるのは、時間がない日々の大きなメリットです。ジムへの移動や準備に費やしていた時間が、そのままトレーニング時間や他の用事に充てられます。
 
-早朝、静かに筋トレを始めたい時も、ガチャガチャとプレートを交換する大きな音はご近所迷惑になりかねません。MRGはプレートが一体化しており、カチッとダイヤルを回す音だけなので、周囲への配慮もできて心理的なハードルが大きく下がりました。
+早朝、静かに筋トレを始めたい時も、プレートを付け替える大きな音は近隣への配慮が必要です。MRGはプレートが一体化しており、カチッとダイヤルを回す音だけなので、周囲への騒音を抑えて時間を選ばずトレーニングに取り組みやすい仕様です。
 
 仕事の休憩時間や気分転換時にも手軽に取り出せるため、日常のトレーニング習慣に組み込みやすい製品です。
 
@@ -108,7 +107,7 @@ MRG可変式ダンベルの本体価格は29,800円。初期投資はかかり�
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 29,800円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | メーカー | MRG |
 | 型番/仕様 | 可変式ダンベル 30kg (片方) × 2個 / 合計60kg, スチール・高密度プラスチック |
 | 主な特徴 | ダイヤル式重量調整（5kg〜30kgを約2.5kg刻みで変更可）、省スペース設計、トレーニング効率向上 |

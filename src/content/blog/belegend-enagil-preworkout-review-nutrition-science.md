@@ -18,7 +18,6 @@ sidebarProducts:
   - title: 'ビーレジェンド エナギル プレワークアウト'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qu9p1.ve2q5dec.g00qu9p1.ve2q6afa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealstyle4u%2Fblwo03as1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealstyle4u%2Fi%2F10002443%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/realstyle4u/cabinet/shouhin/blwo03as1_line.jpg?_ex=600x600'
-    price: 3980
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -41,7 +40,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="ビーレジェンド-エナギル-プレワークアウト" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥3,980</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -78,19 +77,19 @@ sidebarProducts:
 
 プレワークアウトサプリメントは、継続して摂取することが重要です。その点で、ビーレジェンド エナギル プレワークアウトは非常に優れていると感じます。
 
-まず「元気ドリンク風味」というフレーバーは、スッキリとしていて飲みやすいのが特徴です。トレーニング前の集中したいタイミングで、口の中に甘ったるさが残らないのは嬉しいポイントでした。
+まず「元気ドリンク風味」というフレーバーは、スッキリとしていて飲みやすいのが特徴です。トレーニング前の集中したいタイミングで、口の中に甘ったるさが残りにくいバランスに仕上がっています。
 
 粉溶けも良く、シェイカーで軽く混ぜるだけでダマになることはほとんどありません。泡立ちも控えめで、すぐに飲めるため、トレーニング前の準備がスムーズに進みます。
 
 ストレスなく摂取できる点は、日々の宅トレ継続において非常に大切です。
 
-価格は3,980円で、1回あたり約10gを摂取すると仮定すると、1袋で約30回分です。1回あたりのコストは約130円となります。
+1回あたり約10gを摂取する目安で、1袋あたり約30回分として継続運用しやすい容量設計です（最新価格・セール情報は各ショップでご確認ください）。
 
-この金額で、ベータアラニンやカフェイン、アルギニン・シトルリンといった複数の有用成分を効率的に摂れるのは、非常にコストパフォーマンスが高いと言えるでしょう。ジムでのドリンクやエナジードリンクと比較しても、長期的に見れば経済的です。
+ベータアラニンやカフェイン、アルギニン・シトルリンといった複数の有用成分を一度に摂れるため、コンビニで都度エナジードリンクを購入するのと比べても合理的な選択肢と言えます。
 
 ## 機能性と適応性：どんなトレーニーにフィットするのか
 
-ビーレジェンド エナギル プレワークアウトは、レビュー評価4.5（20件）と高い評価を得ています。多くのトレーニーがその効果を実感しているようです。
+ビーレジェンド エナギル プレワークアウトは、栄養成分のバランス面からもトレーニング時のコンディション維持に役立つ設計です。
 
 特に「もう一踏ん張りできるようになった」「集中力が高まる」といった声が多く見受けられます。これは、ベータアラニンによる疲労軽減と、カフェインによる覚醒効果が顕著に表れている証拠でしょう。
 
@@ -102,9 +101,8 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 3,980円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | ビーレジェンド プロテイン -公式- |
-| レビュー評価 | 4.5 (20件) |
 
 ## 知っておきたい注意点：効果と身体との向き合い方
 

@@ -18,7 +18,6 @@ sidebarProducts:
 - title: ラバープレート（バーベル・ダンベル用）
   url: https://hb.afl.rakuten.co.jp/hgc/g00up8x1.ve2q5d5b.g00up8x1.ve2q65c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffitness-item-center%2Fvbp0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffitness-item-center%2Fi%2F10000044%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/fitness-item-center/cabinet/11733927/11733953/imgrc0107751888.jpg?_ex=600x600
-  price: 2980
   microCopy: 詳細を見る
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。

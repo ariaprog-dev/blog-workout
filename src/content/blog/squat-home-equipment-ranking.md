@@ -19,20 +19,17 @@ faq:
   - question: 'ポンポンスクワットのような補助器具でも筋力アップは可能ですか？'
     answer: 'ポンポンスクワットは主に「正しいフォームの習得」と「運動習慣の定着」に焦点を当てています。筋力アップ効果は限定的ですが、膝や腰への負担を抑えつつ、安全にスクワットの基礎を身につけられます。物足りなくなったら、ダンベルを併用するなどして徐々に負荷を高めていくと良いでしょう。'
 sidebarProducts:
-  - title: '【SALE価格】ブルガリアンスクワット スタンド 片足スクワット 下半身トレーニング 筋トレ器具 耐荷重300kg 高さ9段階調整 自宅トレーニング ヒップアップ 美尻 体幹 宅トレ 省スペース 日本語説明書 1年保証 BODYRAJA'
+  - title: 'BODYRAJA ブルガリアンスクワットスタンド（耐荷重300kg）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00s7dn1.ve2q5f5a.g00s7dn1.ve2q6349/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbagray%2Fsquatbar001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbagray%2Fi%2F10012281%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/bagray/cabinet/image06/squatbar001-1.jpg?_ex=600x600'
-    price: 6880
     microCopy: '詳細を見る'
-  - title: '即納！バーベルスタンド ベンチプレスラック スクワット 調整 耐荷重340kg バーベルラック バーベルシャフト スクワットラックスクワットマシン ダンベルホルダー パワーラック 男女 自宅 全身ストレッチ 筋トレ 背筋 懸垂 トレンニング器具 台'
+  - title: 'バーベルスタンド・スクワットラック（耐荷重340kg）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00s4y01.ve2q5a57.g00s4y01.ve2q6bd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnelite%2F26031103%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnelite%2Fi%2F10023983%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/nelite/cabinet/12902017/jsl-cw07-1.jpg?_ex=600x600'
-    price: 16038
     microCopy: '詳細を見る'
-  - title: 'ポンポンスクワット スクワット 器具 椅子 クッション 補助器具 スクワットマシン 筋トレ トレーニング 有酸素運動 ダイエット 鍛える 強化 サポート 下半身 太もも ふともも ハムストリング ふくらはぎ 足腰 足 膝 腰 お尻 ヒップアップ 座るだけ 自宅 室内 家庭用 グッズ'
+  - title: 'ポンポンスクワット クッション付き補助器具'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00u3gp1.ve2q5bc2.g00u3gp1.ve2q6c95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaple-market%2Fponponsquat%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaple-market%2Fi%2F10000070%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maple-market/cabinet/images/p/ponponsquat/w.jpg?_ex=600x600'
-    price: 14800
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -55,7 +52,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="ブルガリアンスクワット-スタンド-片足スクワット" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥6,880</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -74,15 +71,15 @@ sidebarProducts:
 
 ## 第1位: BODYRAJA ブルガリアンスクワット スタンド｜左右差を埋める高コスパの一台
 
-自宅で本格的に下半身を鍛えたいけれど、バーベルやプレートを置くスペースがない方に、このブルガリアンスクワットスタンドは最適です。特に、左右の筋力バランス改善と体幹の安定性向上に絶大な効果を発揮します。
+自宅で本格的に下半身を鍛えたいけれど、バーベルやプレートを置くスペースがない方に、このブルガリアンスクワットスタンドは有力な選択肢です。特に、左右の筋力バランス改善と体幹の安定性向上に役立つ設計となっています。
 
 片足で行うブルガリアンスクワットは、通常のバーベルスクワットでは意識しにくい中殿筋や小殿筋といった股関節の安定筋群をダイレクトに刺激します。これにより、体幹の安定性が高まり、運動時のパフォーマンス向上や怪我のリスク軽減に繋がるのです。
 
-このスタンドを導入することで、脚の左右差を意識的に矯正することが可能になります。パッドの高さ調整には慣れが必要ですが、身長175cmの利用者でも最適な足の位置を見つけることができます。
+このスタンドを導入することで、脚の左右差を意識的に矯正しやすくなります。パッドの高さ調整には慣れが必要ですが、9段階の調整幅（31.5〜65.1cm）があるため、幅広い体格やトレーニングレベルに合わせて最適な足の位置を設定できます。
 
-9段階の調整幅（31.5〜65.1cm）があるので、様々な体格やトレーニングレベルに対応できます。また、耐荷重300kgという頑丈なスチール製フレームは、高重量ダンベルとの併用でもぐらつきを感じさせません。
+頑丈なスチール製フレームは耐荷重300kg仕様となっており、高重量ダンベルとの併用でも安定しやすい設計です。
 
-価格も6,880円と非常に手頃で、日本語説明書と1年保証が付いている点も安心です。
+手頃な価格帯で導入しやすく、日本語説明書と1年保証が付いている点も安心材料です（最新価格は各ショップでご確認ください）。
 
 ### メリット
 
@@ -96,7 +93,7 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 6,880円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | バッグレイ |
 
 ---
@@ -119,7 +116,7 @@ sidebarProducts:
 ### メリット
 
 *   <strong>高重量トレーニング対応:</strong> 最大340kgの耐荷重は、自宅での筋肥大や筋力アップに十分な負荷を提供します。漸進性過負荷の原則を最大限に活用できるため、停滞期を打破したい中級者・上級者にも適しています。
-*   <strong>多機能性と全身運動:</strong> スクワットだけでなく、ベンチプレスやショルダープレスなど、様々なバーベルトレーニングに対応します。バーベルラックが2つ装備されているため、使わないバーベルを収納できるのも地味にありがたいポイントです。
+*   <strong>多機能性と全身運動:</strong> スクワットだけでなく、ベンチプレスやショルダープレスなど、様々なバーベルトレーニングに対応します。バーベルラックが2つ装備されているため、使わないバーベルを収納できるのも実用的な利点です。
 *   <strong>高い安定性と安全性:</strong> 厚みのあるスチールチューブと4つの吸盤による安定性は、高重量を扱う際の不安を軽減します。滑り止めゴムカバーは床を保護し、安心して集中できる環境を提供します。
 
 ### デメリットとその対策
@@ -129,7 +126,7 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 16,038円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | 日本エリート楽天市場店 |
 
 ---
@@ -157,12 +154,12 @@ sidebarProducts:
 
 ### デメリットとその対策
 
-*   <strong>価格が高め:</strong> 機能的には第1位のBODYRAJA製品と非常に似ていますが、価格が約3倍と高価です。コストパフォーマンスを重視するなら、BODYRAJA製品の方が優位かもしれません。
+*   <strong>価格が高め:</strong> 機能的には第1位のBODYRAJA製品と類似していますが、より上位の価格帯に設定されています（最新価格は各ショップでご確認ください）。コストパフォーマンスを重視するなら、BODYRAJA製品と仕様を比較して選ぶのが賢明です。
 *   <strong>他の種目への汎用性:</strong> ブルガリアンスクワットや臀筋ブリッジ、腕立て伏せに対応はしますが、バーベルを使った全身運動には不向きです。しかし、ダンベルと組み合わせることで、負荷を増やしトレーニングの幅を広げることは可能です。
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 19,938円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | SelectShop-Honeybees |
 
 ---
@@ -195,7 +192,7 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 14,800円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | 販売ショップ | カラダト |
 
 ---
@@ -207,7 +204,7 @@ sidebarProducts:
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AF%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00u3gp1.ve2q5bc2.g00u3gp1.ve2q6c95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaple-market%2Fponponsquat%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaple-market%2Fi%2F10000070%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259D%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AF%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
-## まとめ：あなたの宅トレを劇的に変える一台を選ぼう
+## まとめ：宅トレを充実させる一台を選ぼう
 
 自宅でのスクワット器具は、トレーニングの質を大きく左右します。今回のランキングでは、あなたの目的やレベルに合わせて最適な選択ができるように、それぞれの特徴と科学的根拠に基づいたメリット・デメリットを解説しました。
 

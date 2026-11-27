@@ -1,6 +1,6 @@
 ---
 title: '【マルチポジションベンチ】耐荷重300kg高重量モデル徹底比較！角度調整と安定性の違い'
-description: '宅トレの質を劇的に変えるマルチポジションベンチ（インクラインベンチ）徹底比較！LEADING EDGE LE-B80シリーズ、IROTEC、格安3WAYモデルの耐荷重300kg剛性、背もたれ・座面の角度調整段階、シートの隙間、折りたたみ収納性まで解剖学に基づき完全解説。'
+description: '宅トレの質を大きく変えるマルチポジションベンチ（インクラインベンチ）徹底比較！LEADING EDGE LE-B80シリーズ、IROTEC、格安3WAYモデルの耐荷重300kg剛性、背もたれ・座面の角度調整段階、シートの隙間、折りたたみ収納性まで解剖学に基づき完全解説。'
 pubDate: '2026-10-12'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511627/13475530/imgrc0149195552.jpg?_ex=600x600'
 genre: 'workout'
@@ -22,20 +22,17 @@ faq:
   - question: '耐荷重300kg表記のベンチは、体重70kgの自分にはオーバースペックですか？'
     answer: '全くオーバースペックではありません。耐荷重300kgという数値は「静止状態での破壊限界」に近い基準であり、片手30kg（両手60kg）のダンベルを持って体重70kgの人がベンチに勢いよく腰掛けた瞬間、瞬間的には体重＋ウェイトの約1.5倍〜2倍（約200kg〜260kg）の動的衝撃荷重がかかります。安全率を考慮すると、本格的な筋トレには「耐荷重300kg以上」を保証するモデルを選ぶのが絶対の安心基準です。'
 sidebarProducts:
-  - title: '【10/14 20:00~ P10倍(要エントリー)】IROTEC（アイロテック）マルチポジションベンチ/ ベンチプレス アジャスタブルベンチ ダンベル 筋トレ フラットベンチ アームカール トレーニング器具 トレーニングマシン スミスマシン インクラインベンチ レッグエクステンション'
+  - title: 'IROTEC マルチポジションベンチ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000025%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511627/13475530/imgrc0149195552.jpg?_ex=600x600'
-    price: 31900
     microCopy: '詳細を見る'
-  - title: '【15%OFFクーポン 3日〜12日】 【ランキング受賞】 マルチポジションベンチ 耐荷重300kg 高重量 角度調整 コンパクト 折りたたみ 高耐久 組立簡単 ベンチプレス 腹筋 筋トレ トレーニング 本格的 自宅 ホームジム トレーニングベンチ インクラインベンチ 1003co'
+  - title: 'マルチポジションベンチ 耐荷重300kg（1003co）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00poaw1.ve2q565e.g00poaw1.ve2q6fea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesportskenko%2F9651513090034%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesportskenko%2Fi%2F10733973%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/esportskenko/cabinet/9651/9651513090034.jpg?_ex=600x600'
-    price: 18800
     microCopy: '詳細を見る'
-  - title: 'トレーニングベンチ 3WAY 角度調節 デクラインベンチ 折りたたみ インクラインベンチ フラットベンチ ダンベル トレーニング ベンチ ベンチプレス ホームジム マルチポジションベンチ トレーニ'
+  - title: '3WAY トレーニングベンチ（角度調節・折りたたみ式）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00rrie1.ve2q5d51.g00rrie1.ve2q6ab5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyhome%2Fn509p472253%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyhome%2Fi%2F10004599%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/myhome/cabinet/09387661/13637379/imgrc0106702187.jpg?_ex=600x600'
-    price: 6580
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -57,24 +54,24 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511627/13475530/imgrc0149195552.jpg?_ex=600x600" alt="10 14 20 00  P10倍 要エントリー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511627/13475530/imgrc0149195552.jpg?_ex=600x600" alt="IROTEC マルチポジションベンチ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">10 14 20 00  P10倍 要エントリー</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">IROTEC マルチポジションベンチ</h4>
 
-<div class="live-price-box" data-product-key="10-14-20-00--p10倍-要エントリー" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div class="live-price-box" data-product-key="irotec-マルチポジションベンチ" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥31,900</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D10%252014%252020%252000%2520P10%25E5%2580%258D%2520%25E8%25A6%2581%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DIROTEC%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%259D%25E3%2582%25B8%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000025%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D10%252014%252020%252000%2520P10%25E5%2580%258D%2520%25E8%25A6%2581%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIROTEC%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%259D%25E3%2582%25B8%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -88,7 +85,7 @@ sidebarProducts:
 床で行う自重トレーニングやフロアプレスと比較して、マルチポジションベンチを導入することで得られる解剖学的メリットは以下の3点に集約されます。
 
 ### 1. 胸郭の拡張とフルレンジ・ストレッチ
-ベンチの上に背中を預けることで、肩甲骨をしっかりと内転・下制（寄せて下げる）させ、胸を張った正しいアーチを作ることができます。肘が背中側まで深く下がるため、大胸筋の筋線維が極限まで引き伸ばされ、筋肥大のシグナルが劇的に高まります。
+ベンチの上に背中を預けることで、肩甲骨をしっかりと内転・下制（寄せて下げる）させ、胸を張った正しいアーチを作ることができます。肘が背中側まで深く下がるため、大胸筋の筋線維が大きく引き伸ばされ、トレーニング効果を高めるストレッチ刺激が得られます。
 
 ### 2. 角度調整による「大胸筋上部・中部・下部」のターゲット分け
 大胸筋は鎖骨部（上部）、胸肋部（中部）、腹部（下部）に分かれて走行しています。フラット（0度）だけでなく、インクライン（30度〜45度）で上部を、デクライン（-15度）で下部を狙い分けることで、鎖骨下から盛り上がる立体的な大胸筋をデザインできます。
@@ -173,7 +170,7 @@ IROTECの最大の特徴は、単なるダンベル用ベンチにとどまら�
 | <strong>シート品質</strong> | <strong>高密度チップウレタン（硬め）</strong> | ビニールレザー（標準） | 薄手ウレタン（沈み込みあり） |
 | <strong>脚トレ・腕トレ拡張</strong> | なし（ダンベル種目特化） | <strong>あり（レッグ・カール台付属）</strong> | なし |
 | <strong>折りたたみ収納性</strong> | <strong>◎（厚さ約24cmに折りたたみ可）</strong> | ×（据え置き専用） | ○（折りたたみ可） |
-| <strong>価格帯の目安</strong> | 約18,800円 | 約31,900円 | <strong>約6,580円（最安）</strong> |
+| <strong>価格帯・在庫</strong> | 各ショップで確認 | 各ショップで確認 | 各ショップで確認 |
 
 ---
 
@@ -217,6 +214,6 @@ A3: オーバースペックではありません。片手30kgずつのダンベ
 
 ---
 
-自宅に信頼できるマルチポジションベンチが1台加わるだけで、これまでのダンベルトレーニングの効き目が劇的に変わり、胸や肩の筋肥大スピードが目に見えて加速します。
+自宅に信頼できるマルチポジションベンチが1台加わるだけで、これまでのダンベルトレーニングの効き目が大きく変わり、胸や肩への刺激の質とトレーニング効率を高められます。
 
 自分のトレーニング目標と部屋のスペースに最適な一台を選び、理想のホームジム環境で最高のワークアウトを体感してください。

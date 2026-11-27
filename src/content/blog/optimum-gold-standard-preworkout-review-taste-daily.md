@@ -4,7 +4,7 @@ description: 'ゴールドスタンダード プレワークアウトのブル�
 pubDate: '2026-09-14'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/mail/231209/20267016_01.jpg?_ex=600x600'
 genre: 'workout'
-mediaType: 'gear'
+mediaType: 'supplement'
 tags:
   - 'angle:taste-daily'
 faq:
@@ -15,10 +15,9 @@ faq:
   - question: 'ブルーベリーレモネード味以外にもおすすめのフレーバーはありますか？'
     answer: 'ゴールドスタンダード プレワークアウトには、他にも多くのフレーバーがあります。もしブルーベリーレモネード味が合わないと感じたら、ストロベリーやフルーツパンチなど、他の定番フレーバーも試してみると良いでしょう。'
 sidebarProducts:
-  - title: 'ゴールドスタンダード プレワークアウト iHerb 公式 Optimum Nutrition'
+  - title: 'Optimum Nutrition ゴールドスタンダード プレワークアウト'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00u5mk1.ve2q540b.g00u5mk1.ve2q6f3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiherb-official%2F116766%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiherb-official%2Fi%2F10010143%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/mail/231209/20267016_01.jpg?_ex=600x600'
-    price: 7578
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -35,7 +34,7 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="ゴールドスタンダード-プレワークアウト-iherb-公式" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥7,578</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
@@ -70,23 +69,23 @@ sidebarProducts:
 
 ベータアラニンは、筋肉の疲労感を軽減し、より長い時間パフォーマンスを維持するのに役立つ成分です。摂取後、皮膚がピリピリする「パレステジア」を感じることがありますが、これは一時的なもので心配ありません。
 
-L-シトルリンは、血流を促進し、トレーニング中に筋肉がパンプアップする感覚をサポートしてくれます。これらの成分が相互に作用し、トレーニングの質を向上させることが期待されます。特に、疲れている日の「あと一押し」が欲しい時に助けられています。
+L-シトルリンは、血流をサポートし、トレーニング中のパンプ感やコンディション維持に役立てられる成分です。これらの成分が相互に作用し、トレーニングの質を高める一助となることが期待されます。特に、疲れている日のコンディションを整えたい場面で選ばれています。
 
 ## フレーバーの特性検証：ブルーベリーレモネード味の味わいと継続性
 
-プレワークアウト選びで、味は非常に重要なポイントですよね。どんなに良い成分でも、美味しくなければ続けるのは難しいものです。
+プレワークアウト選びで、味は非常に重要なポイントです。どんなに良い成分でも、飲みづらければ続けるのは難しいものです。
 
-このゴールドスタンダード プレワークアウトのブルーベリーレモネード味は、個人的にはかなりヒットでした。
+このゴールドスタンダード プレワークアウトのブルーベリーレモネード味は、すっきりとした飲みやすさが特徴のフレーバーです。
 
-まず、溶けやすさに関しては文句なしです。シェイカーに水とパウダーを入れて数回振るだけで、サッと混ざりダマになることはほとんどありません。
+まず、溶けやすさに関して優れた使いやすさを備えています。シェイカーに水とパウダーを入れて数回振るだけで混ざりやすく、ダマを抑えやすい仕様です。
 
-泡立ちも少なく、ストレスなく飲めるのは地味に嬉しい点です。トレーニング前は時間がないことが多いので、すぐに準備できるのは大きなメリットだと感じます。
+泡立ちも抑えられており、準備に手間がかかりにくい点はトレーニング前の限られた時間でも大きな利点となります。
 
-肝心の味は、ブルーベリーのフルーティーな香りとレモネードの爽やかな酸味が絶妙に調和しています。甘さも控えめで、後味もすっきりしているため、トレーニング中に喉が乾いた状態でもゴクゴクと飲めます。
+味の面では、ブルーベリーのフルーティーな香りとレモネードの爽やかな酸味が調和しています。甘さも控えめで、後味もすっきりしているため、トレーニング前後に飲みやすいバランスです。
 
-夏場は、冷たい水で割って飲む方法が適しています。飽きがこない味なので、毎日無理なく続けられるでしょう。
+夏場は、冷たい水で割って飲む方法が適しています。飽きがこない風味なので、継続して取り入れやすい設計です。
 
-1回あたりのコストは、30回分で4,480円なので約149円。コーヒーチェーンのドリンク一杯よりも安価に、トレーニングの質を高められると考えると、コスパは非常に良いと言えます。炭酸水で割ることで、気分転換にもなり、風味も良好です。
+1容器あたり約30回分を目安に設計されており、コーヒーショップのドリンク感覚で比較しても計画的に取り入れやすいサイズ構成です（最新価格は各ショップでご確認ください）。炭酸水で割ることで爽快感を高めて楽しむこともできます。
 
 ## どんな人に響く？プレワークアウトの適切な選び方
 
@@ -102,7 +101,7 @@ Optimum NutritionのGold Standard Pre-Workoutは、特に以下のような人�
 
 | 項目 | 詳細 |
 | --- | --- |
-| 価格 | 4,480円 |
+| 価格・在庫 | 最新価格はリンク先で確認 |
 | メーカー | Optimum Nutrition |
 | 型番/仕様 | 30回分（約300g）、ブルーベリーレモネード味、主要成分：カフェイン、クレアチン、ベータアラニン、L-シトルリン |
 | 主な特徴 | 世界的ブランド「ゴールドスタンダード」の信頼性、1回あたり約175mgのカフェイン配合、トレーニング時の集中力と持久力をサポート、水に溶けやすく飲みやすい |
@@ -121,7 +120,7 @@ Optimum NutritionのGold Standard Pre-Workoutは、特に以下のような人�
 
 また、効果を早く得たいからといって、推奨摂取量を超えて飲むのは絶対に避けてください。過剰摂取は健康を害する恐れがあります。
 
-<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/pre-workout-caffeine-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">プレワークアウト カフェインおすすめ人気ランキング4選を徹底比較！</a> ／ <a href="/blog/speedshape-fat-burn-review-taste-daily/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">運動苦手でも理想の体に？スピードシェイプ®で変わる日常と脂肪燃焼の秘密</a></p>
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/pre-workout-caffeine-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">プレワークアウト カフェインおすすめ人気ランキング4選を徹底比較！</a> ／ <a href="/blog/speedshape-fat-burn-review-taste-daily/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">運動習慣と食事管理を支える「スピードシェイプ® フォーメン シュット」成分と継続性の解説</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #16a34a; border-radius: 8px; background: #f0fdf4; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ゴールドスタンダード プレワークアウト iHerb 公式</strong></div>
